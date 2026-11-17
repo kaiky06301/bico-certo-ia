@@ -1,0 +1,258 @@
+{
+  "modelo_escolhido": "SVM linear",
+  "kfold_comum_svm_otimista": 1.0,
+  "validacao_cruzada": {
+    "KNN k=1": {
+      "media": 0.5306,
+      "desvio": 0.0663
+    },
+    "KNN k=3": {
+      "media": 0.5317,
+      "desvio": 0.0602
+    },
+    "KNN k=5": {
+      "media": 0.5566,
+      "desvio": 0.0642
+    },
+    "KNN k=7": {
+      "media": 0.5734,
+      "desvio": 0.056
+    },
+    "KNN k=9": {
+      "media": 0.5847,
+      "desvio": 0.0547
+    },
+    "KNN k=11": {
+      "media": 0.5813,
+      "desvio": 0.0526
+    },
+    "KNN k=15": {
+      "media": 0.579,
+      "desvio": 0.0487
+    },
+    "SVM linear": {
+      "media": 0.7239,
+      "desvio": 0.0623
+    }
+  },
+  "acuracia_validacao_manual": {
+    "KNN k=1": 0.8889,
+    "KNN k=3": 0.8889,
+    "KNN k=5": 0.8889,
+    "KNN k=7": 0.8889,
+    "KNN k=9": 0.9167,
+    "KNN k=11": 0.8889,
+    "KNN k=15": 0.8889,
+    "SVM linear": 0.9306
+  },
+  "relatorio_validacao_manual": {
+    "Eletrica": {
+      "precision": 0.75,
+      "recall": 0.75,
+      "f1-score": 0.75,
+      "support": 8.0
+    },
+    "Encanamento": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "Limpeza": {
+      "precision": 1.0,
+      "recall": 0.875,
+      "f1-score": 0.9333333333333333,
+      "support": 8.0
+    },
+    "Marceneiro": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "Mecanico": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "Montagem de moveis": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "Pedreiro": {
+      "precision": 0.875,
+      "recall": 0.875,
+      "f1-score": 0.875,
+      "support": 8.0
+    },
+    "Pequenos reparos": {
+      "precision": 0.8888888888888888,
+      "recall": 1.0,
+      "f1-score": 0.9411764705882353,
+      "support": 8.0
+    },
+    "Pintura": {
+      "precision": 0.875,
+      "recall": 0.875,
+      "f1-score": 0.875,
+      "support": 8.0
+    },
+    "accuracy": 0.9305555555555556,
+    "macro avg": {
+      "precision": 0.9320987654320988,
+      "recall": 0.9305555555555556,
+      "f1-score": 0.9305010893246188,
+      "support": 72.0
+    },
+    "weighted avg": {
+      "precision": 0.9320987654320988,
+      "recall": 0.9305555555555556,
+      "f1-score": 0.9305010893246188,
+      "support": 72.0
+    }
+  },
+  "matriz_confusao": {
+    "rotulos": [
+      "Eletrica",
+      "Encanamento",
+      "Limpeza",
+      "Marceneiro",
+      "Mecanico",
+      "Montagem de moveis",
+      "Pedreiro",
+      "Pequenos reparos",
+      "Pintura"
+    ],
+    "valores": [
+      [
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7
+      ]
+    ]
+  },
+  "erros_validacao_manual": [
+    {
+      "descricao": "o fio do poste até a casa tá soltando estalo",
+      "esperado": "Eletrica",
+      "previsto": "Pedreiro"
+    },
+    {
+      "descricao": "quero colocar um lustre novo na sala",
+      "esperado": "Eletrica",
+      "previsto": "Pequenos reparos"
+    },
+    {
+      "descricao": "janelas do prédio estão encardidas",
+      "esperado": "Limpeza",
+      "previsto": "Pintura"
+    },
+    {
+      "descricao": "o teto ficou amarelado de gordura e fumaça",
+      "esperado": "Pintura",
+      "previsto": "Eletrica"
+    },
+    {
+      "descricao": "trinca no teto da sala que só aumenta",
+      "esperado": "Pedreiro",
+      "previsto": "Eletrica"
+    }
+  ]
+}
