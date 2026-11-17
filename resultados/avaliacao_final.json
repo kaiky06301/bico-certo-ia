@@ -1,0 +1,496 @@
+{
+  "classificacao": [
+    {
+      "abordagem": "Regras (palavras-chave)",
+      "acuracia_geral": 0.6833,
+      "acuracia_no_escopo": 0.6481,
+      "fora_do_escopo_detectado": "6/6",
+      "tempo_medio_ms": 0.0,
+      "erros": [
+        {
+          "descricao": "levei choque ao encostar na geladeira",
+          "esperado": "Eletrica",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "o sensor de presença da escada não acende",
+          "esperado": "Eletrica",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "metade das tomadas da casa não funciona",
+          "esperado": "Eletrica",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "o banheiro está com goteira vindo do forro quando alguém toma banho em cima",
+          "esperado": "Encanamento",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "a água do chuveiro sai fraquinha, quase pingando",
+          "esperado": "Encanamento",
+          "previsto": "Eletrica"
+        },
+        {
+          "descricao": "preciso de faxineira para o escritório pequeno",
+          "esperado": "Limpeza",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "o carpete do quarto está com cheiro de cachorro",
+          "esperado": "Limpeza",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "a churrasqueira e o piso do quintal estão cheios de gordura e limo",
+          "esperado": "Limpeza",
+          "previsto": "Pedreiro"
+        },
+        {
+          "descricao": "passar pano e aspirar a casa toda",
+          "esperado": "Limpeza",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "pôr um suporte articulado para o monitor na parede",
+          "esperado": "Pequenos reparos",
+          "previsto": "Pintura"
+        },
+        {
+          "descricao": "trocar a borracha da porta da geladeira",
+          "esperado": "Pequenos reparos",
+          "previsto": "Marceneiro"
+        },
+        {
+          "descricao": "fixar o espelho grande do banheiro",
+          "esperado": "Pequenos reparos",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "colocar um varal de chão e prateleiras na lavanderia",
+          "esperado": "Pequenos reparos",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "o carrinho do portão de correr saiu do trilho",
+          "esperado": "Pequenos reparos",
+          "previsto": "Pintura"
+        },
+        {
+          "descricao": "fazer uma rampa de cimento na entrada para cadeira de rodas",
+          "esperado": "Pedreiro",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "o degrau da escada de concreto quebrou",
+          "esperado": "Pedreiro",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "preciso fechar um buraco grande na parede",
+          "esperado": "Pedreiro",
+          "previsto": "Pintura"
+        },
+        {
+          "descricao": "a porta do guarda-roupa de madeira maciça desalinhou",
+          "esperado": "Marceneiro",
+          "previsto": "Montagem de moveis"
+        },
+        {
+          "descricao": "o assoalho de taco está soltando",
+          "esperado": "Marceneiro",
+          "previsto": "FORA_DO_ESCOPO"
+        }
+      ]
+    },
+    {
+      "abordagem": "ML (TF-IDF + SVM)",
+      "acuracia_geral": 0.7333,
+      "acuracia_no_escopo": 0.7407,
+      "fora_do_escopo_detectado": "4/6",
+      "tempo_medio_ms": 1.0,
+      "erros": [
+        {
+          "descricao": "levei choque ao encostar na geladeira",
+          "esperado": "Eletrica",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "preciso de faxineira para o escritório pequeno",
+          "esperado": "Limpeza",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "o carpete do quarto está com cheiro de cachorro",
+          "esperado": "Limpeza",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "a churrasqueira e o piso do quintal estão cheios de gordura e limo",
+          "esperado": "Limpeza",
+          "previsto": "Pedreiro"
+        },
+        {
+          "descricao": "passar pano e aspirar a casa toda",
+          "esperado": "Limpeza",
+          "previsto": "Eletrica"
+        },
+        {
+          "descricao": "quero uma parede com efeito cimento queimado só de tinta",
+          "esperado": "Pintura",
+          "previsto": "Pedreiro"
+        },
+        {
+          "descricao": "trocar a borracha da porta da geladeira",
+          "esperado": "Pequenos reparos",
+          "previsto": "Marceneiro"
+        },
+        {
+          "descricao": "fixar o espelho grande do banheiro",
+          "esperado": "Pequenos reparos",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "o carrinho do portão de correr saiu do trilho",
+          "esperado": "Pequenos reparos",
+          "previsto": "Marceneiro"
+        },
+        {
+          "descricao": "o muro do vizinho está inclinando para o meu lado",
+          "esperado": "Pedreiro",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "o degrau da escada de concreto quebrou",
+          "esperado": "Pedreiro",
+          "previsto": "Encanamento"
+        },
+        {
+          "descricao": "o assoalho de taco está soltando",
+          "esperado": "Marceneiro",
+          "previsto": "Pedreiro"
+        },
+        {
+          "descricao": "o ar-condicionado do carro parou de gelar",
+          "esperado": "Mecanico",
+          "previsto": "Eletrica"
+        },
+        {
+          "descricao": "preciso trocar a pastilha de freio",
+          "esperado": "Mecanico",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "quero pedir uma pizza de calabresa",
+          "esperado": "FORA_DO_ESCOPO",
+          "previsto": "Pedreiro"
+        },
+        {
+          "descricao": "estou com dor de dente",
+          "esperado": "FORA_DO_ESCOPO",
+          "previsto": "Encanamento"
+        }
+      ]
+    },
+    {
+      "abordagem": "LLM sozinho (qwen2.5:3b)",
+      "acuracia_geral": 0.7,
+      "acuracia_no_escopo": 0.6667,
+      "fora_do_escopo_detectado": "6/6",
+      "tempo_medio_ms": 339.6,
+      "erros": [
+        {
+          "descricao": "levei choque ao encostar na geladeira",
+          "esperado": "Eletrica",
+          "previsto": "Encanamento"
+        },
+        {
+          "descricao": "metade das tomadas da casa não funciona",
+          "esperado": "Eletrica",
+          "previsto": "Encanamento"
+        },
+        {
+          "descricao": "o portão de garagem está descascando a tinta",
+          "esperado": "Pintura",
+          "previsto": "Limpeza"
+        },
+        {
+          "descricao": "quero uma parede com efeito cimento queimado só de tinta",
+          "esperado": "Pintura",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "pôr um suporte articulado para o monitor na parede",
+          "esperado": "Pequenos reparos",
+          "previsto": "Eletrica"
+        },
+        {
+          "descricao": "trocar a borracha da porta da geladeira",
+          "esperado": "Pequenos reparos",
+          "previsto": "Encanamento"
+        },
+        {
+          "descricao": "instalar uma fechadura digital",
+          "esperado": "Pequenos reparos",
+          "previsto": "Eletrica"
+        },
+        {
+          "descricao": "fixar o espelho grande do banheiro",
+          "esperado": "Pequenos reparos",
+          "previsto": "Marceneiro"
+        },
+        {
+          "descricao": "colocar um varal de chão e prateleiras na lavanderia",
+          "esperado": "Pequenos reparos",
+          "previsto": "Montagem de moveis"
+        },
+        {
+          "descricao": "o carrinho do portão de correr saiu do trilho",
+          "esperado": "Pequenos reparos",
+          "previsto": "Encanamento"
+        },
+        {
+          "descricao": "quero trocar o azulejo antigo da cozinha",
+          "esperado": "Pedreiro",
+          "previsto": "Limpeza"
+        },
+        {
+          "descricao": "o degrau da escada de concreto quebrou",
+          "esperado": "Pedreiro",
+          "previsto": "Encanamento"
+        },
+        {
+          "descricao": "preciso fechar um buraco grande na parede",
+          "esperado": "Pedreiro",
+          "previsto": "Encanamento"
+        },
+        {
+          "descricao": "a gaveta da cozinha está caindo, a madeira cedeu",
+          "esperado": "Marceneiro",
+          "previsto": "Pedreiro"
+        },
+        {
+          "descricao": "fazer uma sapateira de madeira sob medida",
+          "esperado": "Marceneiro",
+          "previsto": "Montagem de moveis"
+        },
+        {
+          "descricao": "o assoalho de taco está soltando",
+          "esperado": "Marceneiro",
+          "previsto": "Pedreiro"
+        },
+        {
+          "descricao": "aplainar a porta que está pegando no batente",
+          "esperado": "Marceneiro",
+          "previsto": "Encanamento"
+        },
+        {
+          "descricao": "a moto está com a corrente frouxa",
+          "esperado": "Mecanico",
+          "previsto": "Encanamento"
+        }
+      ]
+    },
+    {
+      "abordagem": "Híbrido (ML + LLM)",
+      "acuracia_geral": 0.8333,
+      "acuracia_no_escopo": 0.8148,
+      "fora_do_escopo_detectado": "6/6",
+      "tempo_medio_ms": 224.4,
+      "erros": [
+        {
+          "descricao": "levei choque ao encostar na geladeira",
+          "esperado": "Eletrica",
+          "previsto": "Pequenos reparos"
+        },
+        {
+          "descricao": "o carpete do quarto está com cheiro de cachorro",
+          "esperado": "Limpeza",
+          "previsto": "FORA_DO_ESCOPO"
+        },
+        {
+          "descricao": "a churrasqueira e o piso do quintal estão cheios de gordura e limo",
+          "esperado": "Limpeza",
+          "previsto": "Pedreiro"
+        },
+        {
+          "descricao": "quero uma parede com efeito cimento queimado só de tinta",
+          "esperado": "Pintura",
+          "previsto": "Pedreiro"
+        },
+        {
+          "descricao": "o carrinho do portão de correr saiu do trilho",
+          "esperado": "Pequenos reparos",
+          "previsto": "Encanamento"
+        },
+        {
+          "descricao": "o muro do vizinho está inclinando para o meu lado",
+          "esperado": "Pedreiro",
+          "previsto": "Encanamento"
+        },
+        {
+          "descricao": "o degrau da escada de concreto quebrou",
+          "esperado": "Pedreiro",
+          "previsto": "Encanamento"
+        },
+        {
+          "descricao": "o assoalho de taco está soltando",
+          "esperado": "Marceneiro",
+          "previsto": "Pedreiro"
+        },
+        {
+          "descricao": "aplainar a porta que está pegando no batente",
+          "esperado": "Marceneiro",
+          "previsto": "Encanamento"
+        },
+        {
+          "descricao": "a moto está com a corrente frouxa",
+          "esperado": "Mecanico",
+          "previsto": "Encanamento"
+        }
+      ]
+    }
+  ],
+  "rag": {
+    "servicos_avaliados": 668,
+    "rag_erro_medio_reais": 59.1,
+    "rag_erro_medio_pct": 0.2006,
+    "sem_rag_erro_medio_reais": 102.7,
+    "sem_rag_erro_medio_pct": 0.3765
+  },
+  "geracao": [
+    {
+      "descricao": "o relógio de luz tá girando rápido demais mesmo com tudo desligado",
+      "categoria": "Eletrica",
+      "faixa": {
+        "minimo": 120,
+        "maximo": 150,
+        "mediana": 145,
+        "amostras": 5
+      },
+      "origem": "llm",
+      "orientacao": "O problema provavelmente é que sua lâmpada de relógio está quebrada e está girando muito rápido mesmo sem usar. A faixa de preço justo para esse serviço é entre R$ 120 e R$ 150. Antes de fechar, você deve perguntar ao prestador se ele pode garantir que a lâmpada será trocada e que o problema será resolvido."
+    },
+    {
+      "descricao": "o banheiro está com goteira vindo do forro quando alguém toma banho em cima",
+      "categoria": "Encanamento",
+      "faixa": {
+        "minimo": 305,
+        "maximo": 340,
+        "mediana": 330,
+        "amostras": 5
+      },
+      "origem": "llm",
+      "orientacao": "O problema é que o banheiro está com goteira vindo do forro quando alguém toma banho. A faixa de preço justo para esse serviço é entre R$ 305 e R$ 340. Ao contratar, você deve perguntar se o prestador vai usar equipamentos de proteção individual (EPI) devido ao possível risco de contato com água ou substâncias químicas."
+    },
+    {
+      "descricao": "preciso de faxineira para o escritório pequeno",
+      "categoria": "Limpeza",
+      "faixa": {
+        "minimo": 135,
+        "maximo": 185,
+        "mediana": 140,
+        "amostras": 5
+      },
+      "origem": "llm",
+      "orientacao": "O problema é que você precisa de uma faxineira para o seu escritório pequeno. A faixa de preço justo para esse serviço é entre R$ 135 e R$ 185. Antes de fechar com o prestador, você deve perguntar se ele tem experiência em escritórios pequenos ou se já fez faxina em locais sem muita mobília."
+    },
+    {
+      "descricao": "a parede da sala está com mancha de infiltração antiga, já secou, só falta pintar",
+      "categoria": "Pintura",
+      "faixa": {
+        "minimo": 395,
+        "maximo": 525,
+        "mediana": 490,
+        "amostras": 5
+      },
+      "origem": "llm",
+      "orientacao": "Você está enfrentando o problema de pintar uma parede com mancha de infiltração antiga que já secou. A faixa de preço justo para esse serviço está entre R$ 395 e R$ 525. Ao contratar, pergunte ao prestador como ele vai tratar a mancha para garantir que a nova pintura não fique com manchas também."
+    },
+    {
+      "descricao": "tenho uma estante e um painel para montar",
+      "categoria": "Montagem de moveis",
+      "faixa": {
+        "minimo": 100,
+        "maximo": 145,
+        "mediana": 135,
+        "amostras": 5
+      },
+      "origem": "llm",
+      "orientacao": "O seu problema é que você quer montar uma estante e um painel. A faixa de preço justo para esse serviço é entre R$ 100 e R$ 145. Ao contratar, você deve perguntar se o prestador pode confirmar se já tem experiência em montagem de estantes e painéis semelhantes."
+    },
+    {
+      "descricao": "pôr um suporte articulado para o monitor na parede",
+      "categoria": "Pequenos reparos",
+      "faixa": {
+        "minimo": 65,
+        "maximo": 95,
+        "mediana": 85,
+        "amostras": 5
+      },
+      "origem": "llm",
+      "orientacao": "O problema é você precisar fixar um suporte articulado para o monitor na parede. A faixa de preço justo para esse serviço é entre R$ 65 e R$ 95. Antes de fechar, você deve perguntar ao prestador se ele tem experiência em fixar suportes de monitor na parede."
+    },
+    {
+      "descricao": "o muro do vizinho está inclinando para o meu lado",
+      "categoria": "Encanamento",
+      "faixa": {
+        "minimo": 150,
+        "maximo": 345,
+        "mediana": 305,
+        "amostras": 5
+      },
+      "origem": "llm",
+      "orientacao": "O problema provavelmente é um encanamento ou vazamento. A faixa de preço justo para esse serviço é entre R$ 150 e R$ 345. Ao contratar, pergunte ao prestador se ele pode checar se há algum vazamento ou encanamento que possa estar causando o problema do muro inclinando."
+    },
+    {
+      "descricao": "a gaveta da cozinha está caindo, a madeira cedeu",
+      "categoria": "Marceneiro",
+      "faixa": {
+        "minimo": 195,
+        "maximo": 225,
+        "mediana": 200,
+        "amostras": 5
+      },
+      "origem": "llm",
+      "orientacao": "O problema é que a gaveta da sua cozinha está caindo e a madeira está cedendo. A faixa de preço justo para um serviço assim é entre R$ 195 e R$ 225. Ao contratar, você deve perguntar se o prestador pode garantir que a gaveta será reforçada adequadamente para evitar que isso aconteça novamente no futuro."
+    },
+    {
+      "descricao": "o carro está com cheiro de gasolina",
+      "categoria": "Mecanico",
+      "faixa": {
+        "minimo": 410,
+        "maximo": 440,
+        "mediana": 410,
+        "amostras": 5
+      },
+      "origem": "llm",
+      "orientacao": "O problema é que seu carro está com cheiro de gasolina. A faixa de preço justo para esse serviço é entre R$ 410 e R$ 440. Ao contratar, você deve perguntar se o mecânico pode garantir que não precisará de mais peças ou serviços adicionais."
+    }
+  ],
+  "falhas": [
+    {
+      "caso": "Ollama fora do ar",
+      "categoria": "Encanamento",
+      "origem": "padrao-falha-llm",
+      "ok": true
+    },
+    {
+      "caso": "Texto vazio",
+      "categoria": null,
+      "origem": "texto-insuficiente",
+      "ok": true
+    },
+    {
+      "caso": "Fora do escopo (pizza)",
+      "categoria": null,
+      "origem": "fora-do-escopo",
+      "ok": true
+    },
+    {
+      "caso": "Checagem barra valor inventado",
+      "ok": true
+    }
+  ]
+}
