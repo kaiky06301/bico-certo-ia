@@ -1,0 +1,61 @@
+descricao,categoria
+"o relógio de luz tá girando rápido demais mesmo com tudo desligado",Eletrica
+"levei choque ao encostar na geladeira",Eletrica
+"preciso puxar um ponto de energia para a garagem",Eletrica
+"a lâmpada estoura toda semana na mesma luminária",Eletrica
+"o sensor de presença da escada não acende",Eletrica
+"metade das tomadas da casa não funciona",Eletrica
+"o banheiro está com goteira vindo do forro quando alguém toma banho em cima",Encanamento
+"a água do chuveiro sai fraquinha, quase pingando",Encanamento
+"a pia do banheiro está com o cano solto embaixo",Encanamento
+"o filtro de parede está vazando na conexão",Encanamento
+"o ralo da cozinha está com cheiro horrível e devagar",Encanamento
+"a válvula de descarga ficou presa",Encanamento
+"preciso de faxineira para o escritório pequeno",Limpeza
+"lavar as cortinas e limpar o box do banheiro",Limpeza
+"o carpete do quarto está com cheiro de cachorro",Limpeza
+"a churrasqueira e o piso do quintal estão cheios de gordura e limo",Limpeza
+"quero uma limpeza caprichada antes de a família chegar",Limpeza
+"passar pano e aspirar a casa toda",Limpeza
+"a parede da sala está com mancha de infiltração antiga, já secou, só falta pintar",Pintura
+"quero pintar o quarto de azul",Pintura
+"o portão de garagem está descascando a tinta",Pintura
+"preciso de uma demão de tinta no corredor do prédio",Pintura
+"a pintura do teto está craquelando",Pintura
+"quero uma parede com efeito cimento queimado só de tinta",Pintura
+"tenho uma estante e um painel para montar",Montagem de moveis
+"o guarda-roupa chegou em umas vinte caixas",Montagem de moveis
+"preciso de ajuda pra montar a mesa de jantar e o aparador",Montagem de moveis
+"montar o roupeiro e a penteadeira do quarto do casal",Montagem de moveis
+"vieram as peças da cama de casal mas falta montar",Montagem de moveis
+"montar o rack da sala e o buffet",Montagem de moveis
+"pôr um suporte articulado para o monitor na parede",Pequenos reparos
+"trocar a borracha da porta da geladeira",Pequenos reparos
+"instalar uma fechadura digital",Pequenos reparos
+"fixar o espelho grande do banheiro",Pequenos reparos
+"colocar um varal de chão e prateleiras na lavanderia",Pequenos reparos
+"o carrinho do portão de correr saiu do trilho",Pequenos reparos
+"o muro do vizinho está inclinando para o meu lado",Pedreiro
+"quero trocar o azulejo antigo da cozinha",Pedreiro
+"fazer uma rampa de cimento na entrada para cadeira de rodas",Pedreiro
+"o degrau da escada de concreto quebrou",Pedreiro
+"preciso fechar um buraco grande na parede",Pedreiro
+"quero colocar piso no quintal de terra",Pedreiro
+"a gaveta da cozinha está caindo, a madeira cedeu",Marceneiro
+"quero restaurar uma cadeira antiga de madeira",Marceneiro
+"a porta do guarda-roupa de madeira maciça desalinhou",Marceneiro
+"fazer uma sapateira de madeira sob medida",Marceneiro
+"o assoalho de taco está soltando",Marceneiro
+"aplainar a porta que está pegando no batente",Marceneiro
+"o carro está com cheiro de gasolina",Mecanico
+"a moto está com a corrente frouxa",Mecanico
+"o ar-condicionado do carro parou de gelar",Mecanico
+"o carro engasga quando acelero",Mecanico
+"preciso trocar a pastilha de freio",Mecanico
+"o motor da moto está batendo",Mecanico
+"quero pedir uma pizza de calabresa",FORA_DO_ESCOPO
+"preciso de um advogado para meu divórcio",FORA_DO_ESCOPO
+"aulas de violão para iniciante",FORA_DO_ESCOPO
+"estou com dor de dente",FORA_DO_ESCOPO
+"qual a previsão do tempo amanhã",FORA_DO_ESCOPO
+"quero adotar um gato",FORA_DO_ESCOPO
