@@ -1,0 +1,889 @@
+descricao,categoria,complexidade,grupo
+O quadro de energia está esquentando moro no térreo.,Eletrica,media,Eletrica-0
+Preciso de ajuda: o quadro de energia está esquentando.,Eletrica,media,Eletrica-0
+"Olá, o quadro de energia está esquentando é no fim de semana?",Eletrica,media,Eletrica-0
+"Por favor, o quadro de energia está esquentando quanto fica mais ou menos?",Eletrica,media,Eletrica-0
+"Por favor, o quadro de energia está esquentando quanto fica mais ou menos?",Eletrica,media,Eletrica-0
+"Olá, o quadro de energia está esquentando",Eletrica,media,Eletrica-0
+Preciso de ajuda: a energia da casa cai quando ligo o chuveiro.,Eletrica,media,Eletrica-1
+A energia da casa cai quando ligo o chuveiro alguém pode vir ver?,Eletrica,media,Eletrica-1
+"Por favor, a energia da casa cai quando ligo o chuveiro.",Eletrica,media,Eletrica-1
+"Oi, a energia da casa cai quando ligo o chuveiro",Eletrica,media,Eletrica-1
+"Por favor, a energia da casa cai quando ligo o chuveiro quanto fica mais ou menos?",Eletrica,media,Eletrica-1
+Urgente: a energia da casa cai quando ligo o chuveiro moro no térreo.,Eletrica,media,Eletrica-1
+"Olá, preciso trocar o interruptor e o espelho da tomada é no fim de semana?",Eletrica,baixa,Eletrica-2
+"Bom dia, preciso trocar o interruptor e o espelho da tomada moro no térreo.",Eletrica,baixa,Eletrica-2
+"Bom dia, preciso trocar o interruptor e o espelho da tomada é no fim de semana?",Eletrica,baixa,Eletrica-2
+Urgente: preciso trocar o interruptor e o espelho da tomada.,Eletrica,baixa,Eletrica-2
+Urgente: preciso trocar o interruptor e o espelho da tomada moro no térreo.,Eletrica,baixa,Eletrica-2
+Preciso trocar o interruptor e o espelho da tomada alguém pode vir ver?,Eletrica,baixa,Eletrica-2
+"Bom dia, quero instalar lustre, luminária e spots de led quanto fica mais ou menos?",Eletrica,media,Eletrica-3
+"Olá, quero instalar lustre, luminária e spots de led alguém pode vir ver?",Eletrica,media,Eletrica-3
+"Quero instalar lustre, luminária e spots de led moro no térreo.",Eletrica,media,Eletrica-3
+"Bom dia, quero instalar lustre, luminária e spots de led quanto fica mais ou menos?",Eletrica,media,Eletrica-3
+"Oi, quero instalar lustre, luminária e spots de led.",Eletrica,media,Eletrica-3
+"Oi, quero instalar lustre, luminária e spots de led quanto fica mais ou menos?",Eletrica,media,Eletrica-3
+"Por favor, a resistência do chuveiro queimou e só sai água gelada.",Eletrica,baixa,Eletrica-4
+"Oi, a resistência do chuveiro queimou e só sai água gelada quanto fica mais ou menos?",Eletrica,baixa,Eletrica-4
+"Oi, a resistência do chuveiro queimou e só sai água gelada alguém pode vir ver?",Eletrica,baixa,Eletrica-4
+"Por favor, a resistência do chuveiro queimou e só sai água gelada é no fim de semana?",Eletrica,baixa,Eletrica-4
+Preciso de ajuda: a resistência do chuveiro queimou e só sai água gelada quanto fica mais ou menos?,Eletrica,baixa,Eletrica-4
+Preciso de ajuda: a resistência do chuveiro queimou e só sai água gelada,Eletrica,baixa,Eletrica-4
+"Preciso de ajuda: a fiação está velha, esquentando e com cheiro de queimado o quanto antes.",Eletrica,alta,Eletrica-5
+"Por favor, a fiação está velha, esquentando e com cheiro de queimado hoje.",Eletrica,alta,Eletrica-5
+"Por favor, a fiação está velha, esquentando e com cheiro de queimado",Eletrica,alta,Eletrica-5
+"Urgente: a fiação está velha, esquentando e com cheiro de queimado.",Eletrica,alta,Eletrica-5
+"Urgente: a fiação está velha, esquentando e com cheiro de queimado é no fim de semana?",Eletrica,alta,Eletrica-5
+"Oi, a fiação está velha, esquentando e com cheiro de queimado hoje.",Eletrica,alta,Eletrica-5
+"Oi, preciso de um eletricista para instalar o padrão de energia o quanto antes.",Eletrica,alta,Eletrica-6
+"Por favor, preciso de um eletricista para instalar o padrão de energia.",Eletrica,alta,Eletrica-6
+Urgente: preciso de um eletricista para instalar o padrão de energia quanto fica mais ou menos?,Eletrica,alta,Eletrica-6
+Urgente: preciso de um eletricista para instalar o padrão de energia quanto fica mais ou menos?,Eletrica,alta,Eletrica-6
+Urgente: preciso de um eletricista para instalar o padrão de energia alguém pode vir ver?,Eletrica,alta,Eletrica-6
+Preciso de ajuda: preciso de um eletricista para instalar o padrão de energia é no fim de semana?,Eletrica,alta,Eletrica-6
+Urgente: a campainha e o interfone pararam de funcionar alguém pode vir ver?,Eletrica,baixa,Eletrica-7
+Preciso de ajuda: a campainha e o interfone pararam de funcionar quanto fica mais ou menos?,Eletrica,baixa,Eletrica-7
+"Por favor, a campainha e o interfone pararam de funcionar é no fim de semana?",Eletrica,baixa,Eletrica-7
+"Oi, a campainha e o interfone pararam de funcionar o quanto antes.",Eletrica,baixa,Eletrica-7
+"Bom dia, a campainha e o interfone pararam de funcionar alguém pode vir ver?",Eletrica,baixa,Eletrica-7
+A campainha e o interfone pararam de funcionar,Eletrica,baixa,Eletrica-7
+"Olá, a tomada da cozinha parou de funcionar quanto fica mais ou menos?",Eletrica,baixa,Eletrica-8
+"Por favor, a tomada da cozinha parou de funcionar quanto fica mais ou menos?",Eletrica,baixa,Eletrica-8
+"Bom dia, a tomada da cozinha parou de funcionar o quanto antes.",Eletrica,baixa,Eletrica-8
+"Bom dia, a tomada da cozinha parou de funcionar quanto fica mais ou menos?",Eletrica,baixa,Eletrica-8
+"Oi, a tomada da cozinha parou de funcionar quanto fica mais ou menos?",Eletrica,baixa,Eletrica-8
+"Por favor, a tomada da cozinha parou de funcionar é no fim de semana?",Eletrica,baixa,Eletrica-8
+Preciso de ajuda: o disjuntor cai toda hora,Eletrica,media,Eletrica-9
+"Por favor, o disjuntor cai toda hora alguém pode vir ver?",Eletrica,media,Eletrica-9
+"Bom dia, o disjuntor cai toda hora quanto fica mais ou menos?",Eletrica,media,Eletrica-9
+"Por favor, o disjuntor cai toda hora.",Eletrica,media,Eletrica-9
+"Oi, o disjuntor cai toda hora alguém pode vir ver?",Eletrica,media,Eletrica-9
+"Oi, o disjuntor cai toda hora hoje.",Eletrica,media,Eletrica-9
+"Oi, o chuveiro elétrico queimou a resistência quanto fica mais ou menos?",Eletrica,baixa,Eletrica-10
+O chuveiro elétrico queimou a resistência alguém pode vir ver?,Eletrica,baixa,Eletrica-10
+"Oi, o chuveiro elétrico queimou a resistência moro no térreo.",Eletrica,baixa,Eletrica-10
+O chuveiro elétrico queimou a resistência o quanto antes.,Eletrica,baixa,Eletrica-10
+Urgente: o chuveiro elétrico queimou a resistência é no fim de semana?,Eletrica,baixa,Eletrica-10
+"Olá, o chuveiro elétrico queimou a resistência quanto fica mais ou menos?",Eletrica,baixa,Eletrica-10
+Saiu faísca do interruptor da sala.,Eletrica,media,Eletrica-11
+Saiu faísca do interruptor da sala quanto fica mais ou menos?,Eletrica,media,Eletrica-11
+Preciso de ajuda: saiu faísca do interruptor da sala.,Eletrica,media,Eletrica-11
+Preciso de ajuda: saiu faísca do interruptor da sala o quanto antes.,Eletrica,media,Eletrica-11
+"Olá, saiu faísca do interruptor da sala.",Eletrica,media,Eletrica-11
+Preciso de ajuda: saiu faísca do interruptor da sala,Eletrica,media,Eletrica-11
+"Por favor, preciso instalar um ventilador de teto alguém pode vir ver?",Eletrica,media,Eletrica-12
+Urgente: preciso instalar um ventilador de teto moro no térreo.,Eletrica,media,Eletrica-12
+"Olá, preciso instalar um ventilador de teto",Eletrica,media,Eletrica-12
+"Bom dia, preciso instalar um ventilador de teto quanto fica mais ou menos?",Eletrica,media,Eletrica-12
+Urgente: preciso instalar um ventilador de teto hoje.,Eletrica,media,Eletrica-12
+Preciso de ajuda: preciso instalar um ventilador de teto o quanto antes.,Eletrica,media,Eletrica-12
+"Oi, a luz do quarto fica piscando hoje.",Eletrica,baixa,Eletrica-13
+Preciso de ajuda: a luz do quarto fica piscando alguém pode vir ver?,Eletrica,baixa,Eletrica-13
+A luz do quarto fica piscando é no fim de semana?,Eletrica,baixa,Eletrica-13
+Urgente: a luz do quarto fica piscando hoje.,Eletrica,baixa,Eletrica-13
+"Olá, a luz do quarto fica piscando alguém pode vir ver?",Eletrica,baixa,Eletrica-13
+Preciso de ajuda: a luz do quarto fica piscando é no fim de semana?,Eletrica,baixa,Eletrica-13
+"Oi, deu curto-circuito e metade da casa ficou sem energia hoje.",Eletrica,alta,Eletrica-14
+Preciso de ajuda: deu curto-circuito e metade da casa ficou sem energia o quanto antes.,Eletrica,alta,Eletrica-14
+"Oi, deu curto-circuito e metade da casa ficou sem energia",Eletrica,alta,Eletrica-14
+Deu curto-circuito e metade da casa ficou sem energia é no fim de semana?,Eletrica,alta,Eletrica-14
+Deu curto-circuito e metade da casa ficou sem energia,Eletrica,alta,Eletrica-14
+"Por favor, deu curto-circuito e metade da casa ficou sem energia moro no térreo.",Eletrica,alta,Eletrica-14
+Urgente: quero trocar a fiação antiga do apartamento moro no térreo.,Eletrica,alta,Eletrica-15
+"Por favor, quero trocar a fiação antiga do apartamento",Eletrica,alta,Eletrica-15
+Quero trocar a fiação antiga do apartamento quanto fica mais ou menos?,Eletrica,alta,Eletrica-15
+"Bom dia, quero trocar a fiação antiga do apartamento alguém pode vir ver?",Eletrica,alta,Eletrica-15
+"Oi, quero trocar a fiação antiga do apartamento moro no térreo.",Eletrica,alta,Eletrica-15
+Quero trocar a fiação antiga do apartamento quanto fica mais ou menos?,Eletrica,alta,Eletrica-15
+"Oi, preciso instalar uma tomada nova para o ar-condicionado hoje.",Eletrica,media,Eletrica-16
+"Olá, preciso instalar uma tomada nova para o ar-condicionado o quanto antes.",Eletrica,media,Eletrica-16
+"Oi, preciso instalar uma tomada nova para o ar-condicionado moro no térreo.",Eletrica,media,Eletrica-16
+"Oi, preciso instalar uma tomada nova para o ar-condicionado o quanto antes.",Eletrica,media,Eletrica-16
+Urgente: preciso instalar uma tomada nova para o ar-condicionado.,Eletrica,media,Eletrica-16
+Preciso de ajuda: preciso instalar uma tomada nova para o ar-condicionado é no fim de semana?,Eletrica,media,Eletrica-16
+A lâmpada do banheiro não acende mesmo trocando o quanto antes.,Eletrica,baixa,Eletrica-17
+Urgente: a lâmpada do banheiro não acende mesmo trocando hoje.,Eletrica,baixa,Eletrica-17
+A lâmpada do banheiro não acende mesmo trocando,Eletrica,baixa,Eletrica-17
+"Oi, a lâmpada do banheiro não acende mesmo trocando o quanto antes.",Eletrica,baixa,Eletrica-17
+"Oi, a lâmpada do banheiro não acende mesmo trocando",Eletrica,baixa,Eletrica-17
+"Olá, a lâmpada do banheiro não acende mesmo trocando o quanto antes.",Eletrica,baixa,Eletrica-17
+"Por favor, o encanamento está com vazamento e a conta de água subiu hoje.",Encanamento,media,Encanamento-0
+"Olá, o encanamento está com vazamento e a conta de água subiu hoje.",Encanamento,media,Encanamento-0
+"Oi, o encanamento está com vazamento e a conta de água subiu alguém pode vir ver?",Encanamento,media,Encanamento-0
+"Oi, o encanamento está com vazamento e a conta de água subiu é no fim de semana?",Encanamento,media,Encanamento-0
+"Por favor, o encanamento está com vazamento e a conta de água subiu.",Encanamento,media,Encanamento-0
+"Oi, o encanamento está com vazamento e a conta de água subiu alguém pode vir ver?",Encanamento,media,Encanamento-0
+"Olá, o esgoto está voltando com mau cheiro moro no térreo.",Encanamento,media,Encanamento-1
+"Olá, o esgoto está voltando com mau cheiro alguém pode vir ver?",Encanamento,media,Encanamento-1
+"Oi, o esgoto está voltando com mau cheiro quanto fica mais ou menos?",Encanamento,media,Encanamento-1
+"Por favor, o esgoto está voltando com mau cheiro é no fim de semana?",Encanamento,media,Encanamento-1
+"Bom dia, o esgoto está voltando com mau cheiro quanto fica mais ou menos?",Encanamento,media,Encanamento-1
+"Olá, o esgoto está voltando com mau cheiro moro no térreo.",Encanamento,media,Encanamento-1
+Preciso de ajuda: a máquina de lavar está vazando pela mangueira quanto fica mais ou menos?,Encanamento,baixa,Encanamento-2
+"Oi, a máquina de lavar está vazando pela mangueira.",Encanamento,baixa,Encanamento-2
+Preciso de ajuda: a máquina de lavar está vazando pela mangueira alguém pode vir ver?,Encanamento,baixa,Encanamento-2
+"Por favor, a máquina de lavar está vazando pela mangueira.",Encanamento,baixa,Encanamento-2
+"Por favor, a máquina de lavar está vazando pela mangueira o quanto antes.",Encanamento,baixa,Encanamento-2
+"Olá, a máquina de lavar está vazando pela mangueira",Encanamento,baixa,Encanamento-2
+O sifão da pia quebrou quanto fica mais ou menos?,Encanamento,baixa,Encanamento-3
+Urgente: o sifão da pia quebrou moro no térreo.,Encanamento,baixa,Encanamento-3
+"Oi, o sifão da pia quebrou hoje.",Encanamento,baixa,Encanamento-3
+O sifão da pia quebrou moro no térreo.,Encanamento,baixa,Encanamento-3
+"Por favor, o sifão da pia quebrou hoje.",Encanamento,baixa,Encanamento-3
+"Bom dia, o sifão da pia quebrou o quanto antes.",Encanamento,baixa,Encanamento-3
+O tanque da lavanderia está entupido alguém pode vir ver?,Encanamento,baixa,Encanamento-4
+Preciso de ajuda: o tanque da lavanderia está entupido o quanto antes.,Encanamento,baixa,Encanamento-4
+Preciso de ajuda: o tanque da lavanderia está entupido alguém pode vir ver?,Encanamento,baixa,Encanamento-4
+Preciso de ajuda: o tanque da lavanderia está entupido alguém pode vir ver?,Encanamento,baixa,Encanamento-4
+Urgente: o tanque da lavanderia está entupido hoje.,Encanamento,baixa,Encanamento-4
+O tanque da lavanderia está entupido alguém pode vir ver?,Encanamento,baixa,Encanamento-4
+A boia da caixa d'água quebrou é no fim de semana?,Encanamento,baixa,Encanamento-5
+"Olá, a boia da caixa d'água quebrou.",Encanamento,baixa,Encanamento-5
+Urgente: a boia da caixa d'água quebrou,Encanamento,baixa,Encanamento-5
+"Por favor, a boia da caixa d'água quebrou moro no térreo.",Encanamento,baixa,Encanamento-5
+Urgente: a boia da caixa d'água quebrou hoje.,Encanamento,baixa,Encanamento-5
+Urgente: a boia da caixa d'água quebrou.,Encanamento,baixa,Encanamento-5
+Preciso de ajuda: tem água minando do chão do banheiro moro no térreo.,Encanamento,alta,Encanamento-6
+"Bom dia, tem água minando do chão do banheiro.",Encanamento,alta,Encanamento-6
+"Bom dia, tem água minando do chão do banheiro moro no térreo.",Encanamento,alta,Encanamento-6
+"Olá, tem água minando do chão do banheiro alguém pode vir ver?",Encanamento,alta,Encanamento-6
+"Bom dia, tem água minando do chão do banheiro.",Encanamento,alta,Encanamento-6
+Tem água minando do chão do banheiro é no fim de semana?,Encanamento,alta,Encanamento-6
+"Por favor, preciso de um encanador para trocar a torneira alguém pode vir ver?",Encanamento,baixa,Encanamento-7
+"Oi, preciso de um encanador para trocar a torneira",Encanamento,baixa,Encanamento-7
+Preciso de um encanador para trocar a torneira.,Encanamento,baixa,Encanamento-7
+"Olá, preciso de um encanador para trocar a torneira",Encanamento,baixa,Encanamento-7
+"Bom dia, preciso de um encanador para trocar a torneira.",Encanamento,baixa,Encanamento-7
+Preciso de um encanador para trocar a torneira moro no térreo.,Encanamento,baixa,Encanamento-7
+"Bom dia, a pia da cozinha está entupida quanto fica mais ou menos?",Encanamento,baixa,Encanamento-8
+Preciso de ajuda: a pia da cozinha está entupida,Encanamento,baixa,Encanamento-8
+"Oi, a pia da cozinha está entupida moro no térreo.",Encanamento,baixa,Encanamento-8
+Preciso de ajuda: a pia da cozinha está entupida o quanto antes.,Encanamento,baixa,Encanamento-8
+Preciso de ajuda: a pia da cozinha está entupida quanto fica mais ou menos?,Encanamento,baixa,Encanamento-8
+"Oi, a pia da cozinha está entupida.",Encanamento,baixa,Encanamento-8
+Urgente: está vazando água embaixo da pia moro no térreo.,Encanamento,media,Encanamento-9
+"Por favor, está vazando água embaixo da pia alguém pode vir ver?",Encanamento,media,Encanamento-9
+"Oi, está vazando água embaixo da pia alguém pode vir ver?",Encanamento,media,Encanamento-9
+"Por favor, está vazando água embaixo da pia moro no térreo.",Encanamento,media,Encanamento-9
+Está vazando água embaixo da pia é no fim de semana?,Encanamento,media,Encanamento-9
+Está vazando água embaixo da pia alguém pode vir ver?,Encanamento,media,Encanamento-9
+Urgente: a descarga não para de correr água moro no térreo.,Encanamento,baixa,Encanamento-10
+"Bom dia, a descarga não para de correr água.",Encanamento,baixa,Encanamento-10
+"Bom dia, a descarga não para de correr água é no fim de semana?",Encanamento,baixa,Encanamento-10
+"Bom dia, a descarga não para de correr água",Encanamento,baixa,Encanamento-10
+Preciso de ajuda: a descarga não para de correr água moro no térreo.,Encanamento,baixa,Encanamento-10
+"Olá, a descarga não para de correr água",Encanamento,baixa,Encanamento-10
+Urgente: o ralo do banheiro voltou a entupir.,Encanamento,baixa,Encanamento-11
+"Olá, o ralo do banheiro voltou a entupir.",Encanamento,baixa,Encanamento-11
+O ralo do banheiro voltou a entupir,Encanamento,baixa,Encanamento-11
+"Olá, o ralo do banheiro voltou a entupir moro no térreo.",Encanamento,baixa,Encanamento-11
+Preciso de ajuda: o ralo do banheiro voltou a entupir alguém pode vir ver?,Encanamento,baixa,Encanamento-11
+O ralo do banheiro voltou a entupir é no fim de semana?,Encanamento,baixa,Encanamento-11
+Preciso de ajuda: a torneira está pingando sem parar hoje.,Encanamento,baixa,Encanamento-12
+"Bom dia, a torneira está pingando sem parar é no fim de semana?",Encanamento,baixa,Encanamento-12
+"Oi, a torneira está pingando sem parar é no fim de semana?",Encanamento,baixa,Encanamento-12
+"Olá, a torneira está pingando sem parar é no fim de semana?",Encanamento,baixa,Encanamento-12
+Urgente: a torneira está pingando sem parar o quanto antes.,Encanamento,baixa,Encanamento-12
+"Por favor, a torneira está pingando sem parar hoje.",Encanamento,baixa,Encanamento-12
+"Olá, o cano estourou dentro da parede",Encanamento,alta,Encanamento-13
+Urgente: o cano estourou dentro da parede é no fim de semana?,Encanamento,alta,Encanamento-13
+"Bom dia, o cano estourou dentro da parede hoje.",Encanamento,alta,Encanamento-13
+"Olá, o cano estourou dentro da parede",Encanamento,alta,Encanamento-13
+O cano estourou dentro da parede alguém pode vir ver?,Encanamento,alta,Encanamento-13
+Preciso de ajuda: o cano estourou dentro da parede quanto fica mais ou menos?,Encanamento,alta,Encanamento-13
+"Oi, a caixa d'água está transbordando alguém pode vir ver?",Encanamento,media,Encanamento-14
+"Bom dia, a caixa d'água está transbordando hoje.",Encanamento,media,Encanamento-14
+Urgente: a caixa d'água está transbordando.,Encanamento,media,Encanamento-14
+"Por favor, a caixa d'água está transbordando hoje.",Encanamento,media,Encanamento-14
+Preciso de ajuda: a caixa d'água está transbordando,Encanamento,media,Encanamento-14
+Urgente: a caixa d'água está transbordando alguém pode vir ver?,Encanamento,media,Encanamento-14
+"Bom dia, o registro do chuveiro não fecha direito moro no térreo.",Encanamento,media,Encanamento-15
+O registro do chuveiro não fecha direito,Encanamento,media,Encanamento-15
+Urgente: o registro do chuveiro não fecha direito o quanto antes.,Encanamento,media,Encanamento-15
+"Oi, o registro do chuveiro não fecha direito",Encanamento,media,Encanamento-15
+"Olá, o registro do chuveiro não fecha direito hoje.",Encanamento,media,Encanamento-15
+Urgente: o registro do chuveiro não fecha direito é no fim de semana?,Encanamento,media,Encanamento-15
+Urgente: tem infiltração de água vindo do apartamento de cima moro no térreo.,Encanamento,alta,Encanamento-16
+"Por favor, tem infiltração de água vindo do apartamento de cima o quanto antes.",Encanamento,alta,Encanamento-16
+Preciso de ajuda: tem infiltração de água vindo do apartamento de cima alguém pode vir ver?,Encanamento,alta,Encanamento-16
+"Bom dia, tem infiltração de água vindo do apartamento de cima o quanto antes.",Encanamento,alta,Encanamento-16
+"Bom dia, tem infiltração de água vindo do apartamento de cima moro no térreo.",Encanamento,alta,Encanamento-16
+"Oi, tem infiltração de água vindo do apartamento de cima quanto fica mais ou menos?",Encanamento,alta,Encanamento-16
+Preciso de ajuda: o vaso sanitário está entupido quanto fica mais ou menos?,Encanamento,baixa,Encanamento-17
+"Por favor, o vaso sanitário está entupido alguém pode vir ver?",Encanamento,baixa,Encanamento-17
+"Olá, o vaso sanitário está entupido hoje.",Encanamento,baixa,Encanamento-17
+Urgente: o vaso sanitário está entupido é no fim de semana?,Encanamento,baixa,Encanamento-17
+"Olá, o vaso sanitário está entupido quanto fica mais ou menos?",Encanamento,baixa,Encanamento-17
+O vaso sanitário está entupido moro no térreo.,Encanamento,baixa,Encanamento-17
+"Por favor, preciso de uma diarista para faxina quinzenal é no fim de semana?",Limpeza,baixa,Limpeza-0
+"Por favor, preciso de uma diarista para faxina quinzenal",Limpeza,baixa,Limpeza-0
+Urgente: preciso de uma diarista para faxina quinzenal hoje.,Limpeza,baixa,Limpeza-0
+Preciso de uma diarista para faxina quinzenal alguém pode vir ver?,Limpeza,baixa,Limpeza-0
+"Bom dia, preciso de uma diarista para faxina quinzenal alguém pode vir ver?",Limpeza,baixa,Limpeza-0
+"Olá, preciso de uma diarista para faxina quinzenal.",Limpeza,baixa,Limpeza-0
+A casa está muito suja depois de uma festa o quanto antes.,Limpeza,media,Limpeza-1
+"Por favor, a casa está muito suja depois de uma festa alguém pode vir ver?",Limpeza,media,Limpeza-1
+Preciso de ajuda: a casa está muito suja depois de uma festa,Limpeza,media,Limpeza-1
+"Oi, a casa está muito suja depois de uma festa é no fim de semana?",Limpeza,media,Limpeza-1
+Preciso de ajuda: a casa está muito suja depois de uma festa hoje.,Limpeza,media,Limpeza-1
+Preciso de ajuda: a casa está muito suja depois de uma festa.,Limpeza,media,Limpeza-1
+"Quero limpar o fogão, o forno e a geladeira hoje.",Limpeza,baixa,Limpeza-2
+"Urgente: quero limpar o fogão, o forno e a geladeira é no fim de semana?",Limpeza,baixa,Limpeza-2
+"Bom dia, quero limpar o fogão, o forno e a geladeira alguém pode vir ver?",Limpeza,baixa,Limpeza-2
+"Bom dia, quero limpar o fogão, o forno e a geladeira",Limpeza,baixa,Limpeza-2
+"Urgente: quero limpar o fogão, o forno e a geladeira o quanto antes.",Limpeza,baixa,Limpeza-2
+"Olá, quero limpar o fogão, o forno e a geladeira alguém pode vir ver?",Limpeza,baixa,Limpeza-2
+"Bom dia, preciso tirar o pó e a sujeira depois da reforma alguém pode vir ver?",Limpeza,alta,Limpeza-3
+"Bom dia, preciso tirar o pó e a sujeira depois da reforma hoje.",Limpeza,alta,Limpeza-3
+"Oi, preciso tirar o pó e a sujeira depois da reforma o quanto antes.",Limpeza,alta,Limpeza-3
+Urgente: preciso tirar o pó e a sujeira depois da reforma,Limpeza,alta,Limpeza-3
+"Por favor, preciso tirar o pó e a sujeira depois da reforma quanto fica mais ou menos?",Limpeza,alta,Limpeza-3
+"Oi, preciso tirar o pó e a sujeira depois da reforma moro no térreo.",Limpeza,alta,Limpeza-3
+"Por favor, quero lavar o tapete e tirar manchas hoje.",Limpeza,baixa,Limpeza-4
+Urgente: quero lavar o tapete e tirar manchas,Limpeza,baixa,Limpeza-4
+"Olá, quero lavar o tapete e tirar manchas moro no térreo.",Limpeza,baixa,Limpeza-4
+Preciso de ajuda: quero lavar o tapete e tirar manchas hoje.,Limpeza,baixa,Limpeza-4
+"Olá, quero lavar o tapete e tirar manchas",Limpeza,baixa,Limpeza-4
+Quero lavar o tapete e tirar manchas,Limpeza,baixa,Limpeza-4
+"Por favor, preciso de faxina pesada no quintal e na garagem moro no térreo.",Limpeza,media,Limpeza-5
+Preciso de faxina pesada no quintal e na garagem moro no térreo.,Limpeza,media,Limpeza-5
+"Bom dia, preciso de faxina pesada no quintal e na garagem o quanto antes.",Limpeza,media,Limpeza-5
+Preciso de ajuda: preciso de faxina pesada no quintal e na garagem hoje.,Limpeza,media,Limpeza-5
+Preciso de ajuda: preciso de faxina pesada no quintal e na garagem o quanto antes.,Limpeza,media,Limpeza-5
+"Olá, preciso de faxina pesada no quintal e na garagem.",Limpeza,media,Limpeza-5
+"Bom dia, quero higienizar cadeiras e poltronas estofadas quanto fica mais ou menos?",Limpeza,media,Limpeza-6
+Quero higienizar cadeiras e poltronas estofadas.,Limpeza,media,Limpeza-6
+"Oi, quero higienizar cadeiras e poltronas estofadas alguém pode vir ver?",Limpeza,media,Limpeza-6
+Preciso de ajuda: quero higienizar cadeiras e poltronas estofadas alguém pode vir ver?,Limpeza,media,Limpeza-6
+Urgente: quero higienizar cadeiras e poltronas estofadas.,Limpeza,media,Limpeza-6
+"Bom dia, quero higienizar cadeiras e poltronas estofadas quanto fica mais ou menos?",Limpeza,media,Limpeza-6
+"Oi, preciso deixar o apartamento limpo para entregar as chaves.",Limpeza,media,Limpeza-7
+Preciso de ajuda: preciso deixar o apartamento limpo para entregar as chaves o quanto antes.,Limpeza,media,Limpeza-7
+"Por favor, preciso deixar o apartamento limpo para entregar as chaves moro no térreo.",Limpeza,media,Limpeza-7
+Urgente: preciso deixar o apartamento limpo para entregar as chaves quanto fica mais ou menos?,Limpeza,media,Limpeza-7
+Preciso de ajuda: preciso deixar o apartamento limpo para entregar as chaves moro no térreo.,Limpeza,media,Limpeza-7
+Preciso deixar o apartamento limpo para entregar as chaves.,Limpeza,media,Limpeza-7
+"Por favor, preciso de uma faxina completa na casa.",Limpeza,media,Limpeza-8
+"Por favor, preciso de uma faxina completa na casa quanto fica mais ou menos?",Limpeza,media,Limpeza-8
+"Por favor, preciso de uma faxina completa na casa alguém pode vir ver?",Limpeza,media,Limpeza-8
+"Bom dia, preciso de uma faxina completa na casa o quanto antes.",Limpeza,media,Limpeza-8
+"Olá, preciso de uma faxina completa na casa moro no térreo.",Limpeza,media,Limpeza-8
+"Oi, preciso de uma faxina completa na casa moro no térreo.",Limpeza,media,Limpeza-8
+"Bom dia, quero uma limpeza pós-obra no apartamento quanto fica mais ou menos?",Limpeza,alta,Limpeza-9
+"Oi, quero uma limpeza pós-obra no apartamento moro no térreo.",Limpeza,alta,Limpeza-9
+"Olá, quero uma limpeza pós-obra no apartamento o quanto antes.",Limpeza,alta,Limpeza-9
+"Por favor, quero uma limpeza pós-obra no apartamento quanto fica mais ou menos?",Limpeza,alta,Limpeza-9
+"Olá, quero uma limpeza pós-obra no apartamento moro no térreo.",Limpeza,alta,Limpeza-9
+"Por favor, quero uma limpeza pós-obra no apartamento moro no térreo.",Limpeza,alta,Limpeza-9
+"Oi, preciso limpar os vidros e as janelas é no fim de semana?",Limpeza,baixa,Limpeza-10
+"Olá, preciso limpar os vidros e as janelas hoje.",Limpeza,baixa,Limpeza-10
+"Oi, preciso limpar os vidros e as janelas hoje.",Limpeza,baixa,Limpeza-10
+"Oi, preciso limpar os vidros e as janelas alguém pode vir ver?",Limpeza,baixa,Limpeza-10
+"Bom dia, preciso limpar os vidros e as janelas.",Limpeza,baixa,Limpeza-10
+"Bom dia, preciso limpar os vidros e as janelas alguém pode vir ver?",Limpeza,baixa,Limpeza-10
+"Por favor, o sofá está muito sujo e precisa de higienização quanto fica mais ou menos?",Limpeza,media,Limpeza-11
+"Bom dia, o sofá está muito sujo e precisa de higienização hoje.",Limpeza,media,Limpeza-11
+Preciso de ajuda: o sofá está muito sujo e precisa de higienização alguém pode vir ver?,Limpeza,media,Limpeza-11
+"Olá, o sofá está muito sujo e precisa de higienização moro no térreo.",Limpeza,media,Limpeza-11
+"Olá, o sofá está muito sujo e precisa de higienização.",Limpeza,media,Limpeza-11
+"Bom dia, o sofá está muito sujo e precisa de higienização alguém pode vir ver?",Limpeza,media,Limpeza-11
+Preciso de ajuda: preciso organizar e limpar a casa antes da mudança quanto fica mais ou menos?,Limpeza,media,Limpeza-12
+Urgente: preciso organizar e limpar a casa antes da mudança é no fim de semana?,Limpeza,media,Limpeza-12
+"Oi, preciso organizar e limpar a casa antes da mudança",Limpeza,media,Limpeza-12
+Preciso de ajuda: preciso organizar e limpar a casa antes da mudança moro no térreo.,Limpeza,media,Limpeza-12
+Urgente: preciso organizar e limpar a casa antes da mudança é no fim de semana?,Limpeza,media,Limpeza-12
+"Bom dia, preciso organizar e limpar a casa antes da mudança.",Limpeza,media,Limpeza-12
+Urgente: quero uma diarista para a limpeza semanal quanto fica mais ou menos?,Limpeza,baixa,Limpeza-13
+Urgente: quero uma diarista para a limpeza semanal o quanto antes.,Limpeza,baixa,Limpeza-13
+"Oi, quero uma diarista para a limpeza semanal moro no térreo.",Limpeza,baixa,Limpeza-13
+Urgente: quero uma diarista para a limpeza semanal moro no térreo.,Limpeza,baixa,Limpeza-13
+Quero uma diarista para a limpeza semanal é no fim de semana?,Limpeza,baixa,Limpeza-13
+Urgente: quero uma diarista para a limpeza semanal hoje.,Limpeza,baixa,Limpeza-13
+A cozinha está engordurada e precisa de limpeza pesada alguém pode vir ver?,Limpeza,media,Limpeza-14
+Preciso de ajuda: a cozinha está engordurada e precisa de limpeza pesada alguém pode vir ver?,Limpeza,media,Limpeza-14
+"Olá, a cozinha está engordurada e precisa de limpeza pesada moro no térreo.",Limpeza,media,Limpeza-14
+Preciso de ajuda: a cozinha está engordurada e precisa de limpeza pesada é no fim de semana?,Limpeza,media,Limpeza-14
+"Por favor, a cozinha está engordurada e precisa de limpeza pesada quanto fica mais ou menos?",Limpeza,media,Limpeza-14
+"Por favor, a cozinha está engordurada e precisa de limpeza pesada quanto fica mais ou menos?",Limpeza,media,Limpeza-14
+"Bom dia, preciso limpar o colchão e o tapete",Limpeza,baixa,Limpeza-15
+Preciso limpar o colchão e o tapete o quanto antes.,Limpeza,baixa,Limpeza-15
+Urgente: preciso limpar o colchão e o tapete.,Limpeza,baixa,Limpeza-15
+Urgente: preciso limpar o colchão e o tapete alguém pode vir ver?,Limpeza,baixa,Limpeza-15
+"Bom dia, preciso limpar o colchão e o tapete",Limpeza,baixa,Limpeza-15
+"Por favor, preciso limpar o colchão e o tapete o quanto antes.",Limpeza,baixa,Limpeza-15
+"Por favor, quero trocar a cor da parede do quarto quanto fica mais ou menos?",Pintura,media,Pintura-0
+Preciso de ajuda: quero trocar a cor da parede do quarto alguém pode vir ver?,Pintura,media,Pintura-0
+Preciso de ajuda: quero trocar a cor da parede do quarto moro no térreo.,Pintura,media,Pintura-0
+Quero trocar a cor da parede do quarto o quanto antes.,Pintura,media,Pintura-0
+Preciso de ajuda: quero trocar a cor da parede do quarto,Pintura,media,Pintura-0
+Quero trocar a cor da parede do quarto hoje.,Pintura,media,Pintura-0
+"Bom dia, o muro está sujo e pichado e precisa de tinta o quanto antes.",Pintura,media,Pintura-1
+"Oi, o muro está sujo e pichado e precisa de tinta o quanto antes.",Pintura,media,Pintura-1
+Preciso de ajuda: o muro está sujo e pichado e precisa de tinta hoje.,Pintura,media,Pintura-1
+Urgente: o muro está sujo e pichado e precisa de tinta alguém pode vir ver?,Pintura,media,Pintura-1
+O muro está sujo e pichado e precisa de tinta é no fim de semana?,Pintura,media,Pintura-1
+Urgente: o muro está sujo e pichado e precisa de tinta hoje.,Pintura,media,Pintura-1
+A tinta está bolhando por causa da umidade,Pintura,media,Pintura-2
+"Bom dia, a tinta está bolhando por causa da umidade é no fim de semana?",Pintura,media,Pintura-2
+A tinta está bolhando por causa da umidade hoje.,Pintura,media,Pintura-2
+Preciso de ajuda: a tinta está bolhando por causa da umidade o quanto antes.,Pintura,media,Pintura-2
+"Oi, a tinta está bolhando por causa da umidade moro no térreo.",Pintura,media,Pintura-2
+"Bom dia, a tinta está bolhando por causa da umidade moro no térreo.",Pintura,media,Pintura-2
+"Bom dia, preciso de um pintor para pintar portas e janelas quanto fica mais ou menos?",Pintura,media,Pintura-3
+"Bom dia, preciso de um pintor para pintar portas e janelas quanto fica mais ou menos?",Pintura,media,Pintura-3
+"Bom dia, preciso de um pintor para pintar portas e janelas alguém pode vir ver?",Pintura,media,Pintura-3
+Preciso de um pintor para pintar portas e janelas quanto fica mais ou menos?,Pintura,media,Pintura-3
+"Olá, preciso de um pintor para pintar portas e janelas",Pintura,media,Pintura-3
+"Oi, preciso de um pintor para pintar portas e janelas moro no térreo.",Pintura,media,Pintura-3
+"Bom dia, o teto da cozinha está encardido de gordura e precisa pintar quanto fica mais ou menos?",Pintura,media,Pintura-4
+"Olá, o teto da cozinha está encardido de gordura e precisa pintar moro no térreo.",Pintura,media,Pintura-4
+"Bom dia, o teto da cozinha está encardido de gordura e precisa pintar é no fim de semana?",Pintura,media,Pintura-4
+"Bom dia, o teto da cozinha está encardido de gordura e precisa pintar o quanto antes.",Pintura,media,Pintura-4
+Preciso de ajuda: o teto da cozinha está encardido de gordura e precisa pintar,Pintura,media,Pintura-4
+"Por favor, o teto da cozinha está encardido de gordura e precisa pintar é no fim de semana?",Pintura,media,Pintura-4
+"Por favor, quero aplicar textura e grafiato na parede.",Pintura,media,Pintura-5
+Urgente: quero aplicar textura e grafiato na parede alguém pode vir ver?,Pintura,media,Pintura-5
+"Oi, quero aplicar textura e grafiato na parede.",Pintura,media,Pintura-5
+"Por favor, quero aplicar textura e grafiato na parede moro no térreo.",Pintura,media,Pintura-5
+"Oi, quero aplicar textura e grafiato na parede moro no térreo.",Pintura,media,Pintura-5
+Urgente: quero aplicar textura e grafiato na parede moro no térreo.,Pintura,media,Pintura-5
+"Bom dia, preciso de retoque de pintura nas paredes riscadas hoje.",Pintura,baixa,Pintura-6
+Preciso de retoque de pintura nas paredes riscadas hoje.,Pintura,baixa,Pintura-6
+"Por favor, preciso de retoque de pintura nas paredes riscadas alguém pode vir ver?",Pintura,baixa,Pintura-6
+"Por favor, preciso de retoque de pintura nas paredes riscadas é no fim de semana?",Pintura,baixa,Pintura-6
+Urgente: preciso de retoque de pintura nas paredes riscadas.,Pintura,baixa,Pintura-6
+Preciso de ajuda: preciso de retoque de pintura nas paredes riscadas o quanto antes.,Pintura,baixa,Pintura-6
+Quero envernizar o deck e pintar a varanda quanto fica mais ou menos?,Pintura,media,Pintura-7
+"Olá, quero envernizar o deck e pintar a varanda o quanto antes.",Pintura,media,Pintura-7
+"Oi, quero envernizar o deck e pintar a varanda hoje.",Pintura,media,Pintura-7
+Preciso de ajuda: quero envernizar o deck e pintar a varanda o quanto antes.,Pintura,media,Pintura-7
+"Por favor, quero envernizar o deck e pintar a varanda alguém pode vir ver?",Pintura,media,Pintura-7
+"Por favor, quero envernizar o deck e pintar a varanda quanto fica mais ou menos?",Pintura,media,Pintura-7
+"Olá, quero pintar a sala e o corredor moro no térreo.",Pintura,media,Pintura-8
+"Bom dia, quero pintar a sala e o corredor é no fim de semana?",Pintura,media,Pintura-8
+Preciso de ajuda: quero pintar a sala e o corredor o quanto antes.,Pintura,media,Pintura-8
+"Olá, quero pintar a sala e o corredor hoje.",Pintura,media,Pintura-8
+Urgente: quero pintar a sala e o corredor hoje.,Pintura,media,Pintura-8
+"Olá, quero pintar a sala e o corredor",Pintura,media,Pintura-8
+"Por favor, a parede está descascando e precisa de pintura",Pintura,media,Pintura-9
+"Bom dia, a parede está descascando e precisa de pintura alguém pode vir ver?",Pintura,media,Pintura-9
+"Por favor, a parede está descascando e precisa de pintura hoje.",Pintura,media,Pintura-9
+"Olá, a parede está descascando e precisa de pintura alguém pode vir ver?",Pintura,media,Pintura-9
+Preciso de ajuda: a parede está descascando e precisa de pintura moro no térreo.,Pintura,media,Pintura-9
+"Olá, a parede está descascando e precisa de pintura quanto fica mais ou menos?",Pintura,media,Pintura-9
+"Olá, preciso pintar o portão de ferro que enferrujou hoje.",Pintura,baixa,Pintura-10
+Urgente: preciso pintar o portão de ferro que enferrujou,Pintura,baixa,Pintura-10
+"Por favor, preciso pintar o portão de ferro que enferrujou hoje.",Pintura,baixa,Pintura-10
+Urgente: preciso pintar o portão de ferro que enferrujou hoje.,Pintura,baixa,Pintura-10
+"Oi, preciso pintar o portão de ferro que enferrujou quanto fica mais ou menos?",Pintura,baixa,Pintura-10
+Preciso de ajuda: preciso pintar o portão de ferro que enferrujou,Pintura,baixa,Pintura-10
+"Bom dia, quero pintar a casa inteira por dentro o quanto antes.",Pintura,alta,Pintura-11
+Preciso de ajuda: quero pintar a casa inteira por dentro moro no térreo.,Pintura,alta,Pintura-11
+Preciso de ajuda: quero pintar a casa inteira por dentro.,Pintura,alta,Pintura-11
+"Oi, quero pintar a casa inteira por dentro é no fim de semana?",Pintura,alta,Pintura-11
+"Olá, quero pintar a casa inteira por dentro moro no térreo.",Pintura,alta,Pintura-11
+"Olá, quero pintar a casa inteira por dentro",Pintura,alta,Pintura-11
+"Oi, o teto do banheiro está com mofo e manchado",Pintura,media,Pintura-12
+O teto do banheiro está com mofo e manchado.,Pintura,media,Pintura-12
+"Bom dia, o teto do banheiro está com mofo e manchado alguém pode vir ver?",Pintura,media,Pintura-12
+"Bom dia, o teto do banheiro está com mofo e manchado",Pintura,media,Pintura-12
+"Olá, o teto do banheiro está com mofo e manchado o quanto antes.",Pintura,media,Pintura-12
+"Por favor, o teto do banheiro está com mofo e manchado.",Pintura,media,Pintura-12
+"Oi, preciso passar massa corrida e pintar o quarto é no fim de semana?",Pintura,media,Pintura-13
+"Olá, preciso passar massa corrida e pintar o quarto hoje.",Pintura,media,Pintura-13
+"Olá, preciso passar massa corrida e pintar o quarto o quanto antes.",Pintura,media,Pintura-13
+Urgente: preciso passar massa corrida e pintar o quarto quanto fica mais ou menos?,Pintura,media,Pintura-13
+"Olá, preciso passar massa corrida e pintar o quarto moro no térreo.",Pintura,media,Pintura-13
+"Olá, preciso passar massa corrida e pintar o quarto é no fim de semana?",Pintura,media,Pintura-13
+Urgente: quero pintar a grade da varanda é no fim de semana?,Pintura,baixa,Pintura-14
+"Oi, quero pintar a grade da varanda moro no térreo.",Pintura,baixa,Pintura-14
+Urgente: quero pintar a grade da varanda o quanto antes.,Pintura,baixa,Pintura-14
+"Bom dia, quero pintar a grade da varanda quanto fica mais ou menos?",Pintura,baixa,Pintura-14
+Preciso de ajuda: quero pintar a grade da varanda quanto fica mais ou menos?,Pintura,baixa,Pintura-14
+Quero pintar a grade da varanda o quanto antes.,Pintura,baixa,Pintura-14
+Urgente: preciso pintar a fachada da casa o quanto antes.,Pintura,alta,Pintura-15
+Preciso pintar a fachada da casa.,Pintura,alta,Pintura-15
+"Bom dia, preciso pintar a fachada da casa hoje.",Pintura,alta,Pintura-15
+Preciso pintar a fachada da casa hoje.,Pintura,alta,Pintura-15
+"Olá, preciso pintar a fachada da casa é no fim de semana?",Pintura,alta,Pintura-15
+"Olá, preciso pintar a fachada da casa é no fim de semana?",Pintura,alta,Pintura-15
+Comprei móveis pela internet e vieram desmontados hoje.,Montagem de moveis,media,Montagem de moveis-0
+Urgente: comprei móveis pela internet e vieram desmontados alguém pode vir ver?,Montagem de moveis,media,Montagem de moveis-0
+"Bom dia, comprei móveis pela internet e vieram desmontados moro no térreo.",Montagem de moveis,media,Montagem de moveis-0
+"Oi, comprei móveis pela internet e vieram desmontados",Montagem de moveis,media,Montagem de moveis-0
+"Oi, comprei móveis pela internet e vieram desmontados quanto fica mais ou menos?",Montagem de moveis,media,Montagem de moveis-0
+"Bom dia, comprei móveis pela internet e vieram desmontados moro no térreo.",Montagem de moveis,media,Montagem de moveis-0
+"Oi, preciso de um montador para mesa e cadeiras hoje.",Montagem de moveis,baixa,Montagem de moveis-1
+Preciso de um montador para mesa e cadeiras hoje.,Montagem de moveis,baixa,Montagem de moveis-1
+Preciso de ajuda: preciso de um montador para mesa e cadeiras o quanto antes.,Montagem de moveis,baixa,Montagem de moveis-1
+"Bom dia, preciso de um montador para mesa e cadeiras quanto fica mais ou menos?",Montagem de moveis,baixa,Montagem de moveis-1
+"Oi, preciso de um montador para mesa e cadeiras",Montagem de moveis,baixa,Montagem de moveis-1
+Urgente: preciso de um montador para mesa e cadeiras moro no térreo.,Montagem de moveis,baixa,Montagem de moveis-1
+"Por favor, quero montar o armário de cozinha que veio nas caixas alguém pode vir ver?",Montagem de moveis,media,Montagem de moveis-2
+Urgente: quero montar o armário de cozinha que veio nas caixas.,Montagem de moveis,media,Montagem de moveis-2
+"Oi, quero montar o armário de cozinha que veio nas caixas quanto fica mais ou menos?",Montagem de moveis,media,Montagem de moveis-2
+"Bom dia, quero montar o armário de cozinha que veio nas caixas.",Montagem de moveis,media,Montagem de moveis-2
+"Por favor, quero montar o armário de cozinha que veio nas caixas alguém pode vir ver?",Montagem de moveis,media,Montagem de moveis-2
+"Bom dia, quero montar o armário de cozinha que veio nas caixas",Montagem de moveis,media,Montagem de moveis-2
+Preciso montar a cômoda e o criado-mudo,Montagem de moveis,baixa,Montagem de moveis-3
+Preciso montar a cômoda e o criado-mudo quanto fica mais ou menos?,Montagem de moveis,baixa,Montagem de moveis-3
+Preciso de ajuda: preciso montar a cômoda e o criado-mudo.,Montagem de moveis,baixa,Montagem de moveis-3
+"Oi, preciso montar a cômoda e o criado-mudo quanto fica mais ou menos?",Montagem de moveis,baixa,Montagem de moveis-3
+Preciso de ajuda: preciso montar a cômoda e o criado-mudo quanto fica mais ou menos?,Montagem de moveis,baixa,Montagem de moveis-3
+Preciso de ajuda: preciso montar a cômoda e o criado-mudo,Montagem de moveis,baixa,Montagem de moveis-3
+"Olá, quero montar o beliche e a sapateira moro no térreo.",Montagem de moveis,baixa,Montagem de moveis-4
+"Olá, quero montar o beliche e a sapateira",Montagem de moveis,baixa,Montagem de moveis-4
+Quero montar o beliche e a sapateira é no fim de semana?,Montagem de moveis,baixa,Montagem de moveis-4
+Quero montar o beliche e a sapateira hoje.,Montagem de moveis,baixa,Montagem de moveis-4
+Preciso de ajuda: quero montar o beliche e a sapateira alguém pode vir ver?,Montagem de moveis,baixa,Montagem de moveis-4
+Quero montar o beliche e a sapateira,Montagem de moveis,baixa,Montagem de moveis-4
+Urgente: preciso de montador de móveis para o quarto inteiro.,Montagem de moveis,alta,Montagem de moveis-5
+"Por favor, preciso de montador de móveis para o quarto inteiro.",Montagem de moveis,alta,Montagem de moveis-5
+Urgente: preciso de montador de móveis para o quarto inteiro moro no térreo.,Montagem de moveis,alta,Montagem de moveis-5
+Urgente: preciso de montador de móveis para o quarto inteiro hoje.,Montagem de moveis,alta,Montagem de moveis-5
+"Bom dia, preciso de montador de móveis para o quarto inteiro quanto fica mais ou menos?",Montagem de moveis,alta,Montagem de moveis-5
+"Olá, preciso de montador de móveis para o quarto inteiro moro no térreo.",Montagem de moveis,alta,Montagem de moveis-5
+Urgente: quero montar e instalar o painel e o home theater quanto fica mais ou menos?,Montagem de moveis,media,Montagem de moveis-6
+Urgente: quero montar e instalar o painel e o home theater o quanto antes.,Montagem de moveis,media,Montagem de moveis-6
+"Oi, quero montar e instalar o painel e o home theater o quanto antes.",Montagem de moveis,media,Montagem de moveis-6
+Preciso de ajuda: quero montar e instalar o painel e o home theater moro no térreo.,Montagem de moveis,media,Montagem de moveis-6
+"Oi, quero montar e instalar o painel e o home theater",Montagem de moveis,media,Montagem de moveis-6
+"Oi, quero montar e instalar o painel e o home theater o quanto antes.",Montagem de moveis,media,Montagem de moveis-6
+Preciso de ajuda: preciso desmontar e montar o guarda-roupa na casa nova hoje.,Montagem de moveis,media,Montagem de moveis-7
+"Oi, preciso desmontar e montar o guarda-roupa na casa nova o quanto antes.",Montagem de moveis,media,Montagem de moveis-7
+"Por favor, preciso desmontar e montar o guarda-roupa na casa nova.",Montagem de moveis,media,Montagem de moveis-7
+Preciso de ajuda: preciso desmontar e montar o guarda-roupa na casa nova quanto fica mais ou menos?,Montagem de moveis,media,Montagem de moveis-7
+Preciso de ajuda: preciso desmontar e montar o guarda-roupa na casa nova é no fim de semana?,Montagem de moveis,media,Montagem de moveis-7
+"Oi, preciso desmontar e montar o guarda-roupa na casa nova",Montagem de moveis,media,Montagem de moveis-7
+"Oi, comprei um guarda-roupa e preciso montar o quanto antes.",Montagem de moveis,media,Montagem de moveis-8
+"Oi, comprei um guarda-roupa e preciso montar",Montagem de moveis,media,Montagem de moveis-8
+Preciso de ajuda: comprei um guarda-roupa e preciso montar quanto fica mais ou menos?,Montagem de moveis,media,Montagem de moveis-8
+"Por favor, comprei um guarda-roupa e preciso montar hoje.",Montagem de moveis,media,Montagem de moveis-8
+"Bom dia, comprei um guarda-roupa e preciso montar o quanto antes.",Montagem de moveis,media,Montagem de moveis-8
+"Por favor, comprei um guarda-roupa e preciso montar moro no térreo.",Montagem de moveis,media,Montagem de moveis-8
+"Bom dia, preciso montar uma cama box com cabeceira é no fim de semana?",Montagem de moveis,baixa,Montagem de moveis-9
+"Por favor, preciso montar uma cama box com cabeceira",Montagem de moveis,baixa,Montagem de moveis-9
+"Bom dia, preciso montar uma cama box com cabeceira hoje.",Montagem de moveis,baixa,Montagem de moveis-9
+Preciso de ajuda: preciso montar uma cama box com cabeceira.,Montagem de moveis,baixa,Montagem de moveis-9
+Preciso de ajuda: preciso montar uma cama box com cabeceira moro no térreo.,Montagem de moveis,baixa,Montagem de moveis-9
+"Por favor, preciso montar uma cama box com cabeceira o quanto antes.",Montagem de moveis,baixa,Montagem de moveis-9
+Preciso de ajuda: quero montar o rack e o painel da TV.,Montagem de moveis,baixa,Montagem de moveis-10
+Preciso de ajuda: quero montar o rack e o painel da TV hoje.,Montagem de moveis,baixa,Montagem de moveis-10
+"Oi, quero montar o rack e o painel da TV é no fim de semana?",Montagem de moveis,baixa,Montagem de moveis-10
+"Por favor, quero montar o rack e o painel da TV.",Montagem de moveis,baixa,Montagem de moveis-10
+"Por favor, quero montar o rack e o painel da TV.",Montagem de moveis,baixa,Montagem de moveis-10
+"Por favor, quero montar o rack e o painel da TV é no fim de semana?",Montagem de moveis,baixa,Montagem de moveis-10
+"Oi, preciso desmontar os móveis para a mudança",Montagem de moveis,media,Montagem de moveis-11
+"Olá, preciso desmontar os móveis para a mudança o quanto antes.",Montagem de moveis,media,Montagem de moveis-11
+Preciso desmontar os móveis para a mudança alguém pode vir ver?,Montagem de moveis,media,Montagem de moveis-11
+"Por favor, preciso desmontar os móveis para a mudança hoje.",Montagem de moveis,media,Montagem de moveis-11
+Preciso de ajuda: preciso desmontar os móveis para a mudança alguém pode vir ver?,Montagem de moveis,media,Montagem de moveis-11
+"Bom dia, preciso desmontar os móveis para a mudança.",Montagem de moveis,media,Montagem de moveis-11
+"Bom dia, comprei uma estante desmontada na loja hoje.",Montagem de moveis,baixa,Montagem de moveis-12
+Comprei uma estante desmontada na loja o quanto antes.,Montagem de moveis,baixa,Montagem de moveis-12
+Urgente: comprei uma estante desmontada na loja.,Montagem de moveis,baixa,Montagem de moveis-12
+"Oi, comprei uma estante desmontada na loja",Montagem de moveis,baixa,Montagem de moveis-12
+"Bom dia, comprei uma estante desmontada na loja quanto fica mais ou menos?",Montagem de moveis,baixa,Montagem de moveis-12
+"Por favor, comprei uma estante desmontada na loja",Montagem de moveis,baixa,Montagem de moveis-12
+"Por favor, preciso montar a cozinha modulada que chegou em caixas o quanto antes.",Montagem de moveis,alta,Montagem de moveis-13
+Urgente: preciso montar a cozinha modulada que chegou em caixas quanto fica mais ou menos?,Montagem de moveis,alta,Montagem de moveis-13
+Preciso montar a cozinha modulada que chegou em caixas alguém pode vir ver?,Montagem de moveis,alta,Montagem de moveis-13
+Preciso montar a cozinha modulada que chegou em caixas hoje.,Montagem de moveis,alta,Montagem de moveis-13
+Urgente: preciso montar a cozinha modulada que chegou em caixas.,Montagem de moveis,alta,Montagem de moveis-13
+"Bom dia, preciso montar a cozinha modulada que chegou em caixas o quanto antes.",Montagem de moveis,alta,Montagem de moveis-13
+Quero montar uma escrivaninha e uma cadeira alguém pode vir ver?,Montagem de moveis,baixa,Montagem de moveis-14
+Preciso de ajuda: quero montar uma escrivaninha e uma cadeira,Montagem de moveis,baixa,Montagem de moveis-14
+"Oi, quero montar uma escrivaninha e uma cadeira alguém pode vir ver?",Montagem de moveis,baixa,Montagem de moveis-14
+Quero montar uma escrivaninha e uma cadeira hoje.,Montagem de moveis,baixa,Montagem de moveis-14
+Preciso de ajuda: quero montar uma escrivaninha e uma cadeira o quanto antes.,Montagem de moveis,baixa,Montagem de moveis-14
+"Oi, quero montar uma escrivaninha e uma cadeira",Montagem de moveis,baixa,Montagem de moveis-14
+Preciso de ajuda: preciso montar o berço do bebê moro no térreo.,Montagem de moveis,baixa,Montagem de moveis-15
+"Olá, preciso montar o berço do bebê é no fim de semana?",Montagem de moveis,baixa,Montagem de moveis-15
+"Oi, preciso montar o berço do bebê.",Montagem de moveis,baixa,Montagem de moveis-15
+"Olá, preciso montar o berço do bebê",Montagem de moveis,baixa,Montagem de moveis-15
+Preciso montar o berço do bebê é no fim de semana?,Montagem de moveis,baixa,Montagem de moveis-15
+"Oi, preciso montar o berço do bebê.",Montagem de moveis,baixa,Montagem de moveis-15
+"Oi, preciso de um marido de aluguel para vários ajustes hoje.",Pequenos reparos,media,Pequenos reparos-0
+"Olá, preciso de um marido de aluguel para vários ajustes o quanto antes.",Pequenos reparos,media,Pequenos reparos-0
+"Olá, preciso de um marido de aluguel para vários ajustes o quanto antes.",Pequenos reparos,media,Pequenos reparos-0
+Preciso de ajuda: preciso de um marido de aluguel para vários ajustes moro no térreo.,Pequenos reparos,media,Pequenos reparos-0
+"Oi, preciso de um marido de aluguel para vários ajustes alguém pode vir ver?",Pequenos reparos,media,Pequenos reparos-0
+Urgente: preciso de um marido de aluguel para vários ajustes hoje.,Pequenos reparos,media,Pequenos reparos-0
+"Oi, quero instalar persiana e cortina blackout.",Pequenos reparos,baixa,Pequenos reparos-1
+Quero instalar persiana e cortina blackout moro no térreo.,Pequenos reparos,baixa,Pequenos reparos-1
+Quero instalar persiana e cortina blackout hoje.,Pequenos reparos,baixa,Pequenos reparos-1
+Preciso de ajuda: quero instalar persiana e cortina blackout o quanto antes.,Pequenos reparos,baixa,Pequenos reparos-1
+"Por favor, quero instalar persiana e cortina blackout quanto fica mais ou menos?",Pequenos reparos,baixa,Pequenos reparos-1
+"Por favor, quero instalar persiana e cortina blackout hoje.",Pequenos reparos,baixa,Pequenos reparos-1
+Urgente: preciso pendurar a televisão na parede com suporte moro no térreo.,Pequenos reparos,baixa,Pequenos reparos-2
+"Olá, preciso pendurar a televisão na parede com suporte quanto fica mais ou menos?",Pequenos reparos,baixa,Pequenos reparos-2
+Preciso de ajuda: preciso pendurar a televisão na parede com suporte.,Pequenos reparos,baixa,Pequenos reparos-2
+"Olá, preciso pendurar a televisão na parede com suporte",Pequenos reparos,baixa,Pequenos reparos-2
+"Por favor, preciso pendurar a televisão na parede com suporte é no fim de semana?",Pequenos reparos,baixa,Pequenos reparos-2
+Preciso pendurar a televisão na parede com suporte quanto fica mais ou menos?,Pequenos reparos,baixa,Pequenos reparos-2
+"Urgente: quero instalar acessórios no banheiro, como toalheiro e papeleira é no fim de semana?",Pequenos reparos,baixa,Pequenos reparos-3
+"Urgente: quero instalar acessórios no banheiro, como toalheiro e papeleira moro no térreo.",Pequenos reparos,baixa,Pequenos reparos-3
+"Preciso de ajuda: quero instalar acessórios no banheiro, como toalheiro e papeleira moro no térreo.",Pequenos reparos,baixa,Pequenos reparos-3
+"Quero instalar acessórios no banheiro, como toalheiro e papeleira",Pequenos reparos,baixa,Pequenos reparos-3
+"Urgente: quero instalar acessórios no banheiro, como toalheiro e papeleira alguém pode vir ver?",Pequenos reparos,baixa,Pequenos reparos-3
+"Olá, quero instalar acessórios no banheiro, como toalheiro e papeleira.",Pequenos reparos,baixa,Pequenos reparos-3
+"Oi, preciso furar a parede e colocar buchas e ganchos o quanto antes.",Pequenos reparos,baixa,Pequenos reparos-4
+"Bom dia, preciso furar a parede e colocar buchas e ganchos hoje.",Pequenos reparos,baixa,Pequenos reparos-4
+"Bom dia, preciso furar a parede e colocar buchas e ganchos",Pequenos reparos,baixa,Pequenos reparos-4
+Preciso furar a parede e colocar buchas e ganchos moro no térreo.,Pequenos reparos,baixa,Pequenos reparos-4
+Urgente: preciso furar a parede e colocar buchas e ganchos hoje.,Pequenos reparos,baixa,Pequenos reparos-4
+Urgente: preciso furar a parede e colocar buchas e ganchos quanto fica mais ou menos?,Pequenos reparos,baixa,Pequenos reparos-4
+Preciso de ajuda: quero instalar tela de proteção na janela.,Pequenos reparos,media,Pequenos reparos-5
+"Olá, quero instalar tela de proteção na janela quanto fica mais ou menos?",Pequenos reparos,media,Pequenos reparos-5
+"Por favor, quero instalar tela de proteção na janela hoje.",Pequenos reparos,media,Pequenos reparos-5
+Preciso de ajuda: quero instalar tela de proteção na janela quanto fica mais ou menos?,Pequenos reparos,media,Pequenos reparos-5
+Quero instalar tela de proteção na janela.,Pequenos reparos,media,Pequenos reparos-5
+"Olá, quero instalar tela de proteção na janela",Pequenos reparos,media,Pequenos reparos-5
+Preciso de ajuda: o trinco do portão está solto alguém pode vir ver?,Pequenos reparos,baixa,Pequenos reparos-6
+"Olá, o trinco do portão está solto é no fim de semana?",Pequenos reparos,baixa,Pequenos reparos-6
+"Bom dia, o trinco do portão está solto",Pequenos reparos,baixa,Pequenos reparos-6
+"Oi, o trinco do portão está solto alguém pode vir ver?",Pequenos reparos,baixa,Pequenos reparos-6
+"Olá, o trinco do portão está solto é no fim de semana?",Pequenos reparos,baixa,Pequenos reparos-6
+Urgente: o trinco do portão está solto,Pequenos reparos,baixa,Pequenos reparos-6
+"Oi, preciso trocar a maçaneta e o miolo da fechadura.",Pequenos reparos,baixa,Pequenos reparos-7
+Preciso trocar a maçaneta e o miolo da fechadura o quanto antes.,Pequenos reparos,baixa,Pequenos reparos-7
+"Por favor, preciso trocar a maçaneta e o miolo da fechadura moro no térreo.",Pequenos reparos,baixa,Pequenos reparos-7
+"Oi, preciso trocar a maçaneta e o miolo da fechadura.",Pequenos reparos,baixa,Pequenos reparos-7
+"Por favor, preciso trocar a maçaneta e o miolo da fechadura é no fim de semana?",Pequenos reparos,baixa,Pequenos reparos-7
+"Bom dia, preciso trocar a maçaneta e o miolo da fechadura quanto fica mais ou menos?",Pequenos reparos,baixa,Pequenos reparos-7
+"Por favor, preciso instalar uma prateleira na parede quanto fica mais ou menos?",Pequenos reparos,baixa,Pequenos reparos-8
+Urgente: preciso instalar uma prateleira na parede alguém pode vir ver?,Pequenos reparos,baixa,Pequenos reparos-8
+"Bom dia, preciso instalar uma prateleira na parede quanto fica mais ou menos?",Pequenos reparos,baixa,Pequenos reparos-8
+Urgente: preciso instalar uma prateleira na parede é no fim de semana?,Pequenos reparos,baixa,Pequenos reparos-8
+"Oi, preciso instalar uma prateleira na parede alguém pode vir ver?",Pequenos reparos,baixa,Pequenos reparos-8
+"Por favor, preciso instalar uma prateleira na parede moro no térreo.",Pequenos reparos,baixa,Pequenos reparos-8
+"Por favor, quero colocar a cortina e o varão hoje.",Pequenos reparos,baixa,Pequenos reparos-9
+Quero colocar a cortina e o varão,Pequenos reparos,baixa,Pequenos reparos-9
+"Olá, quero colocar a cortina e o varão o quanto antes.",Pequenos reparos,baixa,Pequenos reparos-9
+Urgente: quero colocar a cortina e o varão alguém pode vir ver?,Pequenos reparos,baixa,Pequenos reparos-9
+Urgente: quero colocar a cortina e o varão é no fim de semana?,Pequenos reparos,baixa,Pequenos reparos-9
+"Olá, quero colocar a cortina e o varão moro no térreo.",Pequenos reparos,baixa,Pequenos reparos-9
+"Olá, preciso fixar o suporte da TV na parede.",Pequenos reparos,baixa,Pequenos reparos-10
+"Olá, preciso fixar o suporte da TV na parede é no fim de semana?",Pequenos reparos,baixa,Pequenos reparos-10
+"Olá, preciso fixar o suporte da TV na parede moro no térreo.",Pequenos reparos,baixa,Pequenos reparos-10
+Urgente: preciso fixar o suporte da TV na parede é no fim de semana?,Pequenos reparos,baixa,Pequenos reparos-10
+"Olá, preciso fixar o suporte da TV na parede alguém pode vir ver?",Pequenos reparos,baixa,Pequenos reparos-10
+Preciso de ajuda: preciso fixar o suporte da TV na parede é no fim de semana?,Pequenos reparos,baixa,Pequenos reparos-10
+Urgente: a fechadura da porta emperrou e preciso trocar alguém pode vir ver?,Pequenos reparos,media,Pequenos reparos-11
+"Bom dia, a fechadura da porta emperrou e preciso trocar quanto fica mais ou menos?",Pequenos reparos,media,Pequenos reparos-11
+"Olá, a fechadura da porta emperrou e preciso trocar hoje.",Pequenos reparos,media,Pequenos reparos-11
+Preciso de ajuda: a fechadura da porta emperrou e preciso trocar alguém pode vir ver?,Pequenos reparos,media,Pequenos reparos-11
+A fechadura da porta emperrou e preciso trocar o quanto antes.,Pequenos reparos,media,Pequenos reparos-11
+"Bom dia, a fechadura da porta emperrou e preciso trocar hoje.",Pequenos reparos,media,Pequenos reparos-11
+"Por favor, quero instalar um varal de teto é no fim de semana?",Pequenos reparos,baixa,Pequenos reparos-12
+Urgente: quero instalar um varal de teto hoje.,Pequenos reparos,baixa,Pequenos reparos-12
+"Oi, quero instalar um varal de teto é no fim de semana?",Pequenos reparos,baixa,Pequenos reparos-12
+Urgente: quero instalar um varal de teto quanto fica mais ou menos?,Pequenos reparos,baixa,Pequenos reparos-12
+Urgente: quero instalar um varal de teto,Pequenos reparos,baixa,Pequenos reparos-12
+Preciso de ajuda: quero instalar um varal de teto alguém pode vir ver?,Pequenos reparos,baixa,Pequenos reparos-12
+Urgente: preciso pendurar quadros e espelho,Pequenos reparos,baixa,Pequenos reparos-13
+"Por favor, preciso pendurar quadros e espelho moro no térreo.",Pequenos reparos,baixa,Pequenos reparos-13
+Preciso de ajuda: preciso pendurar quadros e espelho alguém pode vir ver?,Pequenos reparos,baixa,Pequenos reparos-13
+"Por favor, preciso pendurar quadros e espelho é no fim de semana?",Pequenos reparos,baixa,Pequenos reparos-13
+"Olá, preciso pendurar quadros e espelho alguém pode vir ver?",Pequenos reparos,baixa,Pequenos reparos-13
+"Por favor, preciso pendurar quadros e espelho moro no térreo.",Pequenos reparos,baixa,Pequenos reparos-13
+"Por favor, o puxador do armário caiu moro no térreo.",Pequenos reparos,baixa,Pequenos reparos-14
+"Por favor, o puxador do armário caiu é no fim de semana?",Pequenos reparos,baixa,Pequenos reparos-14
+Preciso de ajuda: o puxador do armário caiu o quanto antes.,Pequenos reparos,baixa,Pequenos reparos-14
+O puxador do armário caiu é no fim de semana?,Pequenos reparos,baixa,Pequenos reparos-14
+Preciso de ajuda: o puxador do armário caiu é no fim de semana?,Pequenos reparos,baixa,Pequenos reparos-14
+"Oi, o puxador do armário caiu moro no térreo.",Pequenos reparos,baixa,Pequenos reparos-14
+"Por favor, quero instalar um olho mágico e uma trava na porta o quanto antes.",Pequenos reparos,media,Pequenos reparos-15
+Preciso de ajuda: quero instalar um olho mágico e uma trava na porta é no fim de semana?,Pequenos reparos,media,Pequenos reparos-15
+"Bom dia, quero instalar um olho mágico e uma trava na porta",Pequenos reparos,media,Pequenos reparos-15
+Quero instalar um olho mágico e uma trava na porta o quanto antes.,Pequenos reparos,media,Pequenos reparos-15
+"Olá, quero instalar um olho mágico e uma trava na porta hoje.",Pequenos reparos,media,Pequenos reparos-15
+"Oi, quero instalar um olho mágico e uma trava na porta é no fim de semana?",Pequenos reparos,media,Pequenos reparos-15
+"Oi, preciso de um pedreiro para quebrar uma parede hoje.",Pedreiro,alta,Pedreiro-0
+"Oi, preciso de um pedreiro para quebrar uma parede o quanto antes.",Pedreiro,alta,Pedreiro-0
+"Bom dia, preciso de um pedreiro para quebrar uma parede",Pedreiro,alta,Pedreiro-0
+Preciso de ajuda: preciso de um pedreiro para quebrar uma parede.,Pedreiro,alta,Pedreiro-0
+Preciso de um pedreiro para quebrar uma parede.,Pedreiro,alta,Pedreiro-0
+"Olá, preciso de um pedreiro para quebrar uma parede é no fim de semana?",Pedreiro,alta,Pedreiro-0
+A laje está com trinca e infiltração quanto fica mais ou menos?,Pedreiro,alta,Pedreiro-1
+Preciso de ajuda: a laje está com trinca e infiltração moro no térreo.,Pedreiro,alta,Pedreiro-1
+Urgente: a laje está com trinca e infiltração.,Pedreiro,alta,Pedreiro-1
+"Oi, a laje está com trinca e infiltração o quanto antes.",Pedreiro,alta,Pedreiro-1
+"Bom dia, a laje está com trinca e infiltração alguém pode vir ver?",Pedreiro,alta,Pedreiro-1
+A laje está com trinca e infiltração.,Pedreiro,alta,Pedreiro-1
+Quero assentar porcelanato e cerâmica moro no térreo.,Pedreiro,alta,Pedreiro-2
+Urgente: quero assentar porcelanato e cerâmica hoje.,Pedreiro,alta,Pedreiro-2
+"Oi, quero assentar porcelanato e cerâmica é no fim de semana?",Pedreiro,alta,Pedreiro-2
+Quero assentar porcelanato e cerâmica.,Pedreiro,alta,Pedreiro-2
+"Por favor, quero assentar porcelanato e cerâmica o quanto antes.",Pedreiro,alta,Pedreiro-2
+"Por favor, quero assentar porcelanato e cerâmica quanto fica mais ou menos?",Pedreiro,alta,Pedreiro-2
+"Bom dia, a calçada e o piso externo estão quebrados hoje.",Pedreiro,media,Pedreiro-3
+A calçada e o piso externo estão quebrados.,Pedreiro,media,Pedreiro-3
+"Bom dia, a calçada e o piso externo estão quebrados o quanto antes.",Pedreiro,media,Pedreiro-3
+"Olá, a calçada e o piso externo estão quebrados quanto fica mais ou menos?",Pedreiro,media,Pedreiro-3
+"Oi, a calçada e o piso externo estão quebrados.",Pedreiro,media,Pedreiro-3
+Preciso de ajuda: a calçada e o piso externo estão quebrados é no fim de semana?,Pedreiro,media,Pedreiro-3
+"Por favor, quero construir uma churrasqueira de alvenaria hoje.",Pedreiro,alta,Pedreiro-4
+Quero construir uma churrasqueira de alvenaria,Pedreiro,alta,Pedreiro-4
+Urgente: quero construir uma churrasqueira de alvenaria quanto fica mais ou menos?,Pedreiro,alta,Pedreiro-4
+"Oi, quero construir uma churrasqueira de alvenaria.",Pedreiro,alta,Pedreiro-4
+"Oi, quero construir uma churrasqueira de alvenaria quanto fica mais ou menos?",Pedreiro,alta,Pedreiro-4
+Quero construir uma churrasqueira de alvenaria quanto fica mais ou menos?,Pedreiro,alta,Pedreiro-4
+"Oi, preciso subir parede de tijolo e bloco moro no térreo.",Pedreiro,alta,Pedreiro-5
+Urgente: preciso subir parede de tijolo e bloco.,Pedreiro,alta,Pedreiro-5
+Preciso subir parede de tijolo e bloco é no fim de semana?,Pedreiro,alta,Pedreiro-5
+"Olá, preciso subir parede de tijolo e bloco é no fim de semana?",Pedreiro,alta,Pedreiro-5
+Urgente: preciso subir parede de tijolo e bloco.,Pedreiro,alta,Pedreiro-5
+"Bom dia, preciso subir parede de tijolo e bloco o quanto antes.",Pedreiro,alta,Pedreiro-5
+"Oi, o piso afundou e está oco.",Pedreiro,media,Pedreiro-6
+"Bom dia, o piso afundou e está oco hoje.",Pedreiro,media,Pedreiro-6
+O piso afundou e está oco hoje.,Pedreiro,media,Pedreiro-6
+Preciso de ajuda: o piso afundou e está oco alguém pode vir ver?,Pedreiro,media,Pedreiro-6
+"Bom dia, o piso afundou e está oco é no fim de semana?",Pedreiro,media,Pedreiro-6
+"Por favor, o piso afundou e está oco.",Pedreiro,media,Pedreiro-6
+"Urgente: preciso de massa, cimento e reboco na parede o quanto antes.",Pedreiro,media,Pedreiro-7
+"Bom dia, preciso de massa, cimento e reboco na parede.",Pedreiro,media,Pedreiro-7
+"Oi, preciso de massa, cimento e reboco na parede.",Pedreiro,media,Pedreiro-7
+"Preciso de ajuda: preciso de massa, cimento e reboco na parede alguém pode vir ver?",Pedreiro,media,Pedreiro-7
+"Bom dia, preciso de massa, cimento e reboco na parede é no fim de semana?",Pedreiro,media,Pedreiro-7
+"Por favor, preciso de massa, cimento e reboco na parede alguém pode vir ver?",Pedreiro,media,Pedreiro-7
+"Olá, apareceu uma rachadura grande na parede hoje.",Pedreiro,alta,Pedreiro-8
+Preciso de ajuda: apareceu uma rachadura grande na parede é no fim de semana?,Pedreiro,alta,Pedreiro-8
+"Bom dia, apareceu uma rachadura grande na parede",Pedreiro,alta,Pedreiro-8
+Preciso de ajuda: apareceu uma rachadura grande na parede alguém pode vir ver?,Pedreiro,alta,Pedreiro-8
+Preciso de ajuda: apareceu uma rachadura grande na parede quanto fica mais ou menos?,Pedreiro,alta,Pedreiro-8
+"Bom dia, apareceu uma rachadura grande na parede é no fim de semana?",Pedreiro,alta,Pedreiro-8
+Urgente: preciso trocar o piso da cozinha alguém pode vir ver?,Pedreiro,alta,Pedreiro-9
+"Olá, preciso trocar o piso da cozinha quanto fica mais ou menos?",Pedreiro,alta,Pedreiro-9
+"Olá, preciso trocar o piso da cozinha moro no térreo.",Pedreiro,alta,Pedreiro-9
+"Por favor, preciso trocar o piso da cozinha alguém pode vir ver?",Pedreiro,alta,Pedreiro-9
+"Bom dia, preciso trocar o piso da cozinha alguém pode vir ver?",Pedreiro,alta,Pedreiro-9
+Preciso trocar o piso da cozinha o quanto antes.,Pedreiro,alta,Pedreiro-9
+O azulejo do banheiro está soltando o quanto antes.,Pedreiro,media,Pedreiro-10
+Preciso de ajuda: o azulejo do banheiro está soltando moro no térreo.,Pedreiro,media,Pedreiro-10
+Urgente: o azulejo do banheiro está soltando moro no térreo.,Pedreiro,media,Pedreiro-10
+Urgente: o azulejo do banheiro está soltando.,Pedreiro,media,Pedreiro-10
+Urgente: o azulejo do banheiro está soltando moro no térreo.,Pedreiro,media,Pedreiro-10
+"Oi, o azulejo do banheiro está soltando é no fim de semana?",Pedreiro,media,Pedreiro-10
+Preciso de ajuda: preciso refazer o rejunte do box quanto fica mais ou menos?,Pedreiro,baixa,Pedreiro-11
+Preciso de ajuda: preciso refazer o rejunte do box é no fim de semana?,Pedreiro,baixa,Pedreiro-11
+Urgente: preciso refazer o rejunte do box.,Pedreiro,baixa,Pedreiro-11
+"Bom dia, preciso refazer o rejunte do box é no fim de semana?",Pedreiro,baixa,Pedreiro-11
+"Por favor, preciso refazer o rejunte do box quanto fica mais ou menos?",Pedreiro,baixa,Pedreiro-11
+Preciso de ajuda: preciso refazer o rejunte do box moro no térreo.,Pedreiro,baixa,Pedreiro-11
+Preciso de ajuda: quero levantar um muro no quintal é no fim de semana?,Pedreiro,alta,Pedreiro-12
+"Bom dia, quero levantar um muro no quintal",Pedreiro,alta,Pedreiro-12
+"Por favor, quero levantar um muro no quintal moro no térreo.",Pedreiro,alta,Pedreiro-12
+"Oi, quero levantar um muro no quintal moro no térreo.",Pedreiro,alta,Pedreiro-12
+"Por favor, quero levantar um muro no quintal alguém pode vir ver?",Pedreiro,alta,Pedreiro-12
+"Por favor, quero levantar um muro no quintal quanto fica mais ou menos?",Pedreiro,alta,Pedreiro-12
+O reboco da parede está esfarelando moro no térreo.,Pedreiro,media,Pedreiro-13
+"Oi, o reboco da parede está esfarelando quanto fica mais ou menos?",Pedreiro,media,Pedreiro-13
+O reboco da parede está esfarelando,Pedreiro,media,Pedreiro-13
+"Por favor, o reboco da parede está esfarelando alguém pode vir ver?",Pedreiro,media,Pedreiro-13
+Preciso de ajuda: o reboco da parede está esfarelando,Pedreiro,media,Pedreiro-13
+O reboco da parede está esfarelando moro no térreo.,Pedreiro,media,Pedreiro-13
+"Oi, preciso fazer um contrapiso na lavanderia alguém pode vir ver?",Pedreiro,media,Pedreiro-14
+"Oi, preciso fazer um contrapiso na lavanderia alguém pode vir ver?",Pedreiro,media,Pedreiro-14
+"Por favor, preciso fazer um contrapiso na lavanderia alguém pode vir ver?",Pedreiro,media,Pedreiro-14
+Preciso fazer um contrapiso na lavanderia o quanto antes.,Pedreiro,media,Pedreiro-14
+"Olá, preciso fazer um contrapiso na lavanderia",Pedreiro,media,Pedreiro-14
+Preciso fazer um contrapiso na lavanderia o quanto antes.,Pedreiro,media,Pedreiro-14
+"Olá, quero fazer uma pequena reforma no banheiro",Pedreiro,alta,Pedreiro-15
+Urgente: quero fazer uma pequena reforma no banheiro moro no térreo.,Pedreiro,alta,Pedreiro-15
+"Por favor, quero fazer uma pequena reforma no banheiro quanto fica mais ou menos?",Pedreiro,alta,Pedreiro-15
+Quero fazer uma pequena reforma no banheiro,Pedreiro,alta,Pedreiro-15
+"Bom dia, quero fazer uma pequena reforma no banheiro hoje.",Pedreiro,alta,Pedreiro-15
+Quero fazer uma pequena reforma no banheiro é no fim de semana?,Pedreiro,alta,Pedreiro-15
+"Olá, o móvel de madeira está com cupim.",Marceneiro,alta,Marceneiro-0
+Urgente: o móvel de madeira está com cupim.,Marceneiro,alta,Marceneiro-0
+O móvel de madeira está com cupim.,Marceneiro,alta,Marceneiro-0
+Preciso de ajuda: o móvel de madeira está com cupim é no fim de semana?,Marceneiro,alta,Marceneiro-0
+O móvel de madeira está com cupim hoje.,Marceneiro,alta,Marceneiro-0
+"Oi, o móvel de madeira está com cupim",Marceneiro,alta,Marceneiro-0
+"Por favor, a porta de madeira está arrastando e precisa de ajuste alguém pode vir ver?",Marceneiro,baixa,Marceneiro-1
+"Oi, a porta de madeira está arrastando e precisa de ajuste moro no térreo.",Marceneiro,baixa,Marceneiro-1
+Preciso de ajuda: a porta de madeira está arrastando e precisa de ajuste quanto fica mais ou menos?,Marceneiro,baixa,Marceneiro-1
+"Olá, a porta de madeira está arrastando e precisa de ajuste",Marceneiro,baixa,Marceneiro-1
+"Oi, a porta de madeira está arrastando e precisa de ajuste alguém pode vir ver?",Marceneiro,baixa,Marceneiro-1
+"Olá, a porta de madeira está arrastando e precisa de ajuste alguém pode vir ver?",Marceneiro,baixa,Marceneiro-1
+Urgente: preciso de um marceneiro para consertar a cadeira hoje.,Marceneiro,baixa,Marceneiro-2
+Preciso de ajuda: preciso de um marceneiro para consertar a cadeira é no fim de semana?,Marceneiro,baixa,Marceneiro-2
+Urgente: preciso de um marceneiro para consertar a cadeira,Marceneiro,baixa,Marceneiro-2
+Preciso de um marceneiro para consertar a cadeira quanto fica mais ou menos?,Marceneiro,baixa,Marceneiro-2
+Preciso de ajuda: preciso de um marceneiro para consertar a cadeira é no fim de semana?,Marceneiro,baixa,Marceneiro-2
+"Por favor, preciso de um marceneiro para consertar a cadeira quanto fica mais ou menos?",Marceneiro,baixa,Marceneiro-2
+"Oi, o tampo da mesa de madeira está rachado hoje.",Marceneiro,media,Marceneiro-3
+"Por favor, o tampo da mesa de madeira está rachado",Marceneiro,media,Marceneiro-3
+"Bom dia, o tampo da mesa de madeira está rachado.",Marceneiro,media,Marceneiro-3
+"Por favor, o tampo da mesa de madeira está rachado hoje.",Marceneiro,media,Marceneiro-3
+"Oi, o tampo da mesa de madeira está rachado o quanto antes.",Marceneiro,media,Marceneiro-3
+"Bom dia, o tampo da mesa de madeira está rachado quanto fica mais ou menos?",Marceneiro,media,Marceneiro-3
+Preciso de ajuda: quero um painel de madeira ripado hoje.,Marceneiro,alta,Marceneiro-4
+"Olá, quero um painel de madeira ripado moro no térreo.",Marceneiro,alta,Marceneiro-4
+"Olá, quero um painel de madeira ripado alguém pode vir ver?",Marceneiro,alta,Marceneiro-4
+Quero um painel de madeira ripado.,Marceneiro,alta,Marceneiro-4
+"Olá, quero um painel de madeira ripado quanto fica mais ou menos?",Marceneiro,alta,Marceneiro-4
+"Oi, quero um painel de madeira ripado.",Marceneiro,alta,Marceneiro-4
+"Bom dia, a madeira do armário inchou com a umidade é no fim de semana?",Marceneiro,media,Marceneiro-5
+A madeira do armário inchou com a umidade,Marceneiro,media,Marceneiro-5
+"Bom dia, a madeira do armário inchou com a umidade.",Marceneiro,media,Marceneiro-5
+"Bom dia, a madeira do armário inchou com a umidade o quanto antes.",Marceneiro,media,Marceneiro-5
+"Olá, a madeira do armário inchou com a umidade moro no térreo.",Marceneiro,media,Marceneiro-5
+"Bom dia, a madeira do armário inchou com a umidade.",Marceneiro,media,Marceneiro-5
+"Bom dia, quero uma bancada e um nicho de madeira sob medida.",Marceneiro,alta,Marceneiro-6
+"Por favor, quero uma bancada e um nicho de madeira sob medida.",Marceneiro,alta,Marceneiro-6
+Urgente: quero uma bancada e um nicho de madeira sob medida o quanto antes.,Marceneiro,alta,Marceneiro-6
+"Oi, quero uma bancada e um nicho de madeira sob medida moro no térreo.",Marceneiro,alta,Marceneiro-6
+"Por favor, quero uma bancada e um nicho de madeira sob medida hoje.",Marceneiro,alta,Marceneiro-6
+"Olá, quero uma bancada e um nicho de madeira sob medida hoje.",Marceneiro,alta,Marceneiro-6
+"Olá, o rodapé e o batente de madeira estão soltos alguém pode vir ver?",Marceneiro,baixa,Marceneiro-7
+Urgente: o rodapé e o batente de madeira estão soltos.,Marceneiro,baixa,Marceneiro-7
+"Oi, o rodapé e o batente de madeira estão soltos alguém pode vir ver?",Marceneiro,baixa,Marceneiro-7
+Preciso de ajuda: o rodapé e o batente de madeira estão soltos quanto fica mais ou menos?,Marceneiro,baixa,Marceneiro-7
+"Bom dia, o rodapé e o batente de madeira estão soltos o quanto antes.",Marceneiro,baixa,Marceneiro-7
+"Olá, o rodapé e o batente de madeira estão soltos hoje.",Marceneiro,baixa,Marceneiro-7
+"Bom dia, a porta do quarto empenou e não fecha quanto fica mais ou menos?",Marceneiro,media,Marceneiro-8
+A porta do quarto empenou e não fecha hoje.,Marceneiro,media,Marceneiro-8
+Preciso de ajuda: a porta do quarto empenou e não fecha alguém pode vir ver?,Marceneiro,media,Marceneiro-8
+"Por favor, a porta do quarto empenou e não fecha",Marceneiro,media,Marceneiro-8
+Preciso de ajuda: a porta do quarto empenou e não fecha moro no térreo.,Marceneiro,media,Marceneiro-8
+"Por favor, a porta do quarto empenou e não fecha o quanto antes.",Marceneiro,media,Marceneiro-8
+Urgente: a gaveta da cômoda saiu do trilho alguém pode vir ver?,Marceneiro,baixa,Marceneiro-9
+"Oi, a gaveta da cômoda saiu do trilho",Marceneiro,baixa,Marceneiro-9
+"Bom dia, a gaveta da cômoda saiu do trilho hoje.",Marceneiro,baixa,Marceneiro-9
+"Bom dia, a gaveta da cômoda saiu do trilho quanto fica mais ou menos?",Marceneiro,baixa,Marceneiro-9
+"Oi, a gaveta da cômoda saiu do trilho.",Marceneiro,baixa,Marceneiro-9
+"Olá, a gaveta da cômoda saiu do trilho alguém pode vir ver?",Marceneiro,baixa,Marceneiro-9
+A dobradiça do armário quebrou alguém pode vir ver?,Marceneiro,baixa,Marceneiro-10
+Urgente: a dobradiça do armário quebrou é no fim de semana?,Marceneiro,baixa,Marceneiro-10
+A dobradiça do armário quebrou quanto fica mais ou menos?,Marceneiro,baixa,Marceneiro-10
+"Bom dia, a dobradiça do armário quebrou alguém pode vir ver?",Marceneiro,baixa,Marceneiro-10
+"Bom dia, a dobradiça do armário quebrou hoje.",Marceneiro,baixa,Marceneiro-10
+Urgente: a dobradiça do armário quebrou,Marceneiro,baixa,Marceneiro-10
+O pé da mesa de madeira está bambo alguém pode vir ver?,Marceneiro,baixa,Marceneiro-11
+"Por favor, o pé da mesa de madeira está bambo é no fim de semana?",Marceneiro,baixa,Marceneiro-11
+O pé da mesa de madeira está bambo o quanto antes.,Marceneiro,baixa,Marceneiro-11
+Urgente: o pé da mesa de madeira está bambo o quanto antes.,Marceneiro,baixa,Marceneiro-11
+Preciso de ajuda: o pé da mesa de madeira está bambo,Marceneiro,baixa,Marceneiro-11
+O pé da mesa de madeira está bambo moro no térreo.,Marceneiro,baixa,Marceneiro-11
+"Olá, quero uma prateleira de madeira sob medida",Marceneiro,media,Marceneiro-12
+Urgente: quero uma prateleira de madeira sob medida moro no térreo.,Marceneiro,media,Marceneiro-12
+Quero uma prateleira de madeira sob medida alguém pode vir ver?,Marceneiro,media,Marceneiro-12
+"Oi, quero uma prateleira de madeira sob medida é no fim de semana?",Marceneiro,media,Marceneiro-12
+Urgente: quero uma prateleira de madeira sob medida moro no térreo.,Marceneiro,media,Marceneiro-12
+Preciso de ajuda: quero uma prateleira de madeira sob medida o quanto antes.,Marceneiro,media,Marceneiro-12
+O guarda-roupa de madeira está com a porta caída moro no térreo.,Marceneiro,media,Marceneiro-13
+"Por favor, o guarda-roupa de madeira está com a porta caída quanto fica mais ou menos?",Marceneiro,media,Marceneiro-13
+Urgente: o guarda-roupa de madeira está com a porta caída quanto fica mais ou menos?,Marceneiro,media,Marceneiro-13
+Urgente: o guarda-roupa de madeira está com a porta caída é no fim de semana?,Marceneiro,media,Marceneiro-13
+O guarda-roupa de madeira está com a porta caída moro no térreo.,Marceneiro,media,Marceneiro-13
+"Por favor, o guarda-roupa de madeira está com a porta caída moro no térreo.",Marceneiro,media,Marceneiro-13
+"Olá, preciso consertar o cupim no batente da porta alguém pode vir ver?",Marceneiro,alta,Marceneiro-14
+Preciso de ajuda: preciso consertar o cupim no batente da porta moro no térreo.,Marceneiro,alta,Marceneiro-14
+"Por favor, preciso consertar o cupim no batente da porta é no fim de semana?",Marceneiro,alta,Marceneiro-14
+Preciso de ajuda: preciso consertar o cupim no batente da porta.,Marceneiro,alta,Marceneiro-14
+Urgente: preciso consertar o cupim no batente da porta,Marceneiro,alta,Marceneiro-14
+"Oi, preciso consertar o cupim no batente da porta quanto fica mais ou menos?",Marceneiro,alta,Marceneiro-14
+Urgente: quero um móvel sob medida para a lavanderia,Marceneiro,alta,Marceneiro-15
+Urgente: quero um móvel sob medida para a lavanderia,Marceneiro,alta,Marceneiro-15
+"Oi, quero um móvel sob medida para a lavanderia hoje.",Marceneiro,alta,Marceneiro-15
+"Por favor, quero um móvel sob medida para a lavanderia quanto fica mais ou menos?",Marceneiro,alta,Marceneiro-15
+"Oi, quero um móvel sob medida para a lavanderia.",Marceneiro,alta,Marceneiro-15
+Urgente: quero um móvel sob medida para a lavanderia moro no térreo.,Marceneiro,alta,Marceneiro-15
+O carro está fazendo barulho na suspensão alguém pode vir ver?,Mecanico,media,Mecanico-0
+O carro está fazendo barulho na suspensão o quanto antes.,Mecanico,media,Mecanico-0
+"Oi, o carro está fazendo barulho na suspensão o quanto antes.",Mecanico,media,Mecanico-0
+Urgente: o carro está fazendo barulho na suspensão o quanto antes.,Mecanico,media,Mecanico-0
+"Bom dia, o carro está fazendo barulho na suspensão o quanto antes.",Mecanico,media,Mecanico-0
+"Oi, o carro está fazendo barulho na suspensão",Mecanico,media,Mecanico-0
+A moto não dá partida,Mecanico,media,Mecanico-1
+Urgente: a moto não dá partida quanto fica mais ou menos?,Mecanico,media,Mecanico-1
+"Bom dia, a moto não dá partida hoje.",Mecanico,media,Mecanico-1
+"Oi, a moto não dá partida hoje.",Mecanico,media,Mecanico-1
+"Por favor, a moto não dá partida o quanto antes.",Mecanico,media,Mecanico-1
+Urgente: a moto não dá partida alguém pode vir ver?,Mecanico,media,Mecanico-1
+"Olá, a luz de óleo e de injeção acendeu no painel alguém pode vir ver?",Mecanico,media,Mecanico-2
+"Por favor, a luz de óleo e de injeção acendeu no painel é no fim de semana?",Mecanico,media,Mecanico-2
+"Bom dia, a luz de óleo e de injeção acendeu no painel é no fim de semana?",Mecanico,media,Mecanico-2
+"Por favor, a luz de óleo e de injeção acendeu no painel é no fim de semana?",Mecanico,media,Mecanico-2
+Preciso de ajuda: a luz de óleo e de injeção acendeu no painel é no fim de semana?,Mecanico,media,Mecanico-2
+"Olá, a luz de óleo e de injeção acendeu no painel.",Mecanico,media,Mecanico-2
+"Oi, o carro morreu e preciso de uma chupeta na bateria é no fim de semana?",Mecanico,baixa,Mecanico-3
+"Por favor, o carro morreu e preciso de uma chupeta na bateria moro no térreo.",Mecanico,baixa,Mecanico-3
+"Por favor, o carro morreu e preciso de uma chupeta na bateria o quanto antes.",Mecanico,baixa,Mecanico-3
+Preciso de ajuda: o carro morreu e preciso de uma chupeta na bateria quanto fica mais ou menos?,Mecanico,baixa,Mecanico-3
+"Bom dia, o carro morreu e preciso de uma chupeta na bateria moro no térreo.",Mecanico,baixa,Mecanico-3
+Urgente: o carro morreu e preciso de uma chupeta na bateria o quanto antes.,Mecanico,baixa,Mecanico-3
+Urgente: o carro está saindo fumaça do escapamento moro no térreo.,Mecanico,alta,Mecanico-4
+Preciso de ajuda: o carro está saindo fumaça do escapamento.,Mecanico,alta,Mecanico-4
+"Por favor, o carro está saindo fumaça do escapamento o quanto antes.",Mecanico,alta,Mecanico-4
+Urgente: o carro está saindo fumaça do escapamento alguém pode vir ver?,Mecanico,alta,Mecanico-4
+"Olá, o carro está saindo fumaça do escapamento.",Mecanico,alta,Mecanico-4
+"Oi, o carro está saindo fumaça do escapamento hoje.",Mecanico,alta,Mecanico-4
+"Olá, a embreagem está dura e patinando o quanto antes.",Mecanico,alta,Mecanico-5
+"Bom dia, a embreagem está dura e patinando é no fim de semana?",Mecanico,alta,Mecanico-5
+"Oi, a embreagem está dura e patinando quanto fica mais ou menos?",Mecanico,alta,Mecanico-5
+A embreagem está dura e patinando alguém pode vir ver?,Mecanico,alta,Mecanico-5
+"Por favor, a embreagem está dura e patinando alguém pode vir ver?",Mecanico,alta,Mecanico-5
+Urgente: a embreagem está dura e patinando.,Mecanico,alta,Mecanico-5
+Urgente: o carro está puxando para o lado e o volante treme,Mecanico,media,Mecanico-6
+"Bom dia, o carro está puxando para o lado e o volante treme quanto fica mais ou menos?",Mecanico,media,Mecanico-6
+"Bom dia, o carro está puxando para o lado e o volante treme.",Mecanico,media,Mecanico-6
+"Por favor, o carro está puxando para o lado e o volante treme é no fim de semana?",Mecanico,media,Mecanico-6
+Preciso de ajuda: o carro está puxando para o lado e o volante treme é no fim de semana?,Mecanico,media,Mecanico-6
+Urgente: o carro está puxando para o lado e o volante treme moro no térreo.,Mecanico,media,Mecanico-6
+"Oi, preciso trocar os pneus e fazer alinhamento.",Mecanico,media,Mecanico-7
+Preciso trocar os pneus e fazer alinhamento alguém pode vir ver?,Mecanico,media,Mecanico-7
+Preciso trocar os pneus e fazer alinhamento,Mecanico,media,Mecanico-7
+Preciso de ajuda: preciso trocar os pneus e fazer alinhamento hoje.,Mecanico,media,Mecanico-7
+"Olá, preciso trocar os pneus e fazer alinhamento moro no térreo.",Mecanico,media,Mecanico-7
+"Por favor, preciso trocar os pneus e fazer alinhamento moro no térreo.",Mecanico,media,Mecanico-7
+"Olá, o carro não pega de manhã alguém pode vir ver?",Mecanico,media,Mecanico-8
+Preciso de ajuda: o carro não pega de manhã alguém pode vir ver?,Mecanico,media,Mecanico-8
+O carro não pega de manhã alguém pode vir ver?,Mecanico,media,Mecanico-8
+"Olá, o carro não pega de manhã alguém pode vir ver?",Mecanico,media,Mecanico-8
+"Por favor, o carro não pega de manhã quanto fica mais ou menos?",Mecanico,media,Mecanico-8
+"Bom dia, o carro não pega de manhã quanto fica mais ou menos?",Mecanico,media,Mecanico-8
+Preciso de ajuda: a bateria do carro arriou.,Mecanico,baixa,Mecanico-9
+"Por favor, a bateria do carro arriou hoje.",Mecanico,baixa,Mecanico-9
+"Bom dia, a bateria do carro arriou alguém pode vir ver?",Mecanico,baixa,Mecanico-9
+"Oi, a bateria do carro arriou",Mecanico,baixa,Mecanico-9
+"Olá, a bateria do carro arriou é no fim de semana?",Mecanico,baixa,Mecanico-9
+A bateria do carro arriou moro no térreo.,Mecanico,baixa,Mecanico-9
+"Oi, preciso trocar o óleo da moto",Mecanico,baixa,Mecanico-10
+Urgente: preciso trocar o óleo da moto,Mecanico,baixa,Mecanico-10
+Preciso trocar o óleo da moto,Mecanico,baixa,Mecanico-10
+Preciso trocar o óleo da moto,Mecanico,baixa,Mecanico-10
+Urgente: preciso trocar o óleo da moto moro no térreo.,Mecanico,baixa,Mecanico-10
+Urgente: preciso trocar o óleo da moto hoje.,Mecanico,baixa,Mecanico-10
+O freio do carro está fazendo barulho,Mecanico,media,Mecanico-11
+"Oi, o freio do carro está fazendo barulho",Mecanico,media,Mecanico-11
+"Por favor, o freio do carro está fazendo barulho",Mecanico,media,Mecanico-11
+Preciso de ajuda: o freio do carro está fazendo barulho.,Mecanico,media,Mecanico-11
+"Oi, o freio do carro está fazendo barulho",Mecanico,media,Mecanico-11
+"Olá, o freio do carro está fazendo barulho hoje.",Mecanico,media,Mecanico-11
+"Oi, o pneu furou e não tenho estepe o quanto antes.",Mecanico,baixa,Mecanico-12
+"Olá, o pneu furou e não tenho estepe",Mecanico,baixa,Mecanico-12
+"Bom dia, o pneu furou e não tenho estepe quanto fica mais ou menos?",Mecanico,baixa,Mecanico-12
+O pneu furou e não tenho estepe o quanto antes.,Mecanico,baixa,Mecanico-12
+O pneu furou e não tenho estepe alguém pode vir ver?,Mecanico,baixa,Mecanico-12
+Preciso de ajuda: o pneu furou e não tenho estepe quanto fica mais ou menos?,Mecanico,baixa,Mecanico-12
+"Oi, a moto está falhando e morrendo no meio da rua.",Mecanico,media,Mecanico-13
+"Oi, a moto está falhando e morrendo no meio da rua é no fim de semana?",Mecanico,media,Mecanico-13
+"Por favor, a moto está falhando e morrendo no meio da rua.",Mecanico,media,Mecanico-13
+A moto está falhando e morrendo no meio da rua alguém pode vir ver?,Mecanico,media,Mecanico-13
+"Oi, a moto está falhando e morrendo no meio da rua o quanto antes.",Mecanico,media,Mecanico-13
+"Bom dia, a moto está falhando e morrendo no meio da rua.",Mecanico,media,Mecanico-13
+Preciso de uma revisão básica no carro,Mecanico,media,Mecanico-14
+"Olá, preciso de uma revisão básica no carro",Mecanico,media,Mecanico-14
+"Olá, preciso de uma revisão básica no carro o quanto antes.",Mecanico,media,Mecanico-14
+Preciso de uma revisão básica no carro,Mecanico,media,Mecanico-14
+"Por favor, preciso de uma revisão básica no carro alguém pode vir ver?",Mecanico,media,Mecanico-14
+Preciso de uma revisão básica no carro o quanto antes.,Mecanico,media,Mecanico-14
+O motor do carro está esquentando demais,Mecanico,alta,Mecanico-15
+"Bom dia, o motor do carro está esquentando demais hoje.",Mecanico,alta,Mecanico-15
+"Oi, o motor do carro está esquentando demais o quanto antes.",Mecanico,alta,Mecanico-15
+"Por favor, o motor do carro está esquentando demais quanto fica mais ou menos?",Mecanico,alta,Mecanico-15
+O motor do carro está esquentando demais é no fim de semana?,Mecanico,alta,Mecanico-15
+"Oi, o motor do carro está esquentando demais.",Mecanico,alta,Mecanico-15

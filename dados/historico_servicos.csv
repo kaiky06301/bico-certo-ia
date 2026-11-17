@@ -1,0 +1,669 @@
+id,descricao,categoria,complexidade,bairro,valor_pago,nota
+1,"Bom dia, o quadro de energia está esquentando hoje.",Eletrica,media,Centro,175,3
+2,O quadro de energia está esquentando hoje.,Eletrica,media,Jardim São Luís,195,5
+3,Urgente: o quadro de energia está esquentando.,Eletrica,media,Jardim Ângela,230,5
+4,"Oi, o quadro de energia está esquentando",Eletrica,media,Campo Limpo,230,5
+5,Urgente: o quadro de energia está esquentando hoje.,Eletrica,media,Centro,225,4
+6,Preciso de ajuda: a energia da casa cai quando ligo o chuveiro.,Eletrica,media,Grajaú,240,4
+7,"Olá, a energia da casa cai quando ligo o chuveiro quanto fica mais ou menos?",Eletrica,media,Capão Redondo,240,5
+8,Urgente: a energia da casa cai quando ligo o chuveiro.,Eletrica,media,Centro,195,4
+9,Preciso de ajuda: a energia da casa cai quando ligo o chuveiro.,Eletrica,media,Jardim Ângela,235,5
+10,"Bom dia, preciso trocar o interruptor e o espelho da tomada quanto fica mais ou menos?",Eletrica,baixa,Capão Redondo,135,5
+11,"Por favor, preciso trocar o interruptor e o espelho da tomada moro no térreo.",Eletrica,baixa,Campo Limpo,100,4
+12,Preciso trocar o interruptor e o espelho da tomada é no fim de semana?,Eletrica,baixa,Jardim São Luís,160,4
+13,"Quero instalar lustre, luminária e spots de led é no fim de semana?",Eletrica,media,Jardim São Luís,190,5
+14,"Olá, quero instalar lustre, luminária e spots de led moro no térreo.",Eletrica,media,Centro,200,4
+15,"Preciso de ajuda: quero instalar lustre, luminária e spots de led.",Eletrica,media,Jardim Ângela,175,5
+16,"Urgente: quero instalar lustre, luminária e spots de led hoje.",Eletrica,media,Jardim São Luís,175,5
+17,"Oi, quero instalar lustre, luminária e spots de led é no fim de semana?",Eletrica,media,Jardim Ângela,205,4
+18,Urgente: a resistência do chuveiro queimou e só sai água gelada hoje.,Eletrica,baixa,Capão Redondo,125,5
+19,"Olá, a resistência do chuveiro queimou e só sai água gelada alguém pode vir ver?",Eletrica,baixa,Jardim Ângela,130,3
+20,Urgente: a resistência do chuveiro queimou e só sai água gelada alguém pode vir ver?,Eletrica,baixa,Jardim Ângela,115,5
+21,"Oi, a fiação está velha, esquentando e com cheiro de queimado",Eletrica,alta,Grajaú,330,5
+22,"Urgente: a fiação está velha, esquentando e com cheiro de queimado moro no térreo.",Eletrica,alta,Capão Redondo,285,5
+23,"A fiação está velha, esquentando e com cheiro de queimado quanto fica mais ou menos?",Eletrica,alta,Capão Redondo,275,4
+24,"A fiação está velha, esquentando e com cheiro de queimado quanto fica mais ou menos?",Eletrica,alta,Centro,250,3
+25,"Olá, preciso de um eletricista para instalar o padrão de energia hoje.",Eletrica,alta,Campo Limpo,335,5
+26,Preciso de ajuda: preciso de um eletricista para instalar o padrão de energia moro no térreo.,Eletrica,alta,Grajaú,290,4
+27,Urgente: preciso de um eletricista para instalar o padrão de energia quanto fica mais ou menos?,Eletrica,alta,Centro,345,4
+28,"Oi, preciso de um eletricista para instalar o padrão de energia é no fim de semana?",Eletrica,alta,Grajaú,245,5
+29,A campainha e o interfone pararam de funcionar é no fim de semana?,Eletrica,baixa,Grajaú,90,3
+30,"Olá, a campainha e o interfone pararam de funcionar moro no térreo.",Eletrica,baixa,Jardim São Luís,85,3
+31,A campainha e o interfone pararam de funcionar hoje.,Eletrica,baixa,Jardim Ângela,95,5
+32,"Por favor, a campainha e o interfone pararam de funcionar é no fim de semana?",Eletrica,baixa,Centro,155,4
+33,"Olá, a tomada da cozinha parou de funcionar hoje.",Eletrica,baixa,Jardim São Luís,105,5
+34,"Por favor, a tomada da cozinha parou de funcionar moro no térreo.",Eletrica,baixa,Campo Limpo,85,4
+35,"Por favor, a tomada da cozinha parou de funcionar moro no térreo.",Eletrica,baixa,Capão Redondo,85,5
+36,"Por favor, a tomada da cozinha parou de funcionar",Eletrica,baixa,Jardim São Luís,95,5
+37,"Oi, a tomada da cozinha parou de funcionar.",Eletrica,baixa,Grajaú,140,5
+38,Urgente: o disjuntor cai toda hora.,Eletrica,media,Jardim Ângela,230,4
+39,"Olá, o disjuntor cai toda hora o quanto antes.",Eletrica,media,Grajaú,185,5
+40,"Bom dia, o disjuntor cai toda hora moro no térreo.",Eletrica,media,Capão Redondo,210,5
+41,Preciso de ajuda: o chuveiro elétrico queimou a resistência,Eletrica,baixa,Capão Redondo,105,4
+42,O chuveiro elétrico queimou a resistência é no fim de semana?,Eletrica,baixa,Capão Redondo,85,5
+43,O chuveiro elétrico queimou a resistência hoje.,Eletrica,baixa,Jardim Ângela,110,4
+44,O chuveiro elétrico queimou a resistência moro no térreo.,Eletrica,baixa,Jardim Ângela,80,5
+45,O chuveiro elétrico queimou a resistência.,Eletrica,baixa,Campo Limpo,125,4
+46,Preciso de ajuda: o chuveiro elétrico queimou a resistência alguém pode vir ver?,Eletrica,baixa,Capão Redondo,145,4
+47,Saiu faísca do interruptor da sala,Eletrica,media,Centro,160,4
+48,Preciso de ajuda: saiu faísca do interruptor da sala é no fim de semana?,Eletrica,media,Grajaú,215,4
+49,"Bom dia, saiu faísca do interruptor da sala hoje.",Eletrica,media,Grajaú,160,5
+50,"Olá, saiu faísca do interruptor da sala hoje.",Eletrica,media,Jardim Ângela,250,5
+51,"Por favor, saiu faísca do interruptor da sala é no fim de semana?",Eletrica,media,Jardim Ângela,200,5
+52,"Oi, preciso instalar um ventilador de teto é no fim de semana?",Eletrica,media,Capão Redondo,180,3
+53,"Bom dia, preciso instalar um ventilador de teto alguém pode vir ver?",Eletrica,media,Jardim Ângela,180,5
+54,Preciso de ajuda: preciso instalar um ventilador de teto moro no térreo.,Eletrica,media,Campo Limpo,220,4
+55,"Olá, preciso instalar um ventilador de teto quanto fica mais ou menos?",Eletrica,media,Jardim São Luís,175,3
+56,Urgente: preciso instalar um ventilador de teto hoje.,Eletrica,media,Centro,235,5
+57,"Oi, preciso instalar um ventilador de teto alguém pode vir ver?",Eletrica,media,Campo Limpo,225,5
+58,"Oi, a luz do quarto fica piscando",Eletrica,baixa,Campo Limpo,145,5
+59,"Oi, a luz do quarto fica piscando.",Eletrica,baixa,Jardim Ângela,130,5
+60,Urgente: a luz do quarto fica piscando,Eletrica,baixa,Grajaú,110,3
+61,"Bom dia, a luz do quarto fica piscando é no fim de semana?",Eletrica,baixa,Campo Limpo,155,3
+62,Preciso de ajuda: a luz do quarto fica piscando é no fim de semana?,Eletrica,baixa,Capão Redondo,105,4
+63,Urgente: a luz do quarto fica piscando o quanto antes.,Eletrica,baixa,Jardim Ângela,95,5
+64,"Oi, deu curto-circuito e metade da casa ficou sem energia quanto fica mais ou menos?",Eletrica,alta,Jardim São Luís,255,5
+65,"Por favor, deu curto-circuito e metade da casa ficou sem energia é no fim de semana?",Eletrica,alta,Campo Limpo,270,5
+66,"Por favor, deu curto-circuito e metade da casa ficou sem energia alguém pode vir ver?",Eletrica,alta,Capão Redondo,335,5
+67,"Olá, deu curto-circuito e metade da casa ficou sem energia",Eletrica,alta,Campo Limpo,285,4
+68,"Por favor, quero trocar a fiação antiga do apartamento é no fim de semana?",Eletrica,alta,Jardim São Luís,350,3
+69,"Oi, quero trocar a fiação antiga do apartamento moro no térreo.",Eletrica,alta,Jardim São Luís,295,5
+70,"Bom dia, quero trocar a fiação antiga do apartamento.",Eletrica,alta,Jardim São Luís,320,5
+71,Quero trocar a fiação antiga do apartamento quanto fica mais ou menos?,Eletrica,alta,Centro,300,3
+72,Preciso de ajuda: preciso instalar uma tomada nova para o ar-condicionado é no fim de semana?,Eletrica,media,Jardim Ângela,235,3
+73,Preciso de ajuda: preciso instalar uma tomada nova para o ar-condicionado quanto fica mais ou menos?,Eletrica,media,Jardim São Luís,210,4
+74,Urgente: preciso instalar uma tomada nova para o ar-condicionado quanto fica mais ou menos?,Eletrica,media,Capão Redondo,160,3
+75,"Por favor, preciso instalar uma tomada nova para o ar-condicionado quanto fica mais ou menos?",Eletrica,media,Jardim São Luís,220,3
+76,"Por favor, a lâmpada do banheiro não acende mesmo trocando hoje.",Eletrica,baixa,Jardim Ângela,150,5
+77,A lâmpada do banheiro não acende mesmo trocando.,Eletrica,baixa,Grajaú,155,5
+78,Preciso de ajuda: a lâmpada do banheiro não acende mesmo trocando hoje.,Eletrica,baixa,Centro,120,4
+79,"Olá, a lâmpada do banheiro não acende mesmo trocando quanto fica mais ou menos?",Eletrica,baixa,Centro,90,5
+80,Urgente: o encanamento está com vazamento e a conta de água subiu hoje.,Encanamento,media,Campo Limpo,265,4
+81,O encanamento está com vazamento e a conta de água subiu quanto fica mais ou menos?,Encanamento,media,Jardim São Luís,190,5
+82,"Bom dia, o encanamento está com vazamento e a conta de água subiu o quanto antes.",Encanamento,media,Jardim Ângela,235,3
+83,"Oi, o encanamento está com vazamento e a conta de água subiu quanto fica mais ou menos?",Encanamento,media,Jardim São Luís,210,4
+84,O encanamento está com vazamento e a conta de água subiu alguém pode vir ver?,Encanamento,media,Capão Redondo,245,4
+85,"Por favor, o encanamento está com vazamento e a conta de água subiu alguém pode vir ver?",Encanamento,media,Campo Limpo,210,5
+86,"Oi, o esgoto está voltando com mau cheiro hoje.",Encanamento,media,Grajaú,200,4
+87,O esgoto está voltando com mau cheiro,Encanamento,media,Jardim Ângela,180,3
+88,"Olá, o esgoto está voltando com mau cheiro é no fim de semana?",Encanamento,media,Grajaú,205,5
+89,Preciso de ajuda: o esgoto está voltando com mau cheiro hoje.,Encanamento,media,Jardim Ângela,215,3
+90,"Olá, o esgoto está voltando com mau cheiro o quanto antes.",Encanamento,media,Capão Redondo,175,5
+91,"Bom dia, o esgoto está voltando com mau cheiro quanto fica mais ou menos?",Encanamento,media,Capão Redondo,200,3
+92,Urgente: a máquina de lavar está vazando pela mangueira moro no térreo.,Encanamento,baixa,Jardim Ângela,130,3
+93,"Oi, a máquina de lavar está vazando pela mangueira alguém pode vir ver?",Encanamento,baixa,Jardim Ângela,105,4
+94,"Oi, a máquina de lavar está vazando pela mangueira o quanto antes.",Encanamento,baixa,Jardim São Luís,80,5
+95,"Oi, a máquina de lavar está vazando pela mangueira o quanto antes.",Encanamento,baixa,Campo Limpo,100,5
+96,Urgente: o sifão da pia quebrou é no fim de semana?,Encanamento,baixa,Grajaú,95,3
+97,"Por favor, o sifão da pia quebrou.",Encanamento,baixa,Capão Redondo,100,5
+98,"Por favor, o sifão da pia quebrou alguém pode vir ver?",Encanamento,baixa,Jardim São Luís,75,5
+99,"Bom dia, o tanque da lavanderia está entupido alguém pode vir ver?",Encanamento,baixa,Campo Limpo,145,3
+100,O tanque da lavanderia está entupido quanto fica mais ou menos?,Encanamento,baixa,Grajaú,95,5
+101,"Bom dia, o tanque da lavanderia está entupido.",Encanamento,baixa,Campo Limpo,125,3
+102,O tanque da lavanderia está entupido o quanto antes.,Encanamento,baixa,Jardim Ângela,75,4
+103,"Oi, o tanque da lavanderia está entupido",Encanamento,baixa,Campo Limpo,145,3
+104,Preciso de ajuda: o tanque da lavanderia está entupido o quanto antes.,Encanamento,baixa,Jardim São Luís,120,3
+105,"Por favor, a boia da caixa d'água quebrou é no fim de semana?",Encanamento,baixa,Capão Redondo,160,3
+106,A boia da caixa d'água quebrou,Encanamento,baixa,Capão Redondo,125,4
+107,Urgente: a boia da caixa d'água quebrou alguém pode vir ver?,Encanamento,baixa,Campo Limpo,100,3
+108,"Bom dia, a boia da caixa d'água quebrou.",Encanamento,baixa,Campo Limpo,165,4
+109,Urgente: a boia da caixa d'água quebrou o quanto antes.,Encanamento,baixa,Centro,135,4
+110,Tem água minando do chão do banheiro hoje.,Encanamento,alta,Campo Limpo,305,5
+111,Tem água minando do chão do banheiro hoje.,Encanamento,alta,Grajaú,380,5
+112,Urgente: tem água minando do chão do banheiro,Encanamento,alta,Campo Limpo,345,4
+113,Preciso de um encanador para trocar a torneira alguém pode vir ver?,Encanamento,baixa,Jardim Ângela,90,5
+114,"Olá, preciso de um encanador para trocar a torneira o quanto antes.",Encanamento,baixa,Grajaú,110,5
+115,"Por favor, preciso de um encanador para trocar a torneira quanto fica mais ou menos?",Encanamento,baixa,Centro,100,3
+116,"Oi, preciso de um encanador para trocar a torneira moro no térreo.",Encanamento,baixa,Campo Limpo,85,5
+117,"Bom dia, a pia da cozinha está entupida",Encanamento,baixa,Campo Limpo,130,5
+118,Preciso de ajuda: a pia da cozinha está entupida,Encanamento,baixa,Grajaú,105,4
+119,Preciso de ajuda: a pia da cozinha está entupida moro no térreo.,Encanamento,baixa,Jardim São Luís,145,4
+120,"Por favor, a pia da cozinha está entupida moro no térreo.",Encanamento,baixa,Jardim Ângela,125,4
+121,"Por favor, a pia da cozinha está entupida é no fim de semana?",Encanamento,baixa,Capão Redondo,170,5
+122,"Bom dia, está vazando água embaixo da pia",Encanamento,media,Grajaú,200,3
+123,"Olá, está vazando água embaixo da pia moro no térreo.",Encanamento,media,Jardim São Luís,255,3
+124,"Oi, está vazando água embaixo da pia alguém pode vir ver?",Encanamento,media,Jardim Ângela,205,5
+125,Urgente: está vazando água embaixo da pia.,Encanamento,media,Grajaú,195,4
+126,A descarga não para de correr água quanto fica mais ou menos?,Encanamento,baixa,Centro,165,3
+127,"Bom dia, a descarga não para de correr água o quanto antes.",Encanamento,baixa,Grajaú,75,4
+128,"Oi, a descarga não para de correr água quanto fica mais ou menos?",Encanamento,baixa,Jardim São Luís,110,5
+129,"Por favor, a descarga não para de correr água é no fim de semana?",Encanamento,baixa,Grajaú,125,5
+130,"Bom dia, o ralo do banheiro voltou a entupir alguém pode vir ver?",Encanamento,baixa,Capão Redondo,120,3
+131,"Por favor, o ralo do banheiro voltou a entupir o quanto antes.",Encanamento,baixa,Grajaú,170,4
+132,O ralo do banheiro voltou a entupir é no fim de semana?,Encanamento,baixa,Centro,135,5
+133,A torneira está pingando sem parar alguém pode vir ver?,Encanamento,baixa,Jardim Ângela,150,5
+134,"Por favor, a torneira está pingando sem parar moro no térreo.",Encanamento,baixa,Campo Limpo,140,3
+135,Preciso de ajuda: a torneira está pingando sem parar,Encanamento,baixa,Grajaú,115,4
+136,"Oi, a torneira está pingando sem parar quanto fica mais ou menos?",Encanamento,baixa,Centro,80,5
+137,Urgente: o cano estourou dentro da parede alguém pode vir ver?,Encanamento,alta,Grajaú,320,4
+138,O cano estourou dentro da parede hoje.,Encanamento,alta,Jardim Ângela,400,3
+139,"Olá, o cano estourou dentro da parede alguém pode vir ver?",Encanamento,alta,Centro,310,5
+140,"Bom dia, o cano estourou dentro da parede",Encanamento,alta,Jardim Ângela,355,5
+141,"Por favor, a caixa d'água está transbordando quanto fica mais ou menos?",Encanamento,media,Centro,160,5
+142,"Oi, a caixa d'água está transbordando quanto fica mais ou menos?",Encanamento,media,Centro,185,5
+143,Preciso de ajuda: a caixa d'água está transbordando é no fim de semana?,Encanamento,media,Grajaú,170,5
+144,"Oi, a caixa d'água está transbordando moro no térreo.",Encanamento,media,Campo Limpo,215,5
+145,"Oi, a caixa d'água está transbordando",Encanamento,media,Grajaú,200,4
+146,Urgente: a caixa d'água está transbordando o quanto antes.,Encanamento,media,Grajaú,270,5
+147,"Oi, o registro do chuveiro não fecha direito",Encanamento,media,Centro,225,5
+148,Preciso de ajuda: o registro do chuveiro não fecha direito moro no térreo.,Encanamento,media,Jardim Ângela,160,4
+149,"Bom dia, o registro do chuveiro não fecha direito alguém pode vir ver?",Encanamento,media,Centro,215,5
+150,"Oi, o registro do chuveiro não fecha direito alguém pode vir ver?",Encanamento,media,Centro,270,4
+151,"Oi, o registro do chuveiro não fecha direito alguém pode vir ver?",Encanamento,media,Capão Redondo,260,4
+152,O registro do chuveiro não fecha direito.,Encanamento,media,Centro,165,4
+153,Preciso de ajuda: tem infiltração de água vindo do apartamento de cima,Encanamento,alta,Jardim Ângela,370,5
+154,"Bom dia, tem infiltração de água vindo do apartamento de cima",Encanamento,alta,Campo Limpo,340,5
+155,"Por favor, tem infiltração de água vindo do apartamento de cima quanto fica mais ou menos?",Encanamento,alta,Jardim São Luís,335,4
+156,Urgente: tem infiltração de água vindo do apartamento de cima alguém pode vir ver?,Encanamento,alta,Campo Limpo,330,3
+157,O vaso sanitário está entupido é no fim de semana?,Encanamento,baixa,Centro,160,4
+158,Preciso de ajuda: o vaso sanitário está entupido o quanto antes.,Encanamento,baixa,Grajaú,145,5
+159,"Olá, o vaso sanitário está entupido hoje.",Encanamento,baixa,Jardim São Luís,80,5
+160,"Bom dia, preciso de uma diarista para faxina quinzenal.",Limpeza,baixa,Grajaú,135,4
+161,"Por favor, preciso de uma diarista para faxina quinzenal.",Limpeza,baixa,Capão Redondo,140,4
+162,"Oi, preciso de uma diarista para faxina quinzenal quanto fica mais ou menos?",Limpeza,baixa,Jardim Ângela,140,5
+163,"Por favor, preciso de uma diarista para faxina quinzenal alguém pode vir ver?",Limpeza,baixa,Jardim São Luís,125,5
+164,"Olá, preciso de uma diarista para faxina quinzenal hoje.",Limpeza,baixa,Jardim Ângela,125,4
+165,"Olá, a casa está muito suja depois de uma festa quanto fica mais ou menos?",Limpeza,media,Jardim São Luís,175,4
+166,Urgente: a casa está muito suja depois de uma festa quanto fica mais ou menos?,Limpeza,media,Campo Limpo,185,3
+167,"Bom dia, a casa está muito suja depois de uma festa o quanto antes.",Limpeza,media,Capão Redondo,205,5
+168,"Bom dia, a casa está muito suja depois de uma festa hoje.",Limpeza,media,Centro,175,4
+169,"Por favor, a casa está muito suja depois de uma festa.",Limpeza,media,Campo Limpo,225,4
+170,"Preciso de ajuda: quero limpar o fogão, o forno e a geladeira.",Limpeza,baixa,Centro,170,4
+171,"Preciso de ajuda: quero limpar o fogão, o forno e a geladeira.",Limpeza,baixa,Grajaú,135,5
+172,"Bom dia, quero limpar o fogão, o forno e a geladeira quanto fica mais ou menos?",Limpeza,baixa,Campo Limpo,165,4
+173,"Quero limpar o fogão, o forno e a geladeira moro no térreo.",Limpeza,baixa,Centro,140,4
+174,"Por favor, quero limpar o fogão, o forno e a geladeira quanto fica mais ou menos?",Limpeza,baixa,Capão Redondo,175,4
+175,Preciso tirar o pó e a sujeira depois da reforma alguém pode vir ver?,Limpeza,alta,Grajaú,240,4
+176,Preciso tirar o pó e a sujeira depois da reforma.,Limpeza,alta,Grajaú,275,5
+177,"Oi, preciso tirar o pó e a sujeira depois da reforma hoje.",Limpeza,alta,Jardim São Luís,295,5
+178,"Bom dia, preciso tirar o pó e a sujeira depois da reforma o quanto antes.",Limpeza,alta,Campo Limpo,295,5
+179,"Olá, quero lavar o tapete e tirar manchas quanto fica mais ou menos?",Limpeza,baixa,Capão Redondo,125,5
+180,"Bom dia, quero lavar o tapete e tirar manchas hoje.",Limpeza,baixa,Centro,165,5
+181,"Bom dia, quero lavar o tapete e tirar manchas alguém pode vir ver?",Limpeza,baixa,Jardim São Luís,120,4
+182,"Por favor, preciso de faxina pesada no quintal e na garagem o quanto antes.",Limpeza,media,Capão Redondo,165,5
+183,Preciso de faxina pesada no quintal e na garagem quanto fica mais ou menos?,Limpeza,media,Capão Redondo,185,5
+184,"Bom dia, preciso de faxina pesada no quintal e na garagem moro no térreo.",Limpeza,media,Campo Limpo,195,4
+185,"Olá, quero higienizar cadeiras e poltronas estofadas alguém pode vir ver?",Limpeza,media,Centro,205,4
+186,Quero higienizar cadeiras e poltronas estofadas hoje.,Limpeza,media,Jardim Ângela,195,4
+187,"Bom dia, quero higienizar cadeiras e poltronas estofadas",Limpeza,media,Centro,205,4
+188,"Olá, quero higienizar cadeiras e poltronas estofadas o quanto antes.",Limpeza,media,Centro,225,4
+189,"Por favor, preciso deixar o apartamento limpo para entregar as chaves moro no térreo.",Limpeza,media,Centro,215,3
+190,Urgente: preciso deixar o apartamento limpo para entregar as chaves é no fim de semana?,Limpeza,media,Capão Redondo,230,4
+191,"Olá, preciso deixar o apartamento limpo para entregar as chaves quanto fica mais ou menos?",Limpeza,media,Campo Limpo,190,4
+192,Preciso de ajuda: preciso de uma faxina completa na casa o quanto antes.,Limpeza,media,Campo Limpo,185,4
+193,"Bom dia, preciso de uma faxina completa na casa moro no térreo.",Limpeza,media,Capão Redondo,210,5
+194,"Bom dia, preciso de uma faxina completa na casa moro no térreo.",Limpeza,media,Centro,210,5
+195,Preciso de ajuda: preciso de uma faxina completa na casa hoje.,Limpeza,media,Centro,230,5
+196,Preciso de uma faxina completa na casa quanto fica mais ou menos?,Limpeza,media,Capão Redondo,220,4
+197,Quero uma limpeza pós-obra no apartamento o quanto antes.,Limpeza,alta,Grajaú,270,4
+198,Quero uma limpeza pós-obra no apartamento o quanto antes.,Limpeza,alta,Jardim São Luís,255,5
+199,Preciso de ajuda: quero uma limpeza pós-obra no apartamento,Limpeza,alta,Campo Limpo,265,5
+200,Quero uma limpeza pós-obra no apartamento moro no térreo.,Limpeza,alta,Grajaú,280,5
+201,"Por favor, quero uma limpeza pós-obra no apartamento o quanto antes.",Limpeza,alta,Grajaú,290,5
+202,"Oi, quero uma limpeza pós-obra no apartamento.",Limpeza,alta,Jardim Ângela,255,5
+203,"Por favor, preciso limpar os vidros e as janelas moro no térreo.",Limpeza,baixa,Jardim São Luís,140,4
+204,"Oi, preciso limpar os vidros e as janelas",Limpeza,baixa,Grajaú,160,4
+205,Preciso limpar os vidros e as janelas,Limpeza,baixa,Centro,125,5
+206,"Olá, preciso limpar os vidros e as janelas quanto fica mais ou menos?",Limpeza,baixa,Jardim São Luís,130,5
+207,"Por favor, o sofá está muito sujo e precisa de higienização alguém pode vir ver?",Limpeza,media,Campo Limpo,175,4
+208,"Olá, o sofá está muito sujo e precisa de higienização é no fim de semana?",Limpeza,media,Grajaú,205,3
+209,"Bom dia, o sofá está muito sujo e precisa de higienização o quanto antes.",Limpeza,media,Capão Redondo,170,5
+210,Urgente: o sofá está muito sujo e precisa de higienização.,Limpeza,media,Jardim São Luís,175,3
+211,"Bom dia, o sofá está muito sujo e precisa de higienização hoje.",Limpeza,media,Jardim Ângela,190,3
+212,"Olá, preciso organizar e limpar a casa antes da mudança.",Limpeza,media,Jardim São Luís,235,4
+213,"Oi, preciso organizar e limpar a casa antes da mudança é no fim de semana?",Limpeza,media,Jardim São Luís,220,4
+214,Urgente: preciso organizar e limpar a casa antes da mudança hoje.,Limpeza,media,Jardim São Luís,165,5
+215,Urgente: preciso organizar e limpar a casa antes da mudança.,Limpeza,media,Centro,230,5
+216,"Bom dia, preciso organizar e limpar a casa antes da mudança o quanto antes.",Limpeza,media,Centro,180,4
+217,"Oi, quero uma diarista para a limpeza semanal quanto fica mais ou menos?",Limpeza,baixa,Capão Redondo,155,4
+218,Quero uma diarista para a limpeza semanal quanto fica mais ou menos?,Limpeza,baixa,Campo Limpo,145,5
+219,Quero uma diarista para a limpeza semanal.,Limpeza,baixa,Jardim São Luís,150,5
+220,"Bom dia, a cozinha está engordurada e precisa de limpeza pesada alguém pode vir ver?",Limpeza,media,Jardim São Luís,210,5
+221,"Olá, a cozinha está engordurada e precisa de limpeza pesada quanto fica mais ou menos?",Limpeza,media,Jardim São Luís,200,5
+222,"Por favor, a cozinha está engordurada e precisa de limpeza pesada.",Limpeza,media,Jardim São Luís,220,5
+223,"Oi, a cozinha está engordurada e precisa de limpeza pesada",Limpeza,media,Jardim Ângela,230,4
+224,"Olá, a cozinha está engordurada e precisa de limpeza pesada é no fim de semana?",Limpeza,media,Campo Limpo,235,5
+225,"Oi, a cozinha está engordurada e precisa de limpeza pesada é no fim de semana?",Limpeza,media,Capão Redondo,180,5
+226,"Oi, preciso limpar o colchão e o tapete moro no térreo.",Limpeza,baixa,Campo Limpo,160,4
+227,Preciso limpar o colchão e o tapete moro no térreo.,Limpeza,baixa,Campo Limpo,145,5
+228,"Olá, preciso limpar o colchão e o tapete o quanto antes.",Limpeza,baixa,Grajaú,130,4
+229,"Por favor, preciso limpar o colchão e o tapete o quanto antes.",Limpeza,baixa,Jardim São Luís,170,5
+230,Quero trocar a cor da parede do quarto alguém pode vir ver?,Pintura,media,Campo Limpo,455,5
+231,Quero trocar a cor da parede do quarto.,Pintura,media,Centro,585,4
+232,"Olá, quero trocar a cor da parede do quarto.",Pintura,media,Jardim São Luís,500,3
+233,"Bom dia, quero trocar a cor da parede do quarto alguém pode vir ver?",Pintura,media,Capão Redondo,540,5
+234,Preciso de ajuda: o muro está sujo e pichado e precisa de tinta.,Pintura,media,Campo Limpo,405,3
+235,"Oi, o muro está sujo e pichado e precisa de tinta quanto fica mais ou menos?",Pintura,media,Capão Redondo,480,5
+236,"Por favor, o muro está sujo e pichado e precisa de tinta alguém pode vir ver?",Pintura,media,Campo Limpo,545,5
+237,"Olá, o muro está sujo e pichado e precisa de tinta.",Pintura,media,Jardim São Luís,405,5
+238,"Bom dia, o muro está sujo e pichado e precisa de tinta.",Pintura,media,Jardim Ângela,605,5
+239,"Bom dia, a tinta está bolhando por causa da umidade moro no térreo.",Pintura,media,Grajaú,435,5
+240,"Oi, a tinta está bolhando por causa da umidade moro no térreo.",Pintura,media,Capão Redondo,470,5
+241,"Olá, a tinta está bolhando por causa da umidade é no fim de semana?",Pintura,media,Capão Redondo,355,3
+242,"Olá, a tinta está bolhando por causa da umidade",Pintura,media,Grajaú,585,5
+243,"Olá, preciso de um pintor para pintar portas e janelas quanto fica mais ou menos?",Pintura,media,Centro,475,5
+244,"Oi, preciso de um pintor para pintar portas e janelas é no fim de semana?",Pintura,media,Jardim São Luís,610,5
+245,"Oi, preciso de um pintor para pintar portas e janelas.",Pintura,media,Jardim São Luís,515,5
+246,"Por favor, preciso de um pintor para pintar portas e janelas o quanto antes.",Pintura,media,Capão Redondo,465,5
+247,Preciso de ajuda: preciso de um pintor para pintar portas e janelas.,Pintura,media,Centro,490,4
+248,Preciso de um pintor para pintar portas e janelas o quanto antes.,Pintura,media,Grajaú,620,5
+249,"Bom dia, o teto da cozinha está encardido de gordura e precisa pintar é no fim de semana?",Pintura,media,Jardim Ângela,380,4
+250,Urgente: o teto da cozinha está encardido de gordura e precisa pintar,Pintura,media,Capão Redondo,415,3
+251,"Por favor, o teto da cozinha está encardido de gordura e precisa pintar alguém pode vir ver?",Pintura,media,Grajaú,590,5
+252,O teto da cozinha está encardido de gordura e precisa pintar quanto fica mais ou menos?,Pintura,media,Centro,385,5
+253,"Bom dia, o teto da cozinha está encardido de gordura e precisa pintar moro no térreo.",Pintura,media,Capão Redondo,430,5
+254,"Por favor, o teto da cozinha está encardido de gordura e precisa pintar quanto fica mais ou menos?",Pintura,media,Campo Limpo,425,4
+255,"Olá, quero aplicar textura e grafiato na parede.",Pintura,media,Centro,465,5
+256,"Oi, quero aplicar textura e grafiato na parede o quanto antes.",Pintura,media,Centro,610,4
+257,"Olá, quero aplicar textura e grafiato na parede moro no térreo.",Pintura,media,Capão Redondo,545,3
+258,"Bom dia, quero aplicar textura e grafiato na parede quanto fica mais ou menos?",Pintura,media,Capão Redondo,495,5
+259,"Oi, quero aplicar textura e grafiato na parede.",Pintura,media,Grajaú,410,4
+260,"Bom dia, preciso de retoque de pintura nas paredes riscadas quanto fica mais ou menos?",Pintura,baixa,Grajaú,340,3
+261,"Oi, preciso de retoque de pintura nas paredes riscadas hoje.",Pintura,baixa,Grajaú,180,5
+262,Urgente: preciso de retoque de pintura nas paredes riscadas hoje.,Pintura,baixa,Campo Limpo,280,3
+263,"Por favor, quero envernizar o deck e pintar a varanda",Pintura,media,Jardim São Luís,505,5
+264,Urgente: quero envernizar o deck e pintar a varanda quanto fica mais ou menos?,Pintura,media,Campo Limpo,440,4
+265,Preciso de ajuda: quero envernizar o deck e pintar a varanda hoje.,Pintura,media,Centro,535,5
+266,"Por favor, quero envernizar o deck e pintar a varanda alguém pode vir ver?",Pintura,media,Grajaú,435,4
+267,"Olá, quero envernizar o deck e pintar a varanda moro no térreo.",Pintura,media,Capão Redondo,525,4
+268,"Por favor, quero envernizar o deck e pintar a varanda moro no térreo.",Pintura,media,Capão Redondo,610,5
+269,"Oi, quero pintar a sala e o corredor",Pintura,media,Campo Limpo,395,4
+270,Preciso de ajuda: quero pintar a sala e o corredor.,Pintura,media,Jardim São Luís,385,3
+271,"Oi, quero pintar a sala e o corredor o quanto antes.",Pintura,media,Centro,525,4
+272,"Oi, quero pintar a sala e o corredor.",Pintura,media,Grajaú,635,4
+273,Quero pintar a sala e o corredor,Pintura,media,Campo Limpo,490,3
+274,"Olá, quero pintar a sala e o corredor moro no térreo.",Pintura,media,Jardim Ângela,425,5
+275,"Bom dia, a parede está descascando e precisa de pintura o quanto antes.",Pintura,media,Capão Redondo,345,3
+276,"Olá, a parede está descascando e precisa de pintura quanto fica mais ou menos?",Pintura,media,Grajaú,630,5
+277,"Oi, a parede está descascando e precisa de pintura moro no térreo.",Pintura,media,Jardim São Luís,430,5
+278,"Oi, a parede está descascando e precisa de pintura.",Pintura,media,Capão Redondo,545,3
+279,Preciso de ajuda: a parede está descascando e precisa de pintura.,Pintura,media,Capão Redondo,380,4
+280,"Olá, a parede está descascando e precisa de pintura",Pintura,media,Centro,620,4
+281,"Oi, preciso pintar o portão de ferro que enferrujou moro no térreo.",Pintura,baixa,Campo Limpo,370,5
+282,"Por favor, preciso pintar o portão de ferro que enferrujou quanto fica mais ou menos?",Pintura,baixa,Capão Redondo,180,4
+283,"Oi, preciso pintar o portão de ferro que enferrujou é no fim de semana?",Pintura,baixa,Jardim Ângela,350,5
+284,"Por favor, quero pintar a casa inteira por dentro hoje.",Pintura,alta,Capão Redondo,805,4
+285,"Por favor, quero pintar a casa inteira por dentro o quanto antes.",Pintura,alta,Jardim Ângela,880,3
+286,"Oi, quero pintar a casa inteira por dentro.",Pintura,alta,Centro,765,4
+287,"Por favor, quero pintar a casa inteira por dentro alguém pode vir ver?",Pintura,alta,Jardim Ângela,655,5
+288,"Por favor, quero pintar a casa inteira por dentro",Pintura,alta,Capão Redondo,895,4
+289,Quero pintar a casa inteira por dentro hoje.,Pintura,alta,Grajaú,615,5
+290,"Oi, o teto do banheiro está com mofo e manchado.",Pintura,media,Jardim Ângela,590,5
+291,"Bom dia, o teto do banheiro está com mofo e manchado moro no térreo.",Pintura,media,Centro,525,4
+292,Urgente: o teto do banheiro está com mofo e manchado hoje.,Pintura,media,Centro,375,3
+293,"Oi, o teto do banheiro está com mofo e manchado",Pintura,media,Capão Redondo,415,4
+294,"Oi, o teto do banheiro está com mofo e manchado é no fim de semana?",Pintura,media,Capão Redondo,375,5
+295,"Bom dia, o teto do banheiro está com mofo e manchado hoje.",Pintura,media,Campo Limpo,510,4
+296,Preciso passar massa corrida e pintar o quarto alguém pode vir ver?,Pintura,media,Grajaú,635,5
+297,Urgente: preciso passar massa corrida e pintar o quarto hoje.,Pintura,media,Capão Redondo,400,4
+298,"Por favor, preciso passar massa corrida e pintar o quarto o quanto antes.",Pintura,media,Grajaú,380,3
+299,"Por favor, quero pintar a grade da varanda o quanto antes.",Pintura,baixa,Jardim Ângela,340,4
+300,Preciso de ajuda: quero pintar a grade da varanda moro no térreo.,Pintura,baixa,Capão Redondo,160,3
+301,"Olá, quero pintar a grade da varanda alguém pode vir ver?",Pintura,baixa,Grajaú,285,4
+302,"Bom dia, quero pintar a grade da varanda hoje.",Pintura,baixa,Capão Redondo,345,4
+303,Quero pintar a grade da varanda o quanto antes.,Pintura,baixa,Campo Limpo,360,5
+304,"Oi, quero pintar a grade da varanda hoje.",Pintura,baixa,Capão Redondo,155,5
+305,Urgente: preciso pintar a fachada da casa moro no térreo.,Pintura,alta,Jardim São Luís,820,5
+306,"Por favor, preciso pintar a fachada da casa é no fim de semana?",Pintura,alta,Capão Redondo,890,5
+307,"Bom dia, preciso pintar a fachada da casa o quanto antes.",Pintura,alta,Capão Redondo,780,4
+308,"Bom dia, preciso pintar a fachada da casa hoje.",Pintura,alta,Capão Redondo,865,3
+309,"Por favor, comprei móveis pela internet e vieram desmontados.",Montagem de moveis,media,Jardim São Luís,180,5
+310,"Olá, comprei móveis pela internet e vieram desmontados moro no térreo.",Montagem de moveis,media,Campo Limpo,140,5
+311,"Bom dia, comprei móveis pela internet e vieram desmontados é no fim de semana?",Montagem de moveis,media,Jardim São Luís,150,5
+312,Preciso de um montador para mesa e cadeiras hoje.,Montagem de moveis,baixa,Grajaú,85,5
+313,Preciso de um montador para mesa e cadeiras é no fim de semana?,Montagem de moveis,baixa,Centro,100,4
+314,"Bom dia, preciso de um montador para mesa e cadeiras alguém pode vir ver?",Montagem de moveis,baixa,Grajaú,85,4
+315,Quero montar o armário de cozinha que veio nas caixas o quanto antes.,Montagem de moveis,media,Campo Limpo,205,5
+316,Preciso de ajuda: quero montar o armário de cozinha que veio nas caixas o quanto antes.,Montagem de moveis,media,Grajaú,215,4
+317,"Olá, quero montar o armário de cozinha que veio nas caixas alguém pode vir ver?",Montagem de moveis,media,Centro,140,5
+318,Quero montar o armário de cozinha que veio nas caixas,Montagem de moveis,media,Jardim São Luís,135,4
+319,"Oi, quero montar o armário de cozinha que veio nas caixas alguém pode vir ver?",Montagem de moveis,media,Centro,205,5
+320,"Olá, quero montar o armário de cozinha que veio nas caixas",Montagem de moveis,media,Campo Limpo,210,4
+321,Preciso de ajuda: preciso montar a cômoda e o criado-mudo,Montagem de moveis,baixa,Campo Limpo,125,4
+322,"Bom dia, preciso montar a cômoda e o criado-mudo",Montagem de moveis,baixa,Capão Redondo,115,5
+323,"Por favor, preciso montar a cômoda e o criado-mudo é no fim de semana?",Montagem de moveis,baixa,Campo Limpo,90,3
+324,Urgente: quero montar o beliche e a sapateira alguém pode vir ver?,Montagem de moveis,baixa,Jardim São Luís,115,4
+325,Quero montar o beliche e a sapateira o quanto antes.,Montagem de moveis,baixa,Campo Limpo,80,5
+326,"Oi, quero montar o beliche e a sapateira alguém pode vir ver?",Montagem de moveis,baixa,Capão Redondo,105,4
+327,Preciso de ajuda: quero montar o beliche e a sapateira quanto fica mais ou menos?,Montagem de moveis,baixa,Jardim São Luís,80,4
+328,"Oi, preciso de montador de móveis para o quarto inteiro moro no térreo.",Montagem de moveis,alta,Jardim São Luís,225,5
+329,"Por favor, preciso de montador de móveis para o quarto inteiro",Montagem de moveis,alta,Capão Redondo,220,3
+330,Preciso de montador de móveis para o quarto inteiro quanto fica mais ou menos?,Montagem de moveis,alta,Campo Limpo,295,3
+331,"Oi, preciso de montador de móveis para o quarto inteiro",Montagem de moveis,alta,Grajaú,280,5
+332,"Bom dia, quero montar e instalar o painel e o home theater o quanto antes.",Montagem de moveis,media,Jardim São Luís,190,3
+333,Quero montar e instalar o painel e o home theater.,Montagem de moveis,media,Jardim São Luís,145,5
+334,Quero montar e instalar o painel e o home theater quanto fica mais ou menos?,Montagem de moveis,media,Jardim Ângela,145,5
+335,"Por favor, preciso desmontar e montar o guarda-roupa na casa nova alguém pode vir ver?",Montagem de moveis,media,Centro,210,3
+336,"Bom dia, preciso desmontar e montar o guarda-roupa na casa nova moro no térreo.",Montagem de moveis,media,Jardim Ângela,185,4
+337,Urgente: preciso desmontar e montar o guarda-roupa na casa nova.,Montagem de moveis,media,Jardim Ângela,145,5
+338,Preciso desmontar e montar o guarda-roupa na casa nova,Montagem de moveis,media,Grajaú,190,4
+339,"Oi, preciso desmontar e montar o guarda-roupa na casa nova alguém pode vir ver?",Montagem de moveis,media,Grajaú,160,5
+340,Preciso de ajuda: comprei um guarda-roupa e preciso montar é no fim de semana?,Montagem de moveis,media,Centro,165,4
+341,"Oi, comprei um guarda-roupa e preciso montar",Montagem de moveis,media,Jardim São Luís,210,3
+342,"Olá, comprei um guarda-roupa e preciso montar hoje.",Montagem de moveis,media,Campo Limpo,190,5
+343,Urgente: preciso montar uma cama box com cabeceira é no fim de semana?,Montagem de moveis,baixa,Grajaú,125,5
+344,Preciso de ajuda: preciso montar uma cama box com cabeceira moro no térreo.,Montagem de moveis,baixa,Grajaú,85,5
+345,"Bom dia, preciso montar uma cama box com cabeceira é no fim de semana?",Montagem de moveis,baixa,Campo Limpo,95,4
+346,Preciso montar uma cama box com cabeceira,Montagem de moveis,baixa,Jardim São Luís,135,4
+347,Urgente: preciso montar uma cama box com cabeceira moro no térreo.,Montagem de moveis,baixa,Jardim São Luís,100,4
+348,Preciso de ajuda: quero montar o rack e o painel da TV,Montagem de moveis,baixa,Capão Redondo,135,5
+349,"Olá, quero montar o rack e o painel da TV",Montagem de moveis,baixa,Jardim Ângela,100,4
+350,Preciso de ajuda: quero montar o rack e o painel da TV o quanto antes.,Montagem de moveis,baixa,Campo Limpo,90,5
+351,Preciso desmontar os móveis para a mudança quanto fica mais ou menos?,Montagem de moveis,media,Jardim São Luís,175,5
+352,"Bom dia, preciso desmontar os móveis para a mudança alguém pode vir ver?",Montagem de moveis,media,Capão Redondo,165,4
+353,Urgente: preciso desmontar os móveis para a mudança o quanto antes.,Montagem de moveis,media,Centro,145,5
+354,"Oi, preciso desmontar os móveis para a mudança alguém pode vir ver?",Montagem de moveis,media,Grajaú,200,3
+355,"Olá, preciso desmontar os móveis para a mudança alguém pode vir ver?",Montagem de moveis,media,Grajaú,140,4
+356,"Olá, comprei uma estante desmontada na loja hoje.",Montagem de moveis,baixa,Centro,125,5
+357,Urgente: comprei uma estante desmontada na loja moro no térreo.,Montagem de moveis,baixa,Jardim São Luís,120,5
+358,"Por favor, comprei uma estante desmontada na loja",Montagem de moveis,baixa,Jardim Ângela,135,4
+359,"Por favor, preciso montar a cozinha modulada que chegou em caixas moro no térreo.",Montagem de moveis,alta,Campo Limpo,250,4
+360,Urgente: preciso montar a cozinha modulada que chegou em caixas é no fim de semana?,Montagem de moveis,alta,Centro,295,4
+361,Urgente: preciso montar a cozinha modulada que chegou em caixas quanto fica mais ou menos?,Montagem de moveis,alta,Jardim Ângela,220,3
+362,"Bom dia, preciso montar a cozinha modulada que chegou em caixas.",Montagem de moveis,alta,Jardim São Luís,280,5
+363,"Por favor, preciso montar a cozinha modulada que chegou em caixas.",Montagem de moveis,alta,Jardim São Luís,255,4
+364,"Bom dia, quero montar uma escrivaninha e uma cadeira hoje.",Montagem de moveis,baixa,Jardim São Luís,100,3
+365,Urgente: quero montar uma escrivaninha e uma cadeira quanto fica mais ou menos?,Montagem de moveis,baixa,Capão Redondo,95,5
+366,Urgente: quero montar uma escrivaninha e uma cadeira é no fim de semana?,Montagem de moveis,baixa,Centro,125,5
+367,"Bom dia, preciso montar o berço do bebê o quanto antes.",Montagem de moveis,baixa,Centro,105,5
+368,"Olá, preciso montar o berço do bebê o quanto antes.",Montagem de moveis,baixa,Jardim São Luís,145,5
+369,"Bom dia, preciso montar o berço do bebê o quanto antes.",Montagem de moveis,baixa,Campo Limpo,135,5
+370,"Bom dia, preciso montar o berço do bebê moro no térreo.",Montagem de moveis,baixa,Jardim São Luís,85,5
+371,"Olá, preciso montar o berço do bebê alguém pode vir ver?",Montagem de moveis,baixa,Centro,105,5
+372,Preciso montar o berço do bebê hoje.,Montagem de moveis,baixa,Jardim Ângela,110,4
+373,"Por favor, preciso de um marido de aluguel para vários ajustes.",Pequenos reparos,media,Jardim Ângela,115,5
+374,"Bom dia, preciso de um marido de aluguel para vários ajustes quanto fica mais ou menos?",Pequenos reparos,media,Capão Redondo,175,4
+375,"Olá, preciso de um marido de aluguel para vários ajustes alguém pode vir ver?",Pequenos reparos,media,Centro,115,5
+376,"Bom dia, preciso de um marido de aluguel para vários ajustes quanto fica mais ou menos?",Pequenos reparos,media,Centro,135,5
+377,"Olá, preciso de um marido de aluguel para vários ajustes hoje.",Pequenos reparos,media,Centro,135,4
+378,Preciso de ajuda: preciso de um marido de aluguel para vários ajustes moro no térreo.,Pequenos reparos,media,Centro,180,5
+379,Urgente: quero instalar persiana e cortina blackout hoje.,Pequenos reparos,baixa,Jardim Ângela,110,5
+380,"Por favor, quero instalar persiana e cortina blackout o quanto antes.",Pequenos reparos,baixa,Capão Redondo,65,4
+381,Quero instalar persiana e cortina blackout.,Pequenos reparos,baixa,Jardim São Luís,95,3
+382,Urgente: quero instalar persiana e cortina blackout hoje.,Pequenos reparos,baixa,Jardim São Luís,90,4
+383,Preciso pendurar a televisão na parede com suporte é no fim de semana?,Pequenos reparos,baixa,Jardim Ângela,65,4
+384,Urgente: preciso pendurar a televisão na parede com suporte é no fim de semana?,Pequenos reparos,baixa,Capão Redondo,75,4
+385,Urgente: preciso pendurar a televisão na parede com suporte moro no térreo.,Pequenos reparos,baixa,Grajaú,95,4
+386,"Bom dia, preciso pendurar a televisão na parede com suporte é no fim de semana?",Pequenos reparos,baixa,Jardim Ângela,115,3
+387,"Bom dia, quero instalar acessórios no banheiro, como toalheiro e papeleira alguém pode vir ver?",Pequenos reparos,baixa,Centro,95,5
+388,"Oi, quero instalar acessórios no banheiro, como toalheiro e papeleira alguém pode vir ver?",Pequenos reparos,baixa,Grajaú,70,4
+389,"Urgente: quero instalar acessórios no banheiro, como toalheiro e papeleira é no fim de semana?",Pequenos reparos,baixa,Capão Redondo,85,4
+390,"Bom dia, quero instalar acessórios no banheiro, como toalheiro e papeleira é no fim de semana?",Pequenos reparos,baixa,Grajaú,80,4
+391,"Urgente: quero instalar acessórios no banheiro, como toalheiro e papeleira moro no térreo.",Pequenos reparos,baixa,Capão Redondo,115,3
+392,"Bom dia, preciso furar a parede e colocar buchas e ganchos o quanto antes.",Pequenos reparos,baixa,Grajaú,115,5
+393,"Por favor, preciso furar a parede e colocar buchas e ganchos o quanto antes.",Pequenos reparos,baixa,Jardim São Luís,105,5
+394,"Olá, preciso furar a parede e colocar buchas e ganchos é no fim de semana?",Pequenos reparos,baixa,Grajaú,100,5
+395,Preciso de ajuda: preciso furar a parede e colocar buchas e ganchos,Pequenos reparos,baixa,Capão Redondo,85,3
+396,"Olá, quero instalar tela de proteção na janela moro no térreo.",Pequenos reparos,media,Centro,140,5
+397,"Bom dia, quero instalar tela de proteção na janela hoje.",Pequenos reparos,media,Jardim São Luís,170,5
+398,Quero instalar tela de proteção na janela.,Pequenos reparos,media,Jardim Ângela,110,5
+399,Urgente: quero instalar tela de proteção na janela alguém pode vir ver?,Pequenos reparos,media,Capão Redondo,155,3
+400,"Por favor, quero instalar tela de proteção na janela.",Pequenos reparos,media,Capão Redondo,110,5
+401,"Olá, quero instalar tela de proteção na janela alguém pode vir ver?",Pequenos reparos,media,Centro,110,5
+402,"Por favor, o trinco do portão está solto.",Pequenos reparos,baixa,Campo Limpo,100,4
+403,Preciso de ajuda: o trinco do portão está solto o quanto antes.,Pequenos reparos,baixa,Capão Redondo,95,4
+404,"Bom dia, o trinco do portão está solto.",Pequenos reparos,baixa,Capão Redondo,90,4
+405,O trinco do portão está solto moro no térreo.,Pequenos reparos,baixa,Jardim São Luís,105,4
+406,"Bom dia, o trinco do portão está solto é no fim de semana?",Pequenos reparos,baixa,Capão Redondo,90,3
+407,"Bom dia, preciso trocar a maçaneta e o miolo da fechadura é no fim de semana?",Pequenos reparos,baixa,Jardim São Luís,105,5
+408,"Por favor, preciso trocar a maçaneta e o miolo da fechadura o quanto antes.",Pequenos reparos,baixa,Capão Redondo,90,4
+409,"Bom dia, preciso trocar a maçaneta e o miolo da fechadura o quanto antes.",Pequenos reparos,baixa,Grajaú,100,5
+410,Preciso trocar a maçaneta e o miolo da fechadura alguém pode vir ver?,Pequenos reparos,baixa,Campo Limpo,75,3
+411,"Olá, preciso trocar a maçaneta e o miolo da fechadura moro no térreo.",Pequenos reparos,baixa,Campo Limpo,75,5
+412,"Olá, preciso trocar a maçaneta e o miolo da fechadura.",Pequenos reparos,baixa,Capão Redondo,85,4
+413,"Bom dia, preciso instalar uma prateleira na parede moro no térreo.",Pequenos reparos,baixa,Campo Limpo,80,5
+414,"Olá, preciso instalar uma prateleira na parede",Pequenos reparos,baixa,Campo Limpo,70,3
+415,"Bom dia, preciso instalar uma prateleira na parede é no fim de semana?",Pequenos reparos,baixa,Centro,90,5
+416,Quero colocar a cortina e o varão.,Pequenos reparos,baixa,Jardim Ângela,80,5
+417,"Por favor, quero colocar a cortina e o varão moro no térreo.",Pequenos reparos,baixa,Jardim São Luís,115,5
+418,Preciso de ajuda: quero colocar a cortina e o varão quanto fica mais ou menos?,Pequenos reparos,baixa,Grajaú,100,5
+419,Preciso de ajuda: preciso fixar o suporte da TV na parede é no fim de semana?,Pequenos reparos,baixa,Campo Limpo,65,5
+420,"Oi, preciso fixar o suporte da TV na parede.",Pequenos reparos,baixa,Centro,105,5
+421,Preciso de ajuda: preciso fixar o suporte da TV na parede alguém pode vir ver?,Pequenos reparos,baixa,Capão Redondo,95,5
+422,"Por favor, preciso fixar o suporte da TV na parede moro no térreo.",Pequenos reparos,baixa,Centro,85,5
+423,Urgente: preciso fixar o suporte da TV na parede,Pequenos reparos,baixa,Jardim Ângela,65,5
+424,Preciso de ajuda: a fechadura da porta emperrou e preciso trocar.,Pequenos reparos,media,Centro,145,4
+425,A fechadura da porta emperrou e preciso trocar,Pequenos reparos,media,Capão Redondo,165,4
+426,"Oi, a fechadura da porta emperrou e preciso trocar moro no térreo.",Pequenos reparos,media,Centro,175,5
+427,"Bom dia, a fechadura da porta emperrou e preciso trocar alguém pode vir ver?",Pequenos reparos,media,Grajaú,160,3
+428,Preciso de ajuda: a fechadura da porta emperrou e preciso trocar moro no térreo.,Pequenos reparos,media,Jardim São Luís,125,4
+429,"Olá, quero instalar um varal de teto hoje.",Pequenos reparos,baixa,Jardim São Luís,90,4
+430,"Olá, quero instalar um varal de teto.",Pequenos reparos,baixa,Jardim Ângela,95,4
+431,"Bom dia, quero instalar um varal de teto quanto fica mais ou menos?",Pequenos reparos,baixa,Jardim São Luís,95,5
+432,Preciso pendurar quadros e espelho alguém pode vir ver?,Pequenos reparos,baixa,Capão Redondo,100,3
+433,"Por favor, preciso pendurar quadros e espelho alguém pode vir ver?",Pequenos reparos,baixa,Centro,85,3
+434,Urgente: preciso pendurar quadros e espelho hoje.,Pequenos reparos,baixa,Campo Limpo,105,3
+435,"Bom dia, preciso pendurar quadros e espelho quanto fica mais ou menos?",Pequenos reparos,baixa,Campo Limpo,75,5
+436,Urgente: preciso pendurar quadros e espelho,Pequenos reparos,baixa,Jardim Ângela,70,5
+437,Preciso pendurar quadros e espelho é no fim de semana?,Pequenos reparos,baixa,Centro,90,4
+438,Preciso de ajuda: o puxador do armário caiu,Pequenos reparos,baixa,Jardim Ângela,100,4
+439,"Oi, o puxador do armário caiu.",Pequenos reparos,baixa,Centro,70,4
+440,"Por favor, o puxador do armário caiu alguém pode vir ver?",Pequenos reparos,baixa,Jardim Ângela,110,4
+441,"Por favor, quero instalar um olho mágico e uma trava na porta é no fim de semana?",Pequenos reparos,media,Jardim São Luís,110,5
+442,"Por favor, quero instalar um olho mágico e uma trava na porta é no fim de semana?",Pequenos reparos,media,Campo Limpo,115,5
+443,Quero instalar um olho mágico e uma trava na porta moro no térreo.,Pequenos reparos,media,Jardim São Luís,175,4
+444,"Bom dia, quero instalar um olho mágico e uma trava na porta",Pequenos reparos,media,Centro,115,5
+445,Urgente: quero instalar um olho mágico e uma trava na porta moro no térreo.,Pequenos reparos,media,Capão Redondo,145,5
+446,"Por favor, quero instalar um olho mágico e uma trava na porta hoje.",Pequenos reparos,media,Centro,170,4
+447,Preciso de ajuda: preciso de um pedreiro para quebrar uma parede.,Pedreiro,alta,Capão Redondo,1070,3
+448,"Oi, preciso de um pedreiro para quebrar uma parede",Pedreiro,alta,Centro,985,5
+449,"Bom dia, preciso de um pedreiro para quebrar uma parede quanto fica mais ou menos?",Pedreiro,alta,Campo Limpo,1415,5
+450,"Por favor, preciso de um pedreiro para quebrar uma parede.",Pedreiro,alta,Centro,1190,5
+451,A laje está com trinca e infiltração alguém pode vir ver?,Pedreiro,alta,Centro,1305,5
+452,"Bom dia, a laje está com trinca e infiltração",Pedreiro,alta,Centro,1455,4
+453,"Bom dia, a laje está com trinca e infiltração hoje.",Pedreiro,alta,Jardim Ângela,975,3
+454,"Bom dia, a laje está com trinca e infiltração alguém pode vir ver?",Pedreiro,alta,Capão Redondo,1245,5
+455,"Bom dia, quero assentar porcelanato e cerâmica hoje.",Pedreiro,alta,Centro,1475,4
+456,"Oi, quero assentar porcelanato e cerâmica o quanto antes.",Pedreiro,alta,Capão Redondo,1050,4
+457,"Oi, quero assentar porcelanato e cerâmica quanto fica mais ou menos?",Pedreiro,alta,Centro,1055,4
+458,"Oi, quero assentar porcelanato e cerâmica",Pedreiro,alta,Capão Redondo,1005,5
+459,"Bom dia, a calçada e o piso externo estão quebrados é no fim de semana?",Pedreiro,media,Campo Limpo,540,5
+460,"Olá, a calçada e o piso externo estão quebrados hoje.",Pedreiro,media,Campo Limpo,875,5
+461,A calçada e o piso externo estão quebrados.,Pedreiro,media,Jardim São Luís,610,5
+462,"Olá, a calçada e o piso externo estão quebrados.",Pedreiro,media,Centro,625,3
+463,"Por favor, a calçada e o piso externo estão quebrados moro no térreo.",Pedreiro,media,Campo Limpo,625,5
+464,Quero construir uma churrasqueira de alvenaria,Pedreiro,alta,Grajaú,1480,5
+465,"Olá, quero construir uma churrasqueira de alvenaria hoje.",Pedreiro,alta,Grajaú,1495,4
+466,"Olá, quero construir uma churrasqueira de alvenaria hoje.",Pedreiro,alta,Grajaú,1105,5
+467,"Bom dia, quero construir uma churrasqueira de alvenaria",Pedreiro,alta,Campo Limpo,1100,5
+468,"Bom dia, quero construir uma churrasqueira de alvenaria alguém pode vir ver?",Pedreiro,alta,Jardim Ângela,1135,3
+469,"Por favor, quero construir uma churrasqueira de alvenaria hoje.",Pedreiro,alta,Capão Redondo,1020,5
+470,Urgente: preciso subir parede de tijolo e bloco.,Pedreiro,alta,Jardim Ângela,1275,4
+471,"Olá, preciso subir parede de tijolo e bloco.",Pedreiro,alta,Campo Limpo,1110,5
+472,"Bom dia, preciso subir parede de tijolo e bloco o quanto antes.",Pedreiro,alta,Grajaú,1060,5
+473,Preciso de ajuda: preciso subir parede de tijolo e bloco hoje.,Pedreiro,alta,Jardim Ângela,1300,5
+474,"Olá, preciso subir parede de tijolo e bloco o quanto antes.",Pedreiro,alta,Jardim São Luís,1215,5
+475,O piso afundou e está oco.,Pedreiro,media,Jardim Ângela,585,4
+476,"Olá, o piso afundou e está oco hoje.",Pedreiro,media,Centro,640,5
+477,O piso afundou e está oco quanto fica mais ou menos?,Pedreiro,media,Grajaú,600,4
+478,"Oi, o piso afundou e está oco moro no térreo.",Pedreiro,media,Jardim Ângela,610,3
+479,"Por favor, o piso afundou e está oco o quanto antes.",Pedreiro,media,Campo Limpo,795,5
+480,"Bom dia, preciso de massa, cimento e reboco na parede alguém pode vir ver?",Pedreiro,media,Jardim São Luís,805,5
+481,"Bom dia, preciso de massa, cimento e reboco na parede moro no térreo.",Pedreiro,media,Campo Limpo,620,5
+482,"Urgente: preciso de massa, cimento e reboco na parede o quanto antes.",Pedreiro,media,Centro,800,3
+483,"Preciso de ajuda: preciso de massa, cimento e reboco na parede alguém pode vir ver?",Pedreiro,media,Capão Redondo,995,4
+484,"Por favor, preciso de massa, cimento e reboco na parede alguém pode vir ver?",Pedreiro,media,Capão Redondo,875,4
+485,"Oi, apareceu uma rachadura grande na parede é no fim de semana?",Pedreiro,alta,Campo Limpo,1305,5
+486,"Bom dia, apareceu uma rachadura grande na parede é no fim de semana?",Pedreiro,alta,Capão Redondo,1120,5
+487,Preciso de ajuda: apareceu uma rachadura grande na parede é no fim de semana?,Pedreiro,alta,Capão Redondo,1220,5
+488,Preciso trocar o piso da cozinha alguém pode vir ver?,Pedreiro,alta,Capão Redondo,1295,4
+489,"Oi, preciso trocar o piso da cozinha",Pedreiro,alta,Jardim São Luís,1160,4
+490,"Oi, preciso trocar o piso da cozinha.",Pedreiro,alta,Grajaú,1230,4
+491,"Olá, preciso trocar o piso da cozinha.",Pedreiro,alta,Jardim São Luís,1365,5
+492,"Bom dia, preciso trocar o piso da cozinha.",Pedreiro,alta,Capão Redondo,1465,4
+493,Urgente: o azulejo do banheiro está soltando é no fim de semana?,Pedreiro,media,Capão Redondo,580,4
+494,"Olá, o azulejo do banheiro está soltando.",Pedreiro,media,Capão Redondo,545,4
+495,"Bom dia, o azulejo do banheiro está soltando alguém pode vir ver?",Pedreiro,media,Centro,940,4
+496,Preciso refazer o rejunte do box.,Pedreiro,baixa,Jardim São Luís,270,4
+497,"Olá, preciso refazer o rejunte do box",Pedreiro,baixa,Centro,310,4
+498,"Olá, preciso refazer o rejunte do box hoje.",Pedreiro,baixa,Centro,435,4
+499,"Bom dia, preciso refazer o rejunte do box alguém pode vir ver?",Pedreiro,baixa,Jardim São Luís,285,4
+500,"Oi, preciso refazer o rejunte do box",Pedreiro,baixa,Campo Limpo,155,5
+501,"Olá, preciso refazer o rejunte do box",Pedreiro,baixa,Capão Redondo,235,5
+502,"Bom dia, quero levantar um muro no quintal.",Pedreiro,alta,Jardim Ângela,1410,4
+503,Urgente: quero levantar um muro no quintal moro no térreo.,Pedreiro,alta,Capão Redondo,1000,5
+504,Preciso de ajuda: quero levantar um muro no quintal o quanto antes.,Pedreiro,alta,Grajaú,1040,5
+505,"Olá, o reboco da parede está esfarelando é no fim de semana?",Pedreiro,media,Centro,930,5
+506,"Oi, o reboco da parede está esfarelando alguém pode vir ver?",Pedreiro,media,Centro,910,3
+507,"Oi, o reboco da parede está esfarelando é no fim de semana?",Pedreiro,media,Grajaú,975,3
+508,"Olá, o reboco da parede está esfarelando alguém pode vir ver?",Pedreiro,media,Jardim Ângela,500,5
+509,Preciso fazer um contrapiso na lavanderia é no fim de semana?,Pedreiro,media,Campo Limpo,660,4
+510,Preciso de ajuda: preciso fazer um contrapiso na lavanderia moro no térreo.,Pedreiro,media,Campo Limpo,745,5
+511,"Oi, preciso fazer um contrapiso na lavanderia quanto fica mais ou menos?",Pedreiro,media,Jardim São Luís,695,4
+512,"Bom dia, preciso fazer um contrapiso na lavanderia alguém pode vir ver?",Pedreiro,media,Centro,790,3
+513,"Olá, preciso fazer um contrapiso na lavanderia o quanto antes.",Pedreiro,media,Centro,915,4
+514,Urgente: quero fazer uma pequena reforma no banheiro é no fim de semana?,Pedreiro,alta,Jardim Ângela,1390,4
+515,"Bom dia, quero fazer uma pequena reforma no banheiro é no fim de semana?",Pedreiro,alta,Campo Limpo,1110,4
+516,"Olá, quero fazer uma pequena reforma no banheiro hoje.",Pedreiro,alta,Centro,1120,4
+517,"Olá, o móvel de madeira está com cupim",Marceneiro,alta,Campo Limpo,685,4
+518,"Por favor, o móvel de madeira está com cupim.",Marceneiro,alta,Jardim São Luís,590,4
+519,"Oi, o móvel de madeira está com cupim hoje.",Marceneiro,alta,Capão Redondo,780,3
+520,A porta de madeira está arrastando e precisa de ajuste o quanto antes.,Marceneiro,baixa,Jardim São Luís,305,4
+521,"Oi, a porta de madeira está arrastando e precisa de ajuste",Marceneiro,baixa,Jardim Ângela,265,5
+522,"Bom dia, a porta de madeira está arrastando e precisa de ajuste é no fim de semana?",Marceneiro,baixa,Capão Redondo,255,5
+523,"Oi, preciso de um marceneiro para consertar a cadeira alguém pode vir ver?",Marceneiro,baixa,Capão Redondo,165,4
+524,Urgente: preciso de um marceneiro para consertar a cadeira é no fim de semana?,Marceneiro,baixa,Grajaú,140,4
+525,Preciso de ajuda: preciso de um marceneiro para consertar a cadeira hoje.,Marceneiro,baixa,Jardim São Luís,165,5
+526,Preciso de ajuda: preciso de um marceneiro para consertar a cadeira é no fim de semana?,Marceneiro,baixa,Jardim Ângela,280,5
+527,"Bom dia, preciso de um marceneiro para consertar a cadeira alguém pode vir ver?",Marceneiro,baixa,Jardim São Luís,300,5
+528,Preciso de um marceneiro para consertar a cadeira hoje.,Marceneiro,baixa,Grajaú,205,5
+529,"Oi, o tampo da mesa de madeira está rachado hoje.",Marceneiro,media,Jardim Ângela,540,3
+530,"Olá, o tampo da mesa de madeira está rachado hoje.",Marceneiro,media,Centro,495,4
+531,"Por favor, o tampo da mesa de madeira está rachado moro no térreo.",Marceneiro,media,Capão Redondo,280,5
+532,"Olá, o tampo da mesa de madeira está rachado o quanto antes.",Marceneiro,media,Jardim Ângela,535,5
+533,"Bom dia, o tampo da mesa de madeira está rachado o quanto antes.",Marceneiro,media,Grajaú,535,4
+534,Preciso de ajuda: quero um painel de madeira ripado.,Marceneiro,alta,Campo Limpo,635,4
+535,"Olá, quero um painel de madeira ripado moro no térreo.",Marceneiro,alta,Centro,575,4
+536,"Por favor, quero um painel de madeira ripado o quanto antes.",Marceneiro,alta,Jardim São Luís,580,5
+537,Urgente: quero um painel de madeira ripado alguém pode vir ver?,Marceneiro,alta,Grajaú,650,5
+538,Urgente: quero um painel de madeira ripado alguém pode vir ver?,Marceneiro,alta,Jardim Ângela,600,3
+539,"Por favor, a madeira do armário inchou com a umidade.",Marceneiro,media,Grajaú,430,5
+540,A madeira do armário inchou com a umidade é no fim de semana?,Marceneiro,media,Jardim Ângela,465,5
+541,"Oi, a madeira do armário inchou com a umidade.",Marceneiro,media,Capão Redondo,405,5
+542,Urgente: a madeira do armário inchou com a umidade alguém pode vir ver?,Marceneiro,media,Jardim Ângela,380,4
+543,Preciso de ajuda: a madeira do armário inchou com a umidade o quanto antes.,Marceneiro,media,Jardim Ângela,380,4
+544,"Bom dia, quero uma bancada e um nicho de madeira sob medida é no fim de semana?",Marceneiro,alta,Jardim Ângela,520,5
+545,"Olá, quero uma bancada e um nicho de madeira sob medida o quanto antes.",Marceneiro,alta,Jardim São Luís,590,5
+546,"Olá, quero uma bancada e um nicho de madeira sob medida é no fim de semana?",Marceneiro,alta,Capão Redondo,560,4
+547,"Por favor, quero uma bancada e um nicho de madeira sob medida hoje.",Marceneiro,alta,Campo Limpo,675,5
+548,"Por favor, quero uma bancada e um nicho de madeira sob medida moro no térreo.",Marceneiro,alta,Capão Redondo,765,4
+549,"Bom dia, o rodapé e o batente de madeira estão soltos hoje.",Marceneiro,baixa,Centro,190,5
+550,"Oi, o rodapé e o batente de madeira estão soltos alguém pode vir ver?",Marceneiro,baixa,Jardim Ângela,290,5
+551,Preciso de ajuda: o rodapé e o batente de madeira estão soltos alguém pode vir ver?,Marceneiro,baixa,Jardim Ângela,220,5
+552,"Por favor, o rodapé e o batente de madeira estão soltos quanto fica mais ou menos?",Marceneiro,baixa,Jardim Ângela,285,5
+553,"Oi, a porta do quarto empenou e não fecha é no fim de semana?",Marceneiro,media,Jardim Ângela,510,3
+554,"Por favor, a porta do quarto empenou e não fecha hoje.",Marceneiro,media,Jardim Ângela,445,5
+555,A porta do quarto empenou e não fecha,Marceneiro,media,Grajaú,320,5
+556,"Oi, a porta do quarto empenou e não fecha.",Marceneiro,media,Campo Limpo,360,5
+557,A gaveta da cômoda saiu do trilho alguém pode vir ver?,Marceneiro,baixa,Jardim Ângela,120,3
+558,"Por favor, a gaveta da cômoda saiu do trilho o quanto antes.",Marceneiro,baixa,Jardim São Luís,200,4
+559,Preciso de ajuda: a gaveta da cômoda saiu do trilho quanto fica mais ou menos?,Marceneiro,baixa,Jardim Ângela,225,4
+560,Urgente: a gaveta da cômoda saiu do trilho quanto fica mais ou menos?,Marceneiro,baixa,Capão Redondo,305,3
+561,Urgente: a gaveta da cômoda saiu do trilho.,Marceneiro,baixa,Grajaú,195,4
+562,Urgente: a dobradiça do armário quebrou é no fim de semana?,Marceneiro,baixa,Centro,250,4
+563,Urgente: a dobradiça do armário quebrou,Marceneiro,baixa,Campo Limpo,105,5
+564,A dobradiça do armário quebrou quanto fica mais ou menos?,Marceneiro,baixa,Jardim Ângela,175,4
+565,A dobradiça do armário quebrou é no fim de semana?,Marceneiro,baixa,Grajaú,215,4
+566,Urgente: a dobradiça do armário quebrou,Marceneiro,baixa,Jardim Ângela,205,5
+567,"Bom dia, o pé da mesa de madeira está bambo o quanto antes.",Marceneiro,baixa,Centro,120,4
+568,Preciso de ajuda: o pé da mesa de madeira está bambo.,Marceneiro,baixa,Jardim Ângela,160,5
+569,O pé da mesa de madeira está bambo o quanto antes.,Marceneiro,baixa,Capão Redondo,145,4
+570,"Bom dia, o pé da mesa de madeira está bambo o quanto antes.",Marceneiro,baixa,Jardim Ângela,200,5
+571,"Por favor, o pé da mesa de madeira está bambo",Marceneiro,baixa,Jardim Ângela,110,5
+572,"Oi, quero uma prateleira de madeira sob medida é no fim de semana?",Marceneiro,media,Jardim Ângela,330,5
+573,"Bom dia, quero uma prateleira de madeira sob medida moro no térreo.",Marceneiro,media,Jardim São Luís,425,5
+574,"Oi, quero uma prateleira de madeira sob medida",Marceneiro,media,Jardim Ângela,425,5
+575,Urgente: quero uma prateleira de madeira sob medida hoje.,Marceneiro,media,Campo Limpo,480,4
+576,"Olá, quero uma prateleira de madeira sob medida alguém pode vir ver?",Marceneiro,media,Centro,335,4
+577,Urgente: o guarda-roupa de madeira está com a porta caída quanto fica mais ou menos?,Marceneiro,media,Centro,530,4
+578,"Por favor, o guarda-roupa de madeira está com a porta caída hoje.",Marceneiro,media,Campo Limpo,300,4
+579,"Oi, o guarda-roupa de madeira está com a porta caída hoje.",Marceneiro,media,Jardim São Luís,415,4
+580,"Bom dia, preciso consertar o cupim no batente da porta alguém pode vir ver?",Marceneiro,alta,Capão Redondo,625,5
+581,"Olá, preciso consertar o cupim no batente da porta quanto fica mais ou menos?",Marceneiro,alta,Campo Limpo,525,3
+582,"Olá, preciso consertar o cupim no batente da porta alguém pode vir ver?",Marceneiro,alta,Capão Redondo,755,4
+583,Urgente: preciso consertar o cupim no batente da porta alguém pode vir ver?,Marceneiro,alta,Capão Redondo,715,5
+584,"Oi, preciso consertar o cupim no batente da porta alguém pode vir ver?",Marceneiro,alta,Capão Redondo,545,5
+585,"Bom dia, quero um móvel sob medida para a lavanderia.",Marceneiro,alta,Campo Limpo,740,5
+586,"Bom dia, quero um móvel sob medida para a lavanderia",Marceneiro,alta,Capão Redondo,660,3
+587,"Bom dia, quero um móvel sob medida para a lavanderia.",Marceneiro,alta,Grajaú,645,4
+588,Urgente: quero um móvel sob medida para a lavanderia,Marceneiro,alta,Capão Redondo,595,5
+589,"Bom dia, quero um móvel sob medida para a lavanderia hoje.",Marceneiro,alta,Campo Limpo,620,5
+590,Urgente: quero um móvel sob medida para a lavanderia é no fim de semana?,Marceneiro,alta,Centro,740,3
+591,Preciso de ajuda: o carro está fazendo barulho na suspensão o quanto antes.,Mecanico,media,Grajaú,305,5
+592,Preciso de ajuda: o carro está fazendo barulho na suspensão o quanto antes.,Mecanico,media,Centro,365,5
+593,"Bom dia, o carro está fazendo barulho na suspensão hoje.",Mecanico,media,Centro,275,5
+594,Urgente: o carro está fazendo barulho na suspensão quanto fica mais ou menos?,Mecanico,media,Jardim Ângela,340,5
+595,"Bom dia, o carro está fazendo barulho na suspensão alguém pode vir ver?",Mecanico,media,Jardim São Luís,350,4
+596,"Por favor, o carro está fazendo barulho na suspensão é no fim de semana?",Mecanico,media,Campo Limpo,275,5
+597,"Bom dia, a moto não dá partida moro no térreo.",Mecanico,media,Grajaú,230,4
+598,"Oi, a moto não dá partida é no fim de semana?",Mecanico,media,Capão Redondo,270,5
+599,Preciso de ajuda: a moto não dá partida é no fim de semana?,Mecanico,media,Campo Limpo,390,4
+600,"Por favor, a moto não dá partida quanto fica mais ou menos?",Mecanico,media,Jardim São Luís,390,5
+601,A luz de óleo e de injeção acendeu no painel moro no térreo.,Mecanico,media,Capão Redondo,330,5
+602,"Oi, a luz de óleo e de injeção acendeu no painel alguém pode vir ver?",Mecanico,media,Jardim São Luís,415,5
+603,"Oi, a luz de óleo e de injeção acendeu no painel moro no térreo.",Mecanico,media,Grajaú,375,5
+604,"Olá, a luz de óleo e de injeção acendeu no painel hoje.",Mecanico,media,Jardim Ângela,385,5
+605,Preciso de ajuda: a luz de óleo e de injeção acendeu no painel moro no térreo.,Mecanico,media,Capão Redondo,350,5
+606,"Bom dia, o carro morreu e preciso de uma chupeta na bateria",Mecanico,baixa,Centro,130,4
+607,"Olá, o carro morreu e preciso de uma chupeta na bateria quanto fica mais ou menos?",Mecanico,baixa,Jardim Ângela,185,4
+608,"Por favor, o carro morreu e preciso de uma chupeta na bateria moro no térreo.",Mecanico,baixa,Campo Limpo,220,4
+609,"Olá, o carro morreu e preciso de uma chupeta na bateria.",Mecanico,baixa,Jardim Ângela,190,4
+610,Urgente: o carro está saindo fumaça do escapamento,Mecanico,alta,Jardim Ângela,550,4
+611,Preciso de ajuda: o carro está saindo fumaça do escapamento quanto fica mais ou menos?,Mecanico,alta,Jardim São Luís,530,5
+612,Preciso de ajuda: o carro está saindo fumaça do escapamento quanto fica mais ou menos?,Mecanico,alta,Jardim São Luís,465,4
+613,Urgente: o carro está saindo fumaça do escapamento moro no térreo.,Mecanico,alta,Campo Limpo,485,4
+614,"Olá, o carro está saindo fumaça do escapamento moro no térreo.",Mecanico,alta,Jardim São Luís,540,4
+615,Preciso de ajuda: a embreagem está dura e patinando quanto fica mais ou menos?,Mecanico,alta,Centro,525,5
+616,"Por favor, a embreagem está dura e patinando",Mecanico,alta,Capão Redondo,580,4
+617,"Por favor, a embreagem está dura e patinando",Mecanico,alta,Jardim Ângela,570,5
+618,"Por favor, o carro está puxando para o lado e o volante treme o quanto antes.",Mecanico,media,Campo Limpo,230,5
+619,"Oi, o carro está puxando para o lado e o volante treme quanto fica mais ou menos?",Mecanico,media,Campo Limpo,285,5
+620,"Bom dia, o carro está puxando para o lado e o volante treme",Mecanico,media,Capão Redondo,225,4
+621,"Olá, o carro está puxando para o lado e o volante treme quanto fica mais ou menos?",Mecanico,media,Jardim São Luís,335,5
+622,Urgente: preciso trocar os pneus e fazer alinhamento.,Mecanico,media,Centro,230,3
+623,Urgente: preciso trocar os pneus e fazer alinhamento hoje.,Mecanico,media,Jardim São Luís,335,4
+624,Preciso trocar os pneus e fazer alinhamento moro no térreo.,Mecanico,media,Jardim Ângela,230,3
+625,O carro não pega de manhã moro no térreo.,Mecanico,media,Jardim São Luís,235,5
+626,"Oi, o carro não pega de manhã moro no térreo.",Mecanico,media,Grajaú,360,5
+627,O carro não pega de manhã,Mecanico,media,Capão Redondo,410,5
+628,"Olá, o carro não pega de manhã o quanto antes.",Mecanico,media,Jardim Ângela,385,4
+629,A bateria do carro arriou hoje.,Mecanico,baixa,Grajaú,150,4
+630,A bateria do carro arriou o quanto antes.,Mecanico,baixa,Capão Redondo,220,4
+631,"Olá, a bateria do carro arriou moro no térreo.",Mecanico,baixa,Jardim São Luís,85,5
+632,"Por favor, a bateria do carro arriou alguém pode vir ver?",Mecanico,baixa,Capão Redondo,155,3
+633,"Oi, a bateria do carro arriou quanto fica mais ou menos?",Mecanico,baixa,Jardim Ângela,160,5
+634,"Por favor, preciso trocar o óleo da moto quanto fica mais ou menos?",Mecanico,baixa,Jardim Ângela,110,5
+635,"Olá, preciso trocar o óleo da moto o quanto antes.",Mecanico,baixa,Capão Redondo,105,5
+636,"Oi, preciso trocar o óleo da moto",Mecanico,baixa,Capão Redondo,110,3
+637,"Bom dia, preciso trocar o óleo da moto moro no térreo.",Mecanico,baixa,Jardim São Luís,145,5
+638,Preciso de ajuda: preciso trocar o óleo da moto moro no térreo.,Mecanico,baixa,Campo Limpo,195,3
+639,"Oi, o freio do carro está fazendo barulho quanto fica mais ou menos?",Mecanico,media,Centro,215,5
+640,"Oi, o freio do carro está fazendo barulho alguém pode vir ver?",Mecanico,media,Capão Redondo,320,3
+641,"Olá, o freio do carro está fazendo barulho alguém pode vir ver?",Mecanico,media,Centro,380,5
+642,"Oi, o freio do carro está fazendo barulho hoje.",Mecanico,media,Grajaú,285,5
+643,Preciso de ajuda: o freio do carro está fazendo barulho.,Mecanico,media,Campo Limpo,230,4
+644,O freio do carro está fazendo barulho quanto fica mais ou menos?,Mecanico,media,Campo Limpo,300,3
+645,"Por favor, o pneu furou e não tenho estepe hoje.",Mecanico,baixa,Campo Limpo,110,5
+646,Urgente: o pneu furou e não tenho estepe é no fim de semana?,Mecanico,baixa,Jardim São Luís,120,4
+647,"Oi, o pneu furou e não tenho estepe",Mecanico,baixa,Grajaú,165,5
+648,"Olá, o pneu furou e não tenho estepe hoje.",Mecanico,baixa,Capão Redondo,130,4
+649,Preciso de ajuda: o pneu furou e não tenho estepe.,Mecanico,baixa,Jardim São Luís,155,5
+650,O pneu furou e não tenho estepe o quanto antes.,Mecanico,baixa,Centro,215,5
+651,"Olá, a moto está falhando e morrendo no meio da rua alguém pode vir ver?",Mecanico,media,Grajaú,415,4
+652,"Oi, a moto está falhando e morrendo no meio da rua é no fim de semana?",Mecanico,media,Jardim São Luís,260,5
+653,Preciso de ajuda: a moto está falhando e morrendo no meio da rua moro no térreo.,Mecanico,media,Jardim Ângela,215,4
+654,"Oi, a moto está falhando e morrendo no meio da rua quanto fica mais ou menos?",Mecanico,media,Jardim Ângela,220,5
+655,"Olá, a moto está falhando e morrendo no meio da rua hoje.",Mecanico,media,Jardim São Luís,360,3
+656,"Por favor, a moto está falhando e morrendo no meio da rua",Mecanico,media,Jardim Ângela,350,3
+657,Urgente: preciso de uma revisão básica no carro,Mecanico,media,Campo Limpo,250,4
+658,"Oi, preciso de uma revisão básica no carro o quanto antes.",Mecanico,media,Centro,365,4
+659,Preciso de uma revisão básica no carro,Mecanico,media,Capão Redondo,340,3
+660,Urgente: preciso de uma revisão básica no carro hoje.,Mecanico,media,Campo Limpo,410,3
+661,"Por favor, preciso de uma revisão básica no carro",Mecanico,media,Jardim São Luís,365,4
+662,Urgente: preciso de uma revisão básica no carro,Mecanico,media,Centro,235,3
+663,"Bom dia, o motor do carro está esquentando demais hoje.",Mecanico,alta,Capão Redondo,410,4
+664,"Olá, o motor do carro está esquentando demais é no fim de semana?",Mecanico,alta,Jardim Ângela,560,5
+665,"Bom dia, o motor do carro está esquentando demais hoje.",Mecanico,alta,Grajaú,580,3
+666,"Por favor, o motor do carro está esquentando demais",Mecanico,alta,Jardim São Luís,515,5
+667,"Bom dia, o motor do carro está esquentando demais",Mecanico,alta,Jardim São Luís,440,4
+668,"Olá, o motor do carro está esquentando demais",Mecanico,alta,Jardim São Luís,410,5
